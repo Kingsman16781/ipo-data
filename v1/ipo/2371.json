@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2371,
   "name": "Johnsoncab Electricals",
   "companyName": "Johnsoncab Electricals Ltd.",
@@ -183,7 +183,6 @@
   },
   "subscription": {
     "total": 23.82,
-    "asOf": "2026-11-03T23:25:03+05:30",
     "byDay": [
       {
         "date": "2026-10-30",
@@ -197,7 +196,35 @@
         "date": "2026-11-03",
         "sub": 23.82
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 2462,
+          "reserved": 148,
+          "times": 16.64
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 1848,
+          "reserved": 74,
+          "times": 24.97
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 13987,
+          "reserved": 778,
+          "times": 17.98
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 18348,
+      "asOf": "2026-11-03T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 238.5,

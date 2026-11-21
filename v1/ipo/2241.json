@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2241,
   "name": "HGS (India)",
   "companyName": "HGS (India) Ltd.",
@@ -166,7 +166,6 @@
   },
   "subscription": {
     "total": 248.58,
-    "asOf": "2026-11-03T23:25:04+05:30",
     "byDay": [
       {
         "date": "2026-10-30",
@@ -180,7 +179,35 @@
         "date": "2026-11-03",
         "sub": 248.58
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 15675,
+          "reserved": 76,
+          "times": 206.25
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 11018,
+          "reserved": 39,
+          "times": 282.51
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 94286,
+          "reserved": 400,
+          "times": 235.72
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 121074,
+      "asOf": "2026-11-03T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 160,

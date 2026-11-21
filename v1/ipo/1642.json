@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1642,
   "name": "SFC Environmental Technologies",
   "companyName": "SFC Environmental Technologies Ltd.",
@@ -224,7 +224,6 @@
   },
   "subscription": {
     "total": 9.47,
-    "asOf": "2026-10-29T23:25:06+05:30",
     "byDay": [
       {
         "date": "2026-10-27",
@@ -238,7 +237,35 @@
         "date": "2026-10-29",
         "sub": 9.47
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 9327,
+          "reserved": 3211,
+          "times": 2.9
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 14855,
+          "reserved": 1605,
+          "times": 9.26
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 263769,
+          "reserved": 157330,
+          "times": 1.68
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 289317,
+      "asOf": "2026-10-29T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 355.1,

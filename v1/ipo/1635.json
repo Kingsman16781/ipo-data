@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1635,
   "name": "EAAA India Alternatives",
   "companyName": "EAAA India Alternatives Ltd.",
@@ -196,7 +196,6 @@
   },
   "subscription": {
     "total": 5.51,
-    "asOf": "2026-10-28T23:25:06+05:30",
     "byDay": [
       {
         "date": "2026-10-26",
@@ -210,7 +209,35 @@
         "date": "2026-10-28",
         "sub": 5.51
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 4659,
+          "reserved": 5720,
+          "times": 0.81
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 4229,
+          "reserved": 2860,
+          "times": 1.48
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 87199,
+          "reserved": 280280,
+          "times": 0.31
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 96120,
+      "asOf": "2026-10-28T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 1675.5,

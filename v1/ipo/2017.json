@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2017,
   "name": "Ajwa Projects",
   "companyName": "Ajwa Projects Ltd.",
@@ -176,7 +176,6 @@
   },
   "subscription": {
     "total": 1.12,
-    "asOf": "2026-10-30T23:25:05+05:30",
     "byDay": [
       {
         "date": "2026-10-28",
@@ -190,7 +189,21 @@
         "date": "2026-10-30",
         "sub": 1.12
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 1429,
+          "reserved": 742,
+          "times": 1.93
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 1547,
+      "asOf": "2026-10-30T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 203,

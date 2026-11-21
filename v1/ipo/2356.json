@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2356,
   "name": "Wiscon Industries",
   "companyName": "Wiscon Industries Ltd.",
@@ -89,7 +89,34 @@
   },
   "subscription": {
     "total": 1.17,
-    "asOf": "2026-10-29T23:25:05+05:30"
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 27,
+          "reserved": 286,
+          "times": 0.09
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 60,
+          "reserved": 143,
+          "times": 0.42
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 984,
+          "reserved": 1482,
+          "times": 0.66
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 1077,
+      "asOf": "2026-10-29T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 204,

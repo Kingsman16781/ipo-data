@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2393,
   "name": "Carver Roboweld",
   "companyName": "Carver Roboweld Ltd.",
@@ -145,13 +145,40 @@
   },
   "subscription": {
     "total": 25.8,
-    "asOf": "2026-10-30T23:25:04+05:30",
     "byDay": [
       {
         "date": "2026-10-30",
         "sub": 25.8
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 1232,
+          "reserved": 71,
+          "times": 17.35
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 919,
+          "reserved": 36,
+          "times": 25.53
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 7074,
+          "reserved": 369,
+          "times": 19.17
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 9241,
+      "asOf": "2026-10-30T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 90,

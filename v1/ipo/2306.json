@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2306,
   "name": "Jio Platforms",
   "companyName": "Jio Platforms Ltd.",
@@ -313,7 +313,6 @@
   },
   "subscription": {
     "total": 21.36,
-    "asOf": "2026-10-24T00:58:42+05:30",
     "byDay": [
       {
         "date": "2026-10-21",
@@ -327,7 +326,45 @@
         "date": "2026-10-23",
         "sub": 21.36
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 368978,
+          "reserved": 134980,
+          "times": 2.73
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 597798,
+          "reserved": 67490,
+          "times": 8.86
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 10063797,
+          "reserved": 7086444,
+          "times": 1.42
+        },
+        {
+          "key": "employee",
+          "label": "Employee",
+          "applied": 216851
+        },
+        {
+          "key": "shareholder",
+          "label": "Shareholder",
+          "applied": 2158370
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 13405794,
+      "asOf": "2026-10-23T21:00:00+05:30"
+    }
   },
   "listing": {
     "price": 1358,

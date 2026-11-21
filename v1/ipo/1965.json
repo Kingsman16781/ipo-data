@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1965,
   "name": "Maxwell Engineering Solutions",
   "companyName": "Maxwell Engineering Solutions Ltd.",
@@ -192,7 +192,6 @@
   },
   "subscription": {
     "total": 536.8,
-    "asOf": "2026-11-03T23:25:04+05:30",
     "byDay": [
       {
         "date": "2026-10-30",
@@ -206,7 +205,35 @@
         "date": "2026-11-03",
         "sub": 536.8
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 53506,
+          "reserved": 144,
+          "times": 371.57
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 35825,
+          "reserved": 72,
+          "times": 497.57
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 417069,
+          "reserved": 750,
+          "times": 556.09
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 506578,
+      "asOf": "2026-11-03T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 300.2,

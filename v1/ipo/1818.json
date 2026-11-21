@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1818,
   "name": "Watrana Rentals",
   "companyName": "Watrana Rentals Ltd.",
@@ -73,7 +73,7 @@
     "high": 67,
     "estListing": 310,
     "estProfitPerLot": 39000,
-    "updatedAt": "2026-11-21T20:02:00+05:30",
+    "updatedAt": "2026-11-21T21:37:00+05:30",
     "trend": {
       "direction": "Volatile",
       "first": 16,
@@ -166,23 +166,92 @@
         "estListing": 310,
         "estProfitPerLot": 39000,
         "sauda": "29600",
-        "updatedAt": "2026-11-21T21:37:00+05:30"
+        "updatedAt": "2026-11-21T23:37:00+05:30"
       }
     ]
   },
   "subscription": {
-    "total": 3.78,
-    "asOf": "2026-11-19T23:25:03+05:30",
+    "total": 11.98,
+    "asOf": "2026-11-20T17:56:00+05:30",
+    "categories": [
+      {
+        "key": "qib",
+        "times": 0,
+        "offered": 936000
+      },
+      {
+        "key": "nii",
+        "times": 20,
+        "offered": 698400,
+        "bid": 13969800,
+        "amountCr": 342.26
+      },
+      {
+        "key": "bNii",
+        "times": 23.39,
+        "offered": 465600,
+        "bid": 10890600,
+        "amountCr": 266.82
+      },
+      {
+        "key": "sNii",
+        "times": 13.23,
+        "offered": 232800,
+        "bid": 3079200,
+        "amountCr": 75.44
+      },
+      {
+        "key": "retail",
+        "times": 15.42,
+        "offered": 1629600,
+        "bid": 25120800,
+        "amountCr": 615.46
+      }
+    ],
     "byDay": [
       {
         "date": "2026-11-19",
-        "sub": 3.78
+        "sub": 3.78,
+        "qib": 0,
+        "nii": 5.67,
+        "retail": 5.14
       },
       {
         "date": "2026-11-20",
-        "sub": 11.98
+        "sub": 11.98,
+        "qib": 0,
+        "nii": 20,
+        "retail": 15.42
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 2518,
+          "reserved": 259,
+          "times": 9.72
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 1614,
+          "reserved": 129,
+          "times": 12.51
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 20937,
+          "reserved": 1358,
+          "times": 15.42
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 25069,
+      "asOf": "2026-11-20T17:55:00+05:30"
+    }
   },
   "listing": {
     "nseSymbol": "WATRANA"
@@ -504,7 +573,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-    "updated": "Nov 21st 2026 09:37 PM",
-    "gmpUpdatedAt": "2026-11-21T20:02:00+05:30"
+    "updated": "Nov 21st 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-21T21:37:00+05:30"
   }
 }

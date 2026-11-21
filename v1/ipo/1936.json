@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1936,
   "name": "Bombay Coated and Special Steels",
   "companyName": "Bombay Coated & Special Steels Ltd.",
@@ -223,7 +223,6 @@
   },
   "subscription": {
     "total": 63.89,
-    "asOf": "2026-11-02T23:25:06+05:30",
     "byDay": [
       {
         "date": "2026-10-29",
@@ -237,7 +236,35 @@
         "date": "2026-11-02",
         "sub": 63.89
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 34577,
+          "reserved": 876,
+          "times": 39.47
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 48189,
+          "reserved": 438,
+          "times": 110.02
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 1283924,
+          "reserved": 42931,
+          "times": 29.91
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 1374217,
+      "asOf": "2026-11-02T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 91,

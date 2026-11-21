@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2067,
   "name": "Crystal Crop Protection",
   "companyName": "Crystal Crop Protection Ltd.",
@@ -79,7 +79,7 @@
     "high": 40,
     "estListing": 286.5,
     "estProfitPerLot": 797.5,
-    "updatedAt": "2026-11-21T20:02:00+05:30",
+    "updatedAt": "2026-11-21T21:37:00+05:30",
     "trend": {
       "direction": "Downward",
       "first": 40,
@@ -173,27 +173,113 @@
         "estListing": 286.5,
         "estProfitPerLot": 797.5,
         "sauda": "600",
-        "updatedAt": "2026-11-21T21:37:00+05:30"
+        "updatedAt": "2026-11-21T23:37:00+05:30"
       }
     ]
   },
   "subscription": {
-    "total": 1.48,
-    "asOf": "2026-11-18T23:25:02+05:30",
+    "total": 17.68,
+    "asOf": "2026-11-20T17:56:00+05:30",
+    "categories": [
+      {
+        "key": "qib",
+        "times": 15.81,
+        "offered": 3332473,
+        "bid": 52689065,
+        "amountCr": 1433.14
+      },
+      {
+        "key": "nii",
+        "times": 39.16,
+        "offered": 2499354,
+        "bid": 97880860,
+        "amountCr": 2662.36
+      },
+      {
+        "key": "bNii",
+        "times": 45.19,
+        "offered": 1666236,
+        "bid": 75293735,
+        "amountCr": 2047.99
+      },
+      {
+        "key": "sNii",
+        "times": 27.11,
+        "offered": 833118,
+        "bid": 22587125,
+        "amountCr": 614.37
+      },
+      {
+        "key": "retail",
+        "times": 9.71,
+        "offered": 5831827,
+        "bid": 56598135,
+        "amountCr": 1539.47
+      },
+      {
+        "key": "employee",
+        "times": 8.67,
+        "offered": 101215,
+        "bid": 877195,
+        "amountCr": 23.86
+      }
+    ],
     "byDay": [
       {
         "date": "2026-11-18",
-        "sub": 1.48
+        "sub": 1.48,
+        "qib": 2.11,
+        "nii": 0.79,
+        "retail": 1.38
       },
       {
         "date": "2026-11-19",
-        "sub": 3.08
+        "sub": 3.08,
+        "qib": 2.23,
+        "nii": 3.58,
+        "retail": 3.31
       },
       {
         "date": "2026-11-20",
-        "sub": 17.68
+        "sub": 17.68,
+        "qib": 15.81,
+        "nii": 39.16,
+        "retail": 9.71
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 19637,
+          "reserved": 2164,
+          "times": 9.07
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 28325,
+          "reserved": 1082,
+          "times": 26.18
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 843861,
+          "reserved": 106033,
+          "times": 7.96
+        },
+        {
+          "key": "employee",
+          "label": "Employee",
+          "applied": 9261
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 901314,
+      "asOf": "2026-11-20T17:57:00+05:30"
+    }
   },
   "listing": {
     "nseSymbol": "CRYSTALCP"
@@ -538,7 +624,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-    "updated": "Nov 21st 2026 09:37 PM",
-    "gmpUpdatedAt": "2026-11-21T20:02:00+05:30"
+    "updated": "Nov 21st 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-21T21:37:00+05:30"
   }
 }

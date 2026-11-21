@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1728,
   "name": "Paras Healthcare",
   "companyName": "Paras Healthcare Ltd.",
@@ -232,7 +232,6 @@
   },
   "subscription": {
     "total": 2.34,
-    "asOf": "2026-10-24T00:58:43+05:30",
     "byDay": [
       {
         "date": "2026-10-21",
@@ -246,7 +245,35 @@
         "date": "2026-10-23",
         "sub": 2.34
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 723,
+          "reserved": 7117,
+          "times": 0.1
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 2526,
+          "reserved": 3558,
+          "times": 0.71
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 149412,
+          "reserved": 99636,
+          "times": 1.5
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 152684,
+      "asOf": "2026-10-23T19:30:00+05:30"
+    }
   },
   "listing": {
     "price": 720,

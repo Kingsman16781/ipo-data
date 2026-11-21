@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2288,
   "name": "M.K.Sons Fine Jewels",
   "companyName": "M.K.Sons Fine Jewels Ltd.",
@@ -206,7 +206,6 @@
   },
   "subscription": {
     "total": 5.09,
-    "asOf": "2026-10-30T23:25:05+05:30",
     "byDay": [
       {
         "date": "2026-10-28",
@@ -220,7 +219,35 @@
         "date": "2026-10-30",
         "sub": 5.09
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 4182,
+          "reserved": 1334,
+          "times": 3.13
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 7617,
+          "reserved": 667,
+          "times": 11.42
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 172243,
+          "reserved": 65385,
+          "times": 2.63
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 184258,
+      "asOf": "2026-10-30T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 171,

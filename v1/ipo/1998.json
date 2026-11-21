@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1998,
   "name": "Vectras Enprocon",
   "companyName": "Vectras Enprocon Ltd.",
@@ -89,7 +89,34 @@
   },
   "subscription": {
     "total": 4.2,
-    "asOf": "2026-11-03T23:25:04+05:30"
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 375,
+          "reserved": 133,
+          "times": 2.82
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 335,
+          "reserved": 67,
+          "times": 5.0
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 3118,
+          "reserved": 700,
+          "times": 4.45
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 3846,
+      "asOf": "2026-11-03T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 106,

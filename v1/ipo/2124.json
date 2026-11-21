@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2124,
   "name": "Bonfiglioli Transmissions",
   "companyName": "Bonfiglioli Transmissions Ltd.",
@@ -122,7 +122,39 @@
   },
   "subscription": {
     "total": 46.05,
-    "asOf": "2026-10-19T23:25:05+05:30"
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 115230,
+          "reserved": 12340,
+          "times": 9.34
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 169776,
+          "reserved": 6170,
+          "times": 27.52
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 3145453,
+          "reserved": 604647,
+          "times": 5.2
+        },
+        {
+          "key": "employee",
+          "label": "Employee",
+          "applied": 10060
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 3441269,
+      "asOf": "2026-10-19T17:45:00+05:30"
+    }
   },
   "listing": {
     "price": 586,

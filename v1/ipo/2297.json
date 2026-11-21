@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2297,
   "name": "Vedant Poly Fabs",
   "companyName": "Vedant Poly Fabs Ltd.",
@@ -180,7 +180,6 @@
   },
   "subscription": {
     "total": 1.9,
-    "asOf": "2026-11-04T23:25:04+05:30",
     "byDay": [
       {
         "date": "2026-11-02",
@@ -194,7 +193,35 @@
         "date": "2026-11-04",
         "sub": 1.9
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 50,
+          "reserved": 419,
+          "times": 0.12
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 274,
+          "reserved": 209,
+          "times": 1.31
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 3195,
+          "reserved": 1415,
+          "times": 2.26
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 3520,
+      "asOf": "2026-11-04T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 94,

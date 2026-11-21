@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 2375,
   "name": "Antala Industries",
   "companyName": "Antala Industries Ltd.",
@@ -84,7 +84,34 @@
   },
   "subscription": {
     "total": 12.79,
-    "asOf": "2026-11-05T23:25:03+05:30"
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 1463,
+          "reserved": 57,
+          "times": 25.67
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 222,
+          "reserved": 28,
+          "times": 7.93
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 3605,
+          "reserved": 690,
+          "times": 5.22
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 5293,
+      "asOf": "2026-11-05T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 52.8,

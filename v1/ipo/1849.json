@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "parser": 3,
+  "parser": 4,
   "id": 1849,
   "name": "BLS Polymers",
   "companyName": "BLS Polymers Ltd.",
@@ -241,7 +241,6 @@
   },
   "subscription": {
     "total": 241.22,
-    "asOf": "2026-10-29T23:25:06+05:30",
     "byDay": [
       {
         "date": "2026-10-27",
@@ -255,7 +254,35 @@
         "date": "2026-10-29",
         "sub": 241.22
       }
-    ]
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 146685,
+          "reserved": 1214,
+          "times": 120.83
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 281016,
+          "reserved": 607,
+          "times": 462.96
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 5723360,
+          "reserved": 59500,
+          "times": 96.19
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 6151979,
+      "asOf": "2026-10-29T17:57:00+05:30"
+    }
   },
   "listing": {
     "price": 248,

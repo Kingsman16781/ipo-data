@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "source": "investorgain.com",
-  "updatedAt": "2026-11-21T11:37:00+05:30",
+  "updatedAt": "2026-11-21T20:02:00+05:30",
   "statusDate": "2026-11-21",
   "counts": {
     "live": 2,
@@ -57,7 +57,7 @@
       "boa": "2026-12-01",
       "listing": "2026-12-03",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-21T11:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-21T20:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -78,7 +78,7 @@
       "boa": "2026-11-30",
       "listing": "2026-12-02",
       "anchor": false,
-      "gmpUpdatedAt": "2026-11-21T11:33:00+05:30",
+      "gmpUpdatedAt": "2026-11-21T19:54:00+05:30",
       "hasDetail": true
     },
     {
@@ -89,11 +89,11 @@
       "status": "open",
       "rating": 4,
       "price": 245,
-      "gmp": 67,
-      "gmpPct": 27.35,
+      "gmp": 65,
+      "gmpPct": 26.53,
       "gmpLow": 16,
       "gmpHigh": 67,
-      "estListing": 312,
+      "estListing": 310,
       "sub": 11.98,
       "sizeCr": 120.1,
       "lot": 600,
@@ -103,7 +103,7 @@
       "boa": "2026-11-25",
       "listing": "2026-11-27",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-21T11:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-21T20:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -128,7 +128,7 @@
       "boa": "2026-11-25",
       "listing": "2026-11-27",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-21T11:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-21T20:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -139,11 +139,11 @@
       "status": "closed",
       "rating": 2,
       "price": 272,
-      "gmp": 14,
-      "gmpPct": 5.15,
+      "gmp": 14.5,
+      "gmpPct": 5.33,
       "gmpLow": 13,
       "gmpHigh": 40,
-      "estListing": 286,
+      "estListing": 286.5,
       "sub": 17.68,
       "sizeCr": 455.49,
       "lot": 55,
@@ -153,7 +153,7 @@
       "boa": "2026-11-23",
       "listing": "2026-11-26",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-21T11:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-21T20:02:00+05:30",
       "hasDetail": true
     },
     {

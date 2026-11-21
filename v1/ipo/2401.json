@@ -79,7 +79,7 @@
     "high": 9.25,
     "estListing": 136.7,
     "estProfitPerLot": 77,
-    "updatedAt": "2026-11-21T11:37:00+05:30",
+    "updatedAt": "2026-11-21T20:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 9,
@@ -161,7 +161,7 @@
         "estListing": 136.7,
         "estProfitPerLot": 77,
         "sauda": "100",
-        "updatedAt": "2026-11-21T12:02:00+05:30"
+        "updatedAt": "2026-11-21T21:37:00+05:30"
       }
     ]
   },
@@ -496,7 +496,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-    "updated": "Nov 21st 2026 12:02 PM",
-    "gmpUpdatedAt": "2026-11-21T11:37:00+05:30"
+    "updated": "Nov 21st 2026 09:37 PM",
+    "gmpUpdatedAt": "2026-11-21T20:02:00+05:30"
   }
 }

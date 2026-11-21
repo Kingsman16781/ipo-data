@@ -73,13 +73,13 @@
     "anchorLockInRest": "2027-02-21"
   },
   "gmp": {
-    "current": 14,
-    "pct": 5.15,
+    "current": 14.5,
+    "pct": 5.33,
     "low": 13,
     "high": 40,
-    "estListing": 286,
-    "estProfitPerLot": 770,
-    "updatedAt": "2026-11-21T11:37:00+05:30",
+    "estListing": 286.5,
+    "estProfitPerLot": 797.5,
+    "updatedAt": "2026-11-21T20:02:00+05:30",
     "trend": {
       "direction": "Downward",
       "first": 40,
@@ -168,12 +168,12 @@
       },
       {
         "date": "2026-11-21",
-        "gmp": 14,
-        "gmpPct": 5.15,
-        "estListing": 286,
-        "estProfitPerLot": 770,
+        "gmp": 14.5,
+        "gmpPct": 5.33,
+        "estListing": 286.5,
+        "estProfitPerLot": 797.5,
         "sauda": "600",
-        "updatedAt": "2026-11-21T12:02:00+05:30"
+        "updatedAt": "2026-11-21T21:37:00+05:30"
       }
     ]
   },
@@ -538,7 +538,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-    "updated": "Nov 21st 2026 12:02 PM",
-    "gmpUpdatedAt": "2026-11-21T11:37:00+05:30"
+    "updated": "Nov 21st 2026 09:37 PM",
+    "gmpUpdatedAt": "2026-11-21T20:02:00+05:30"
   }
 }

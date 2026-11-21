@@ -1,7 +1,7 @@
 # ipo-data
 
 Indian IPO data (GMP, dates, subscription, issue details) as JSON, used by the IPO Tracker app.
-Updated automatically by a scheduled workflow every 30 minutes during Indian market hours.
+Updated automatically by a scheduled workflow every 3 hours from 9 AM to 9 PM IST.
 Source: investorgain.com. **Do not edit by hand**: changes are overwritten on the next run.
 
 | File | Contents |

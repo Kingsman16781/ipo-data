@@ -1,0 +1,577 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 1936,
+  "name": "Bombay Coated and Special Steels",
+  "companyName": "Bombay Coated & Special Steels Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "listed",
+  "rating": 2,
+  "sector": "Iron & Steel Products",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 78,
+    "priceHigh": 82,
+    "finalPrice": 82,
+    "faceValue": 10,
+    "lot": 182,
+    "sizeCr": 183.06,
+    "freshCr": 183.06,
+    "totalShares": 22324120,
+    "marketCapCr": 515.16,
+    "peIssue": 10.88,
+    "pePostIssue": 8.54,
+    "eps": 7.54,
+    "epsPostIssue": 9.6
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 182,
+      "lots": 1,
+      "amount": 14924
+    },
+    "retailMax": {
+      "shares": 2366,
+      "lots": 13,
+      "amount": 194012
+    },
+    "sHniMin": {
+      "shares": 2548,
+      "lots": 14,
+      "amount": 208936
+    },
+    "sHniMax": {
+      "shares": 12194,
+      "lots": 67,
+      "amount": 999908
+    },
+    "bHniMin": {
+      "shares": 12376,
+      "lots": 68,
+      "amount": 1014832
+    }
+  },
+  "reservation": {
+    "qib": 4564560,
+    "anchor": 6597500,
+    "nii": 3348618,
+    "sNii": 1116206,
+    "bNii": 2232412,
+    "retail": 7813442
+  },
+  "dates": {
+    "anchorBid": "2026-10-28",
+    "open": "2026-10-29",
+    "close": "2026-11-02",
+    "boa": "2026-11-03",
+    "refund": "2026-11-04",
+    "dematCredit": "2026-11-04",
+    "listing": "2026-11-05",
+    "anchorLockIn50": "2026-12-02",
+    "anchorLockInRest": "2027-01-31"
+  },
+  "gmp": {
+    "current": 8,
+    "pct": 9.76,
+    "low": 7,
+    "high": 9,
+    "estListing": 90,
+    "estProfitPerLot": 1456,
+    "updatedAt": "2026-11-05T09:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 8,
+      "last": 8,
+      "change": 0,
+      "range": 2,
+      "upPct": 30.77,
+      "downPct": 23.08,
+      "sessions": 14
+    },
+    "history": [
+      {
+        "date": "2026-10-23",
+        "gmp": 8,
+        "gmpPct": 9.76,
+        "estListing": 90,
+        "estProfitPerLot": 1456,
+        "sauda": "1100",
+        "updatedAt": "2026-10-23T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-24",
+        "gmp": 8,
+        "gmpPct": 9.76,
+        "estListing": 90,
+        "estProfitPerLot": 1456,
+        "sauda": "1100",
+        "updatedAt": "2026-10-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-25",
+        "gmp": 8,
+        "gmpPct": 9.76,
+        "estListing": 90,
+        "estProfitPerLot": 1456,
+        "sauda": "1100",
+        "updatedAt": "2026-10-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-26",
+        "gmp": 9,
+        "gmpPct": 10.98,
+        "estListing": 91,
+        "estProfitPerLot": 1638,
+        "sauda": "1200",
+        "updatedAt": "2026-10-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-27",
+        "gmp": 9,
+        "gmpPct": 10.98,
+        "estListing": 91,
+        "estProfitPerLot": 1638,
+        "sauda": "1200",
+        "updatedAt": "2026-10-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-28",
+        "gmp": 9,
+        "gmpPct": 10.98,
+        "estListing": 91,
+        "estProfitPerLot": 1638,
+        "sauda": "1200",
+        "updatedAt": "2026-10-28T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-29",
+        "gmp": 9,
+        "gmpPct": 10.98,
+        "estListing": 91,
+        "estProfitPerLot": 1638,
+        "sauda": "1200",
+        "sub": 2.81,
+        "updatedAt": "2026-10-29T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-30",
+        "gmp": 7,
+        "gmpPct": 8.54,
+        "estListing": 89,
+        "estProfitPerLot": 1274,
+        "sauda": "1000",
+        "sub": 3.98,
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 8.5,
+        "gmpPct": 10.37,
+        "estListing": 90.5,
+        "estProfitPerLot": 1547,
+        "sauda": "1200",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 9,
+        "gmpPct": 10.98,
+        "estListing": 91,
+        "estProfitPerLot": 1638,
+        "sauda": "1200",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 8,
+        "gmpPct": 9.76,
+        "estListing": 90,
+        "estProfitPerLot": 1456,
+        "sauda": "1100",
+        "sub": 63.89,
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 7,
+        "gmpPct": 8.54,
+        "estListing": 89,
+        "estProfitPerLot": 1274,
+        "sauda": "1000",
+        "updatedAt": "2026-11-03T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-04",
+        "gmp": 8,
+        "gmpPct": 9.76,
+        "estListing": 90,
+        "estProfitPerLot": 1456,
+        "sauda": "1100",
+        "updatedAt": "2026-11-04T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-05",
+        "gmp": 8,
+        "gmpPct": 9.76,
+        "estListing": 90,
+        "estProfitPerLot": 1456,
+        "sauda": "1100",
+        "updatedAt": "2026-11-05T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 63.89,
+    "asOf": "2026-11-02T23:25:06+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-29",
+        "sub": 2.81
+      },
+      {
+        "date": "2026-10-30",
+        "sub": 3.98
+      },
+      {
+        "date": "2026-11-02",
+        "sub": 63.89
+      }
+    ]
+  },
+  "listing": {
+    "price": 91,
+    "gainPct": 10.98,
+    "nseSymbol": "BCSSL",
+    "isin": "INE0XFY01011"
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "allotmentUrl": "https://ipostatus.kfintech.com/",
+    "email": "einward.ris@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Bombay Coated & Special Steels IPO is a book build issue of ₹183.06 crores. The issue is entirely a fresh issue of 2.23 crore shares of ₹183.06 crore."
+      },
+      {
+        "type": "p",
+        "text": "Bombay Coated & Special Steels IPO bidding started from Oct 29, 2026 and ended on Nov 2, 2026. The allotment for Bombay Coated & Special Steels IPO was finalized on Nov 3, 2026. The shares got listed on NSE and BSE on Nov 5, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Bombay Coated & Special Steels IPO is set final issue price at ₹82 per share. The lot size for an application is 182 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,924 (182 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "Smart Horizon Capital Advisors Pvt.Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Bombay Coated & Special Steels IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in December 2019, Bombay Coated and Special Steels Limited is a steel processing centre engaged in converting steel coils into value-added processed steel products for Original Equipment Manufacturers (“OEMs”) and Original Design Manufacturers (“ODMs”). The Company specialises in precision slitting, cut-to-length processing, shearing and embossing of steel coils to manufacture slit coils, embossed slit coils, blanks, embossed blanks and sheared blanks. Its products serve multiple end-use industries, including home and commercial appliances, automotive and auto components, electrical equipment, pharmaceutical cleanroom infrastructure, ventilation systems and general engineering. In addition to processing steel coils, the Company provides logistics and inventory management services and supports customers through just-in-time delivery solutions."
+      },
+      {
+        "type": "p",
+        "text": "The Company operates four strategically located manufacturing facilities at Wada and Bhiwandi in Maharashtra, Ghiloth in Rajasthan, and Sri City in Andhra Pradesh. Spread across an aggregate area of 42,209 square metres, these facilities are equipped with slitting, cut-to-length, shearing and embossing lines. The Company has an authorised service partnership with JSW Steel Coated Products Limited (“JSWSCPL”) and/or its holding company since 2021, supporting regular access to steel coils. As of June 30, 2026, its aggregate installed processing capacity was 1,23,153 metric tonnes per annum, calculated on a quarterly basis for Fiscal 2027."
+      },
+      {
+        "type": "p",
+        "text": "The Company serves a diversified customer base across consumer durables, home appliances, refrigeration, automotive, electrical equipment, electronics, industrial engineering and other manufacturing sectors. Its customers include OEMs and ODMs such as Haier Appliances India Private Limited, IFB Refrigeration Limited, Dixon Electro Manufacturing Private Limited, Amber Enterprises India Limited and Western Refrigeration Private Limited."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company had 164 personnel, comprising 160 permanent employees and 4 employees on retainership."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "High Entry Barriers."
+      },
+      {
+        "type": "li",
+        "text": "Growing Processing Capacity."
+      },
+      {
+        "type": "li",
+        "text": "Integrated Steel Processing Infrastructure."
+      },
+      {
+        "type": "li",
+        "text": "Strategically Located Manufacturing Network."
+      },
+      {
+        "type": "li",
+        "text": "Long-Standing Customer Relationships."
+      },
+      {
+        "type": "li",
+        "text": "Established Relationship with JSWSCPL."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Bombay Coated & Special Steels operates as a steel processing centre in India, specialising in the conversion of steel coils into finished and semi-finished products, including slit coils, blanks and sheets. Its processing capabilities include slitting, cut-to-length operations, shearing and embossing, enabling it to deliver steel products tailored to customer requirements."
+      },
+      {
+        "type": "p",
+        "text": "The Company's products cater to Original Equipment Manufacturers (OEMs) and Original Design Manufacturers (ODMs) across a range of industries. Key applications include home and commercial appliances such as air conditioners, refrigerators, washing machines and water heaters, as well as general engineering segments covering automotive components, electrical parts, cleanrooms and ventilation systems."
+      },
+      {
+        "type": "p",
+        "text": "Since 2021, the Company has served as an authorised service partner of JSW Steel Coated Products Limited (JSWCPL), which is one of its sources of steel coils. It also procures raw materials from other suppliers and processes them using modern machinery to meet the required product specifications and quality standards."
+      },
+      {
+        "type": "p",
+        "text": "Bombay Coated & Special Steels operates processing facilities in Wada, Bhiwandi, Ghiloth and Sricity, with a combined area of 42,209 square metres. Its Rajasthan facility holds GEM 4 certification for green manufacturing. The Company's installed annual processing capacity for slitting, cut-to-length, shearing and embossing stood at 350,411 metric tonnes per annum (MTPA)."
+      },
+      {
+        "type": "p",
+        "text": "As of July 31, 2025, the Company employed 153 permanent employees across its operations."
+      },
+      {
+        "type": "h",
+        "text": "Business Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Established Supplier Association: An ongoing relationship with JSW Steel Coated Products Limited supports the procurement of steel coils for processing activities."
+      },
+      {
+        "type": "li",
+        "text": "Strategically Positioned Facilities: Processing units across multiple locations help the Company serve customers in key industrial markets."
+      },
+      {
+        "type": "li",
+        "text": "Advanced Processing Infrastructure: Existing facilities and precision processing equipment support the production of steel products according to customer specifications."
+      },
+      {
+        "type": "li",
+        "text": "Established Customer Relationships: Long-standing associations with OEMs and ODMs across multiple end-use industries contribute to business continuity."
+      },
+      {
+        "type": "li",
+        "text": "Supplier-Related Entry Barriers: Established supplier arrangements and operational capabilities may create barriers to entry for prospective competitors."
+      },
+      {
+        "type": "li",
+        "text": "Experienced Management Team: The Company benefits from the industry knowledge of its promoters and the expertise of its professional management team."
+      }
+    ],
+    "promoters": "Vijaykumar Himatrai Gupta, Nitin Vijaykumar Gupta, Bhawna Nitin Gupta",
+    "promoterHoldingPre": 97.78,
+    "promoterHoldingPost": 63.03,
+    "address": "2602, Parinee I, 7-A Shah Industrial Estate, Andheri (West), Mumbai, Maharashtra",
+    "phone": "+91 22 4664 9193",
+    "email": "compliance@bcsspl.in",
+    "website": "https://www.bcsspl.in/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 29.92,
+      "roce": 16.4,
+      "debtEquity": 2.78,
+      "ronw": 25.12,
+      "patMargin": 2.41,
+      "ebitdaMargin": 6.8,
+      "priceToBook": 2.7,
+      "nav": 30.41
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 11.65,
+      "roce": 7.01,
+      "debtEquity": 2,
+      "ronw": 11.03,
+      "patMargin": 3.8,
+      "ebitdaMargin": 8.1,
+      "nav": 33.73
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          526.11,
+          571.47,
+          458.21,
+          350.21
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          397.55,
+          1269.83,
+          1058.65,
+          765.41
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          15.08,
+          30.54,
+          28.67,
+          21.14
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          32.17,
+          86.09,
+          74.09,
+          49.17
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          136.62,
+          121.58,
+          83.05,
+          54.36
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          96.12,
+          81.08,
+          73.15,
+          44.46
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          273.69,
+          338.45,
+          276.96,
+          234.16
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Repayment/pre-payment, in full or in part, of certain borrowings availed by Company",
+      "amountCr": 125
+    },
+    {
+      "text": "Financing the cost towards acquisition of capital equipment under existing lease arrangements with Siemens Financial Services Pvt.Ltd.",
+      "amountCr": 15.77
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 17.04
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 25.25
+    },
+    {
+      "text": "Total",
+      "amountCr": 183.06
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Bombay Coated and Special Steels",
+        "7.64",
+        "7.64",
+        "30.41",
+        "",
+        "25.12",
+        "",
+        "Restated"
+      ],
+      [
+        "Bmw Industries Ltd.",
+        "3.63",
+        "3.35",
+        "35.85",
+        "14.98",
+        "10.15",
+        "1.46",
+        "Standalone"
+      ],
+      [
+        "Manaksia Coated Metals & Industries Ltd.",
+        "4.25",
+        "4.18",
+        "32.46",
+        "31.03",
+        "11.96",
+        "4.03",
+        "Standalone"
+      ],
+      [
+        "Shiv Aum Steels Ltd.",
+        "5.47",
+        "5.47",
+        "88.86",
+        "98.54",
+        "4.73",
+        "6.13",
+        "Standalone"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/corporate/aartic_29012026120040_DRHPBombayCoated.pdf",
+    "rhp": "https://www.sebi.gov.in/filings/public-issues/oct-2026/bombay-coated-and-special-steels-limited-rhp_105447.html",
+    "prospectus": "https://www.bseindia.com/corporates/download/365421/IPO%20BasisOfAllotment/Prospectus_BCSSL_20261103160208.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/bombay-coated-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/bombay-coated-and-special-steels-ipo/1936/",
+    "updated": "Nov 5th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-05T09:37:00+05:30"
+  }
+}

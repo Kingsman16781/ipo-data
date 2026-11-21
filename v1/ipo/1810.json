@@ -1,0 +1,364 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 1810,
+  "name": "Foodlink F&B Holdings",
+  "companyName": "Foodlink F&B Holdings (India) Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "upcoming",
+  "rating": 1,
+  "sector": "Restaurants",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceHigh": 0,
+    "faceValue": 2,
+    "freshCr": 192,
+    "ofsCr": 0.88
+  },
+  "dates": {
+    "anchorBid": "2026-11-25",
+    "open": "2026-11-26",
+    "close": "2026-11-30",
+    "boa": "2026-12-01",
+    "refund": "2026-12-02",
+    "dematCredit": "2026-12-02",
+    "listing": "2026-12-03",
+    "anchorLockIn50": "2026-12-31",
+    "anchorLockInRest": "2027-03-01"
+  },
+  "gmp": {
+    "current": 12,
+    "pct": 0,
+    "low": 12,
+    "high": 12,
+    "estListing": 12,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-21T11:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 12,
+      "last": 12,
+      "change": 0,
+      "range": 0,
+      "upPct": 0,
+      "downPct": 0,
+      "sessions": 3
+    },
+    "history": [
+      {
+        "date": "2026-11-19",
+        "gmp": 12,
+        "gmpPct": 0,
+        "estListing": 12,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-19T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-20",
+        "gmp": 12,
+        "gmpPct": 0,
+        "estListing": 12,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-20T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-21",
+        "gmp": 12,
+        "gmpPct": 0,
+        "estListing": 12,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-21T12:02:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "email": "foodlink.ipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Foodlink F&B Holdings IPO is a book build issue . The issue comprises of fresh issue of ₹192.00 crores and offer for sale of 88.35 lakh shares."
+      },
+      {
+        "type": "p",
+        "text": "Foodlink F&B Holdings IPO opens for subscription on Nov 26, 2026 and closes on Nov 30, 2026. The allotment for the Foodlink F&B Holdings IPO is expected to be finalized on Dec 1, 2026. Foodlink F&B Holdings IPO will list on NSE and BSE with a tentative listing date fixed as Dec 3, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Foodlink F&B Holdings IPO is set issue price band at [.] to [.] per share."
+      },
+      {
+        "type": "p",
+        "text": "Equirus Capital Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Foodlink F&B Holdings IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in 2003, Foodlink F&B Holdings (India) Ltd. is a food and beverage services company engaged in providing premium catering services and operating casual dining restaurants and cloud kitchens. Headquartered in Mumbai, Foodlink caters to weddings, social celebrations, corporate events and other large-scale gatherings. Its restaurant portfolio includes brands such as China Bistro, India Bistro, Glocal and Art of Dum. The company also operates through its international subsidiary in the UAE, expanding its presence in the global food and hospitality industry."
+      },
+      {
+        "type": "h",
+        "text": "Business Model:"
+      },
+      {
+        "type": "li",
+        "text": "Events Catering,"
+      },
+      {
+        "type": "li",
+        "text": "Casual Dining Restaurants & Cloud Kitchens,"
+      },
+      {
+        "type": "li",
+        "text": "Banquets and Integrated F&B Services (Jade Luxury Banquets)."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, we have operations in India, United Arab Emirates, United Kingdom and Malaysia, and have catered for events in countries including Switzerland, Turkey, Italy, Spain, United Arab Emirates, France, Oman, Qatar, Egypt, Jordan, Maldives, Thailand, Nigeria, United Kingdom and Malaysia."
+      },
+      {
+        "type": "p",
+        "text": "The company operate 28 Casual Dining Restaurants & Cloud Kitchens. These are located in India and United Arab Emirates with 15 Casual Dining Restaurants & Cloud Kitchens spread across two cities in India at 10 different locations, and 13 Casual Dining Restaurants & Cloud Kitchens in United Arab Emirates spread across two cities at seven different locations. The company have five centralised kitchens in India, located in Mumbai (Maharashtra), Ahmedabad (Gujarat), Mohali (Punjab), Hyderabad (Telangana), and New Delhi."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, the company employed 1,481 people."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "India’s largest organized, ultra-luxury and luxury catering (weddings, meetings, incentives, conferences, and event (“MICE”), sports, personal celebration catering and banquets) company in terms of Fiscal 2024 revenue amongst our peers in India, with a focus on casual dining, banquets and integrated F&B services."
+      },
+      {
+        "type": "li",
+        "text": "Ability to deliver innovative and quality experiences leading to diversified portfolio of marquee customers."
+      },
+      {
+        "type": "li",
+        "text": "Strategically located centralized kitchens with streamlined supply chain and well-established processes."
+      },
+      {
+        "type": "li",
+        "text": "Diversified geographical presence."
+      },
+      {
+        "type": "li",
+        "text": "Experienced promoter and professional management team with domain knowledge."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Incorporated in 2003, Foodlink F&B Holdings (India) Limited is a leading catering and hospitality provider with operations across India and abroad. The company's integrated business model comprises three distinct yet complementary businesses:"
+      },
+      {
+        "type": "li",
+        "text": "Events Catering ,"
+      },
+      {
+        "type": "li",
+        "text": "Casual Dining Restaurants & Cloud Kitchens , and"
+      },
+      {
+        "type": "li",
+        "text": "Banquets and Integrated F&B Services (Jade Luxury Banquets) ."
+      },
+      {
+        "type": "p",
+        "text": "As of December 31, 2024, Foodlink have operations in India and the United Arab Emirates and has catered events in Switzerland, Turkey, Italy, Spain, the UAE, France, Oman, Qatar, Egypt, Jordan, the Maldives, Thailand, and Nigeria."
+      },
+      {
+        "type": "p",
+        "text": "As of the date of this Draft Red Herring Prospectus, Foodlink operate 30 Casual Dining Restaurants and Cloud Kitchens. These include 18 units across two cities in India at 13 different locations, and 12 units in Dubai spread across six locations."
+      },
+      {
+        "type": "p",
+        "text": "The company have five centralised kitchens in India, located in Mumbai (Maharashtra), Ahmedabad (Gujarat), Mohali (Punjab), Hyderabad (Telangana), and New Delhi."
+      },
+      {
+        "type": "p",
+        "text": "As of December 31, 2024, the company employed 1,235 people."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "India’s largest organized, ultra-luxury and luxury catering (weddings, meetings, incentives, conferences, and event (“MICE”), sports, personal celebration catering and banquets) company in terms of Fiscal 2024 revenue amongst our peers in India, with a focus on casual dining, banquets and integrated F&B services."
+      },
+      {
+        "type": "li",
+        "text": "Ability to deliver innovative and quality experiences leading to diversified portfolio of marquee customers."
+      },
+      {
+        "type": "li",
+        "text": "Strategically located centralized kitchens with streamlined supply chain and well-established processes."
+      },
+      {
+        "type": "li",
+        "text": "Diversified geographical presence."
+      },
+      {
+        "type": "li",
+        "text": "Experienced promoter and professional management team with domain knowledge."
+      }
+    ],
+    "promoters": "Sanjay Manohar Vazirani",
+    "promoterHoldingPre": 63.4,
+    "address": "301, Safal Pride, Opp. Saras Baug,, Sion Trombay Road,, Deonar, Mumbai, Maharashtra",
+    "phone": "+912261189999",
+    "email": "secretarial@foodlink.in",
+    "website": "https://www.foodlink.global/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "debtEquity": 0.43,
+      "ronw": 17.35,
+      "patMargin": 5.09,
+      "ebitdaMargin": 13.82,
+      "nav": 44
+    },
+    {
+      "asOf": "2026-09-30",
+      "debtEquity": 0.44,
+      "ronw": -7.25,
+      "patMargin": -7.27,
+      "ebitdaMargin": 7.35,
+      "nav": 41.3
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Sep 2026",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          443.99,
+          454.32,
+          318.59,
+          268.13
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          222.18,
+          572.26,
+          455.4,
+          380.17
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          -16.15,
+          29.11,
+          14.26,
+          -15.35
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          16.15,
+          78.43,
+          61.45,
+          30.63
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          216.01,
+          229.35,
+          106.22,
+          79.59
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          205.55,
+          218.89,
+          96.26,
+          77.94
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          null,
+          24.29,
+          35.88,
+          35.3
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding of capital expenditure towards setting up two Proposed Centralized Kitchens by the Company",
+      "amountCr": 21.4
+    },
+    {
+      "text": "Investment in FGRCS, the Material Subsidiary, for funding of capital expenditure towards setting up four Proposed Casual Dining Restaurants",
+      "amountCr": 50.81
+    },
+    {
+      "text": "Repayment or prepayment, in full or in part, of all or a portion of certain outstanding borrowings availed by the Company and FGRCS",
+      "amountCr": 21
+    },
+    {
+      "text": "General Corporate Purposes"
+    },
+    {
+      "text": "Funding of capital expenditure towards setting up two Proposed Banquets by the Company",
+      "amountCr": 41.5
+    },
+    {
+      "text": "Total",
+      "amountCr": 134.71
+    }
+  ],
+  "documents": {
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/jul-2025/foodlink-fandb-holdings-india-limited_94988.html",
+    "rhp": "https://s3.ap-south-1.amazonaws.com/cms.equirus.tech/Foodlink_F_and_B_Holdings_India_Limited_Red_Herring_Prospectus_95e7e3e3b7.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
+    "updated": "Nov 21st 2026 12:02 PM",
+    "gmpUpdatedAt": "2026-11-21T11:37:00+05:30"
+  }
+}

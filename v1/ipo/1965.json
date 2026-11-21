@@ -1,0 +1,563 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 1965,
+  "name": "Maxwell Engineering Solutions",
+  "companyName": "Maxwell Engineering Solutions Ltd.",
+  "category": "SME",
+  "exchange": "NSE SME",
+  "status": "listed",
+  "rating": 5,
+  "sector": "Industrial Products",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 150,
+    "priceHigh": 158,
+    "finalPrice": 158,
+    "faceValue": 10,
+    "lot": 800,
+    "sizeCr": 57.64,
+    "freshCr": 54.12,
+    "totalShares": 3648000,
+    "marketCapCr": 216.43,
+    "peIssue": 13.39,
+    "pePostIssue": 23.65,
+    "eps": 11.8,
+    "epsPostIssue": 6.68
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 1600,
+      "lots": 2,
+      "amount": 252800
+    },
+    "retailMax": {
+      "shares": 1600,
+      "lots": 2,
+      "amount": 252800
+    },
+    "sHniMin": {
+      "shares": 2400,
+      "lots": 3,
+      "amount": 379200
+    },
+    "bHniMin": {
+      "shares": 6400,
+      "lots": 8,
+      "amount": 1011200
+    }
+  },
+  "reservation": {
+    "qib": 683200,
+    "anchor": 1024000,
+    "nii": 518400,
+    "sNii": 172800,
+    "bNii": 345600,
+    "retail": 1200000,
+    "marketMaker": 222400
+  },
+  "dates": {
+    "anchorBid": "2026-10-29",
+    "open": "2026-10-30",
+    "close": "2026-11-03",
+    "boa": "2026-11-04",
+    "refund": "2026-11-05",
+    "dematCredit": "2026-11-05",
+    "listing": "2026-11-06",
+    "anchorLockIn50": "2026-12-03",
+    "anchorLockInRest": "2027-02-01"
+  },
+  "gmp": {
+    "current": 105,
+    "pct": 66.46,
+    "low": 27,
+    "high": 113,
+    "estListing": 263,
+    "estProfitPerLot": 84000,
+    "updatedAt": "2026-11-06T09:37:00+05:30",
+    "trend": {
+      "direction": "Volatile",
+      "first": 27,
+      "last": 105,
+      "change": 78,
+      "range": 86,
+      "upPct": 40,
+      "downPct": 10,
+      "sessions": 11
+    },
+    "history": [
+      {
+        "date": "2026-10-27",
+        "gmp": 27,
+        "gmpPct": 17.09,
+        "estListing": 185,
+        "estProfitPerLot": 21600,
+        "sauda": "16400",
+        "updatedAt": "2026-10-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-28",
+        "gmp": 43,
+        "gmpPct": 27.22,
+        "estListing": 201,
+        "estProfitPerLot": 34400,
+        "sauda": "26100",
+        "updatedAt": "2026-10-28T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-29",
+        "gmp": 70,
+        "gmpPct": 44.3,
+        "estListing": 228,
+        "estProfitPerLot": 56000,
+        "sauda": "42600",
+        "updatedAt": "2026-10-29T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-30",
+        "gmp": 70,
+        "gmpPct": 44.3,
+        "estListing": 228,
+        "estProfitPerLot": 56000,
+        "sauda": "42600",
+        "sub": 4.67,
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 70,
+        "gmpPct": 44.3,
+        "estListing": 228,
+        "estProfitPerLot": 56000,
+        "sauda": "42600",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 70,
+        "gmpPct": 44.3,
+        "estListing": 228,
+        "estProfitPerLot": 56000,
+        "sauda": "42600",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 80,
+        "gmpPct": 50.63,
+        "estListing": 238,
+        "estProfitPerLot": 64000,
+        "sauda": "48600",
+        "sub": 80.34,
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 80,
+        "gmpPct": 50.63,
+        "estListing": 238,
+        "estProfitPerLot": 64000,
+        "sauda": "48600",
+        "sub": 536.8,
+        "updatedAt": "2026-11-03T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-04",
+        "gmp": 113,
+        "gmpPct": 71.52,
+        "estListing": 271,
+        "estProfitPerLot": 90400,
+        "sauda": "68700",
+        "updatedAt": "2026-11-04T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-05",
+        "gmp": 105,
+        "gmpPct": 66.46,
+        "estListing": 263,
+        "estProfitPerLot": 84000,
+        "sauda": "63800",
+        "updatedAt": "2026-11-05T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-06",
+        "gmp": 105,
+        "gmpPct": 66.46,
+        "estListing": 263,
+        "estProfitPerLot": 84000,
+        "sauda": "63800",
+        "updatedAt": "2026-11-06T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 536.8,
+    "asOf": "2026-11-03T23:25:04+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-30",
+        "sub": 4.67
+      },
+      {
+        "date": "2026-11-02",
+        "sub": 80.34
+      },
+      {
+        "date": "2026-11-03",
+        "sub": 536.8
+      }
+    ]
+  },
+  "listing": {
+    "price": 300.2,
+    "gainPct": 90.0,
+    "nseSymbol": "MAXENGS",
+    "isin": "INE1W3F01014"
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "allotmentUrl": "https://ipostatus.kfintech.com/",
+    "email": "maxwell.ipo@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Maxwell Engineering Solutions IPO is a book build issue of ₹57.64 crores. The issue is entirely a fresh issue of 36.48 lakh shares of ₹57.64 crore."
+      },
+      {
+        "type": "p",
+        "text": "Maxwell Engineering Solutions IPO bidding started from Oct 30, 2026 and ended on Nov 3, 2026. The allotment for Maxwell Engineering Solutions IPO was finalized on Nov 4, 2026. The shares got listed on the NSE SME on Nov 6, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Maxwell Engineering Solutions IPO is set final issue price at ₹158 per share. The lot size for an application is 800 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,52,800 (1,600 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (2,400 shares), amounting to ₹3,79,200."
+      },
+      {
+        "type": "p",
+        "text": "JDA Capital Services Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue. The Market Maker of the company is Jda Capital Services Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Maxwell Engineering Solutions IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in September 2022, Maxwell Engineering Solutions Limited is a precision engineering company engaged in the manufacturing, trading and servicing of critical components for underwater pelletizing systems. The Company manufactures a range of components for underwater pelletizing systems, including pelletizing die plates, pelletizing blades and knives, blade holders, cutter hubs, tapped driving bushes and other spare parts. Its products cater to polymer compounding, masterbatches, engineering plastics, cable compounds, specialty polymers and plastics recycling industries. The Company also undertakes customised manufacturing based on customer specifications and offers white-label manufacturing, enabling customers to market products under their own brands. Its business operates through three segments: manufacturing, services and trading."
+      },
+      {
+        "type": "p",
+        "text": "The Company commenced operations at its company-owned manufacturing facility at Waghodia GIDC, Vadodara, Gujarat, in July 2025 and has progressively transitioned manufacturing activities from its earlier leased facility in Makarpura, Vadodara. Its manufacturing infrastructure includes precision machining and testing equipment such as VMC, CNC, milling, EDM, wire-cut, lathe and surface-grinding machines. Certain specialised processes, including heat treatment, hardening and coating, are outsourced to job workers. The Company also provides refurbishment and repair services for used die plates, intermediary support for the marketing and supply of CJTEK components, and management consulting services for developing customer relationships."
+      },
+      {
+        "type": "p",
+        "text": "The Company serves customers across India and international markets, including the USA, Germany, the Netherlands, Israel, Saudi Arabia, Japan, Australia, Italy and other countries. It holds ISO 9001:2015 certification for manufacturing and supplying pelletizing system components and received ZED Bronze Certification under the MSME Sustainable Certification Scheme in November 2025. Its operations are supported by an experienced promoter and management team, technical personnel and dedicated sales and marketing capabilities."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, the Company had 71 full-time employees, excluding Directors, across production and operations, quality and testing, design, sales and marketing, finance, administration and other functions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Diversified Business Segments."
+      },
+      {
+        "type": "li",
+        "text": "Quality Standards and Certifications."
+      },
+      {
+        "type": "li",
+        "text": "International Market Presence."
+      },
+      {
+        "type": "li",
+        "text": "Customised and White-Label Manufacturing."
+      },
+      {
+        "type": "li",
+        "text": "In-House Manufacturing and R&D Capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Specialised Product Portfolio."
+      },
+      {
+        "type": "li",
+        "text": "Established Customer Relationships."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Maxwell Engineering Solutions is a precision engineering company that manufactures, trades, and services critical components used in underwater pelletizing systems . The company specializes in various products, such as Pelletizing die plates, Pelletizing blades/knives, Blade holders/cutter hubs, Tapped driving bushes, and other spare parts for pelletizing systems."
+      },
+      {
+        "type": "p",
+        "text": "Its die plates are used in various applications, including White, black & color masterbatches, Cable compounds (HFFR, XLPE, PVC, etc.), Engineering plastics (PA, PBT, PC, etc.), and Recycled resins (PET, PP, PE, etc.)."
+      },
+      {
+        "type": "p",
+        "text": "These products are widely used in industries like compounding, masterbatches, recycling, petrochemicals, and bioplastics. The company serves customers across India and internationally in countries like the USA, Germany, Japan, Australia, Saudi Arabia, and many more. In FY 2025, the company derived 82.43% of revenue from exports and remaining 17.57% from domestic sales."
+      },
+      {
+        "type": "p",
+        "text": "Additionally, the company also offers various services, including Refurbishment & repair services, custom manufacturing solutions, white-label manufacturing, trading of select pelletizing components, marketing & intermediary services for CJTEK components, and management consulting for customer acquisition."
+      },
+      {
+        "type": "p",
+        "text": "Manufacturing facility : Vadodara, Gujarat. The facility is well equipped with VMC, CNC, EDM, wire cut, milling, lathe, and other high-precision machines."
+      },
+      {
+        "type": "p",
+        "text": "As of March 31, 2025, its workforce comprised 59 permanent employees."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "Experienced Promoters and Management Team"
+      },
+      {
+        "type": "li",
+        "text": "Existing client relationship"
+      },
+      {
+        "type": "li",
+        "text": "Quality Services"
+      },
+      {
+        "type": "li",
+        "text": "Well established systems and procedures"
+      },
+      {
+        "type": "li",
+        "text": "Revenue from multiple geographies"
+      },
+      {
+        "type": "li",
+        "text": "Customized Product Offering"
+      }
+    ],
+    "promoters": "Rajkumar Chaudhary, Vinubhai Kanjibhai Chavda, Ria Rajkumar Chaudhary",
+    "promoterHoldingPre": 97.26,
+    "promoterHoldingPost": 71.36,
+    "address": "Plot 939 & 940, Waghodia GIDC, Vaghodia, Vadodara, Gujarat",
+    "phone": "96385 42674",
+    "email": "cs@maxwells.in",
+    "website": "https://www.maxwells.in/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 62.63,
+      "roce": 38.46,
+      "debtEquity": 0.67,
+      "ronw": 47.7,
+      "patMargin": 40.28,
+      "ebitdaMargin": 51.58,
+      "priceToBook": 6.39,
+      "nav": 24.74
+    },
+    {
+      "asOf": "2026-07-31",
+      "roe": 11.56,
+      "roce": 9.87,
+      "debtEquity": 0.56,
+      "ronw": 10.93,
+      "patMargin": 25.7,
+      "ebitdaMargin": 36.11,
+      "priceToBook": 5.69,
+      "nav": 27.78
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "31 Jul 2026",
+        "date": "2026-07-31"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          51.79,
+          47.55,
+          25.31,
+          8.51
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          12.25,
+          30.76,
+          22.59,
+          10.87
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          3.05,
+          11.86,
+          9.18,
+          3.16
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          4.29,
+          15.19,
+          11.69,
+          4.25
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          27.92,
+          24.87,
+          13.01,
+          3.33
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          17.87,
+          14.82,
+          10.25,
+          3.32
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          15.77,
+          16.73,
+          8.6,
+          3.19
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Financing the capital expenditure requirement towards Purchase of New Machineries, Lab Equipment & Other utilities for Manufacturing Facility",
+      "amountCr": 18
+    },
+    {
+      "text": "Financing the capital expenditure requirement for construction of New Office Building and Manufacturing facility",
+      "amountCr": 6.5
+    },
+    {
+      "text": "Repayment / prepayment, in full or part, of certain outstanding borrowings availed by Company",
+      "amountCr": 4.3
+    },
+    {
+      "text": "Funding working capital requirements of Company",
+      "amountCr": 14
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 7.06
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 7.78
+    },
+    {
+      "text": "Total",
+      "amountCr": 57.64
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Maxwell Engineering Solutions Ltd.",
+        "11.80",
+        "11.80",
+        "",
+        "13.39",
+        "47.70",
+        "",
+        ""
+      ],
+      [
+        "Kabra Extrusiontechnik Ltd.",
+        "-0.70",
+        "",
+        "127.92",
+        "",
+        "-0.54",
+        "5.34",
+        "Standalone"
+      ],
+      [
+        "Omnitech Engineering Ltd.",
+        "6.42",
+        "",
+        "55.36",
+        "99.00",
+        "11.28",
+        "11.55",
+        "Standalone"
+      ],
+      [
+        "Sunita Tools Ltd.",
+        "10.53",
+        "",
+        "112.10",
+        "100.65",
+        "10.80",
+        "9.46",
+        "Standalone"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_15082026150927_DRHP_Maxwell.zip",
+    "rhp": "https://nsearchives.nseindia.com/content/ipo/RHP_MAXENGS.zip",
+    "prospectus": "https://maxwells.in/wp-content/uploads/2026/11/Maxwell-Prospectus.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/maxengs-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/maxwell-engineering-solutions-ipo/1965/",
+    "updated": "Nov 6th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-06T09:37:00+05:30"
+  }
+}

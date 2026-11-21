@@ -1,0 +1,391 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2356,
+  "name": "Wiscon Industries",
+  "companyName": "Wiscon Industries Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Consumer Electronics",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 194,
+    "priceHigh": 204,
+    "finalPrice": 204,
+    "faceValue": 10,
+    "lot": 600,
+    "sizeCr": 110,
+    "freshCr": 80.05,
+    "ofsCr": 22,
+    "totalShares": 5392200,
+    "marketCapCr": 407.75,
+    "peIssue": 15.67,
+    "pePostIssue": 12.93,
+    "eps": 13.02,
+    "epsPostIssue": 15.78
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 1200,
+      "lots": 2,
+      "amount": 244800
+    },
+    "retailMax": {
+      "shares": 1200,
+      "lots": 2,
+      "amount": 244800
+    },
+    "sHniMin": {
+      "shares": 1800,
+      "lots": 3,
+      "amount": 367200
+    },
+    "bHniMin": {
+      "shares": 5400,
+      "lots": 9,
+      "amount": 1101600
+    }
+  },
+  "reservation": {
+    "qib": 1225800,
+    "anchor": 1225800,
+    "nii": 772200,
+    "sNii": 257400,
+    "bNii": 514800,
+    "retail": 1778400,
+    "marketMaker": 390000
+  },
+  "dates": {
+    "anchorBid": "2026-10-26",
+    "open": "2026-10-27",
+    "close": "2026-10-29",
+    "boa": "2026-10-30",
+    "refund": "2026-11-02",
+    "dematCredit": "2026-11-02",
+    "listing": "2026-11-03",
+    "anchorLockIn50": "2026-11-30",
+    "anchorLockInRest": "2027-01-29"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-03T09:33:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-03",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 204,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-03T09:33:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 1.17,
+    "asOf": "2026-10-29T23:25:05+05:30"
+  },
+  "listing": {
+    "price": 204,
+    "gainPct": 0.0,
+    "nseSymbol": "WISCON",
+    "isin": "INE0NZ501012"
+  },
+  "registrar": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "code": "MAASHITLA",
+    "allotmentUrl": "https://maashitla.com/allotment-status/public-issues",
+    "email": "investor.ipo@maashitla.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Wiscon Industries IPO is a book build issue of ₹110.00 crores. The issue is a combination of fresh issue of 43.14 lakh shares aggregating to ₹88.01 crores and offer for sale of 10.78 lakh shares aggregating to ₹22.00 crores."
+      },
+      {
+        "type": "p",
+        "text": "Wiscon Industries IPO bidding started from Oct 27, 2026 and ended on Oct 29, 2026. The allotment for Wiscon Industries IPO was finalized on Oct 30, 2026. The shares got listed on the BSE SME on Nov 3, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Wiscon Industries IPO is set final issue price at ₹204 per share. The lot size for an application is 600 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,44,800 (1,200 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (1,800 shares), amounting to ₹3,67,200."
+      },
+      {
+        "type": "p",
+        "text": "Smart Horizon Capital Advisors Pvt.Ltd. is the book running lead manager and Maashitla Securities Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Shreni Shares Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Wiscon Industries IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in September 2022, Wiscon Industries Limited is a Delhi-based company engaged in the trading and supply of consumer electronic products across India."
+      },
+      {
+        "type": "p",
+        "text": "The company offers a broad range of products, including LED TVs, air coolers, washing machines, and air conditioners under its flagship \"Wiscon\" brand."
+      },
+      {
+        "type": "p",
+        "text": "It also sells electric scooters sourced from third-party brands."
+      },
+      {
+        "type": "p",
+        "text": "Wiscon serves both business customers (B2B) and individual consumers (B2C). Its products are distributed through an offline dealer and distributor network as well as its own online platform, allowing the company to reach customers across the country. Sales operations are managed by a dedicated team working from the company's registered office."
+      },
+      {
+        "type": "p",
+        "text": "The company has reported strong revenue growth since its incorporation. Revenue from operations increased from ₹ 321.45 lakh in FY 2023-24 to ₹1,449.27 lakh in FY 2024-25, and further to ₹7,339.16 lakh in FY 2025-26, reflecting significant business expansion over the three-year period."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, Wiscon Industries had 76 permanent employees supporting its operations."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Offers a diversified portfolio of consumer electronic products catering to different customer segments."
+      },
+      {
+        "type": "li",
+        "text": "Serves customers through both B2B and B2C sales channels, including its own online platform."
+      },
+      {
+        "type": "li",
+        "text": "Maintains an established after-sales service network to support customers across India."
+      },
+      {
+        "type": "li",
+        "text": "Led by an experienced management team with execution expertise."
+      },
+      {
+        "type": "li",
+        "text": "Supported by a skilled workforce that helps drive business growth and operational efficiency."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Wiscon Industries Limited is headquartered in Delhi and is engaged in the distribution and trading of consumer electronics and related products across the Indian market. Operating under its flagship Wiscon brand, the company offers a variety of household appliances and electronic products, including LED televisions, air coolers, washing machines and air conditioners. Its product portfolio also extends to electric scooters procured from third-party manufacturers and brands."
+      },
+      {
+        "type": "p",
+        "text": "The Company caters to a diverse customer base comprising businesses and individual consumers through both business-to-business (B2B) and business-to-consumer (B2C) channels. Its distribution model combines a network of offline dealers and distributors with its own online sales platform, facilitating access to customers in different parts of India. A dedicated sales team operates from the registered office to coordinate and manage sales activities."
+      },
+      {
+        "type": "p",
+        "text": "Wiscon Industries has recorded considerable growth in its operating revenue since its incorporation. Revenue from operations rose from ₹321.45 lakh in FY 2023-24 to ₹1,449.27 lakh in FY 2024-25, before reaching ₹7,339.16 lakh in FY 2025-26, indicating a substantial increase in the scale of its business."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company had 76 permanent employees engaged in supporting its business activities and day-to-day operations."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "A diverse range of consumer electronics and household appliances serving varied market requirements."
+      },
+      {
+        "type": "li",
+        "text": "A multi-channel distribution strategy covering institutional buyers, dealers, distributors and retail consumers."
+      },
+      {
+        "type": "li",
+        "text": "An established after-sales support network serving customers across different regions of India."
+      },
+      {
+        "type": "li",
+        "text": "An experienced leadership team with capabilities in managing business operations and implementing growth strategies."
+      },
+      {
+        "type": "li",
+        "text": "A dedicated workforce contributing to operational execution and the Company's business development."
+      }
+    ],
+    "promoters": "Sidhant Dalmia",
+    "promoterHoldingPre": 94.18,
+    "promoterHoldingPost": 68.46,
+    "address": "C 64, DDA Shed, Okhla Ind Area, PH 1, South Delhi, New Delhi",
+    "phone": "9315848377",
+    "email": "investor.relations@wiscon.in",
+    "website": "https://wiscon.in/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 117.37,
+      "roce": 51.82,
+      "debtEquity": 0.83,
+      "ronw": 66.67,
+      "patMargin": 10.36,
+      "ebitdaMargin": 14.27,
+      "priceToBook": 10.45,
+      "nav": 19.53
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 22.83,
+      "roce": 14.72,
+      "debtEquity": 0.96,
+      "ronw": 20.49,
+      "patMargin": 11.29,
+      "ebitdaMargin": 15.74,
+      "nav": 24.56
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          144.79,
+          90.75
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          69.85,
+          197.13
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          7.89,
+          20.41
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          11,
+          28.09
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          38.49,
+          30.61
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          22.82,
+          25.38
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          36.97,
+          25.26
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Investment in the WOS, Dalmia Technologies Limited for financing its capital expenditure towards purchase of Plant and Machinery",
+      "amountCr": 15.04
+    },
+    {
+      "text": "Investment in the WOS, Dalmia Technologies Limited for funding its incremental working capital requirements",
+      "amountCr": 35
+    },
+    {
+      "text": "To meet Working Capital requirements of the Company",
+      "amountCr": 17
+    },
+    {
+      "text": "To Fund Marketing and Promotional Activities in the Company",
+      "amountCr": 5.23
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 8.82
+    },
+    {
+      "text": "Issue expenses",
+      "amountCr": 8.65
+    },
+    {
+      "text": "Total",
+      "amountCr": 89.74
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Wiscon Industries Ltd.",
+        "13.56",
+        "13.56",
+        "19.53",
+        "",
+        "66.67",
+        "",
+        ""
+      ],
+      [
+        "Cellecor Gadgets Limited",
+        "1.80",
+        "1.80",
+        "9.27",
+        "15.89",
+        "19.35",
+        "3.89",
+        ""
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/320873/SME_IPO%20InPrinciple/0DRHPAbridged_20260723203023.zip",
+    "rhp": "https://www.bseindia.com/downloads/ipo/RHP&GID_261020261940.zip",
+    "prospectus": "https://www.bsesme.com/download/320873/SME_IPO%20BasisOfAllotment/Prospectus_Wiscon30.10.2026_20261030141018.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/anchorintimationletterwiscon.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/wiscon-industries-ipo/2356/",
+    "updated": "Nov 3rd 2026 09:33 AM",
+    "gmpUpdatedAt": "2026-11-03T09:33:00+05:30"
+  }
+}

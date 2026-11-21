@@ -1,0 +1,398 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2349,
+  "name": "Shree Siddhivinayak Greentech Industries",
+  "companyName": "Shree Siddhivinayak Greentech Industries Ltd.",
+  "category": "SME",
+  "exchange": "NSE SME",
+  "status": "upcoming",
+  "rating": 1,
+  "sector": "Sugar",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 130,
+    "priceHigh": 142,
+    "faceValue": 10,
+    "lot": 1000,
+    "sizeCr": 93.66,
+    "freshCr": 88.98,
+    "totalShares": 6596000,
+    "marketCapCr": 267.61,
+    "peIssue": 15.01,
+    "pePostIssue": 25.91,
+    "eps": 9.46,
+    "epsPostIssue": 5.48
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 2000,
+      "lots": 2,
+      "amount": 284000
+    },
+    "retailMax": {
+      "shares": 2000,
+      "lots": 2,
+      "amount": 284000
+    },
+    "sHniMin": {
+      "shares": 3000,
+      "lots": 3,
+      "amount": 426000
+    },
+    "bHniMin": {
+      "shares": 8000,
+      "lots": 8,
+      "amount": 1136000
+    }
+  },
+  "reservation": {
+    "qib": 66000,
+    "nii": 3100000,
+    "retail": 3100000,
+    "marketMaker": 330000
+  },
+  "dates": {
+    "open": "2026-11-25",
+    "close": "2026-11-27",
+    "boa": "2026-11-30",
+    "refund": "2026-12-01",
+    "dematCredit": "2026-12-01",
+    "listing": "2026-12-02"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-21T11:33:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-21",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 142,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-21T12:01:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "MAS Services Ltd.",
+    "code": "OTHER",
+    "email": "ipo@masserv.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Shree Siddhivinayak Greentech Industries IPO is a book build issue of ₹93.66 crores. The issue is entirely a fresh issue of 65.96 lakh shares of ₹93.66 crore."
+      },
+      {
+        "type": "p",
+        "text": "Shree Siddhivinayak Greentech Industries IPO opens for subscription on Nov 25, 2026 and closes on Nov 27, 2026. The allotment for the Shree Siddhivinayak Greentech Industries IPO is expected to be finalized on Nov 30, 2026. Shree Siddhivinayak Greentech Industries IPO will list on the NSE SME with a tentative listing date fixed as Dec 2, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Shree Siddhivinayak Greentech Industries IPO is set issue price band at ₹130 to ₹142 per share. The lot size for an application is 1,000 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,84,000 (2,000 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (3,000 shares), amounting to ₹4,26,000."
+      },
+      {
+        "type": "p",
+        "text": "ERUDORE CAPITAL Pvt.Ltd. is the book running lead manager and MAS Services Ltd. is the registrar of the issue. The Market Maker of the company is Basan Equity Broking Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Shree Siddhivinayak Greentech Industries IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in June 2022, Shree Siddhivinayak Greentech Industries Limited is an integrated agro-processing company engaged in the manufacturing of Jaggery Powder, Khandsari Sugar, jaggery-based value-added food products, and sugarcane by-products. The company also operates a Cane Seed nursery, enabling backward integration in sugarcane cultivation. It serves both B2B customers through jaggery powder, Khandsari sugar, and by-products, and B2C customers through its \"Feel Guddy\" branded jaggery-based premix products, including Jaggery Tea, Jaggery Coffee, Instant Rice Kheer, Jaggery Laddoo, and Jaggery Lapsi."
+      },
+      {
+        "type": "p",
+        "text": "The company follows an integrated sugarcane processing model, utilizing sugarcane to manufacture primary products while efficiently monetizing by-products such as bagasse, molasses, press mud, and ash. With backward integration into sugarcane seed cultivation, captive processing facilities, and a focus on sustainable and zero-waste manufacturing, the company has established a diversified product portfolio catering to both industrial and retail markets."
+      },
+      {
+        "type": "p",
+        "text": "Shree Siddhivinayak Greentech Industries emphasizes operational efficiency, quality control, sustainable manufacturing practices, and product innovation."
+      },
+      {
+        "type": "p",
+        "text": "As of March 31, 2026, the company employed 155 permanent personnel across production, engineering, agriculture, administration, sales, finance, security, and other operational functions."
+      },
+      {
+        "type": "p",
+        "text": "Competitive Strength"
+      },
+      {
+        "type": "li",
+        "text": "Integrated Sugarcane Processing Operations"
+      },
+      {
+        "type": "li",
+        "text": "Backward Integration and Strong Farmer Ecosystem"
+      },
+      {
+        "type": "li",
+        "text": "Proximity to Sugarcane Catchment Area and Efficient Procurement"
+      },
+      {
+        "type": "li",
+        "text": "Seasonal Operational Expertise and High Capacity Utilisation"
+      },
+      {
+        "type": "li",
+        "text": "Zero-Waste and Circular Manufacturing Model"
+      },
+      {
+        "type": "li",
+        "text": "Energy Efficiency through Captive Power Generation"
+      },
+      {
+        "type": "li",
+        "text": "Diversified Product Portfolio Across B2B and B2C Segments"
+      },
+      {
+        "type": "li",
+        "text": "Government Incentive"
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Shree Siddhivinayak Greentech Industries Limited is an integrated agro-processing company engaged in the production of Jaggery Powder, Khandsari Sugar, jaggery-based value-added food products and sugarcane-derived by-products. The company also operates a Cane Seed nursery to support sugarcane cultivation and strengthen its backward integration capabilities. Its business model caters to both B2B and B2C markets. While its B2B portfolio includes jaggery powder, Khandsari sugar and industrial by-products, its consumer-facing products are marketed under the \"Feel Guddy\" brand, which offers jaggery-based premixes such as Jaggery Tea, Jaggery Coffee, Instant Rice Kheer, Jaggery Laddoo and Jaggery Lapsi."
+      },
+      {
+        "type": "p",
+        "text": "The company operates an integrated sugarcane processing model, enabling it to derive multiple products from a single agricultural input. Alongside its primary products, it commercially utilises processing by-products, including bagasse, molasses, press mud and ash, to improve resource efficiency and minimise waste. Its operations are supported by backward integration through cane seed cultivation, in-house processing infrastructure and established procurement networks. This integrated approach enables the company to serve diverse industrial and retail customer segments while focusing on sustainable and resource-efficient manufacturing."
+      },
+      {
+        "type": "p",
+        "text": "Shree Siddhivinayak Greentech Industries Limited places emphasis on production efficiency, quality assurance, sustainable operations and continuous product development. As of March 31, 2026, the company had 155 permanent employees across various functions, including production, engineering, agriculture, administration, sales, finance, security and other operational departments."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Integrated Sugarcane Processing Infrastructure: An integrated manufacturing model that enables the production of multiple sugarcane-based products and value-added derivatives."
+      },
+      {
+        "type": "li",
+        "text": "Backward Integration and Farmer Network: Cane seed nursery operations and farmer relationships that support sugarcane cultivation and raw material sourcing."
+      },
+      {
+        "type": "li",
+        "text": "Strategic Location and Procurement Efficiency: Proximity to key sugarcane-growing regions, facilitating efficient procurement and raw material availability."
+      },
+      {
+        "type": "li",
+        "text": "Seasonal Operational Expertise: Experience in managing seasonal sugarcane processing cycles and optimising production capacity utilisation."
+      },
+      {
+        "type": "li",
+        "text": "Sustainable and Zero-Waste Manufacturing: Efficient utilisation of sugarcane and its by-products to minimise waste and maximise resource recovery."
+      },
+      {
+        "type": "li",
+        "text": "Captive Power Generation: Improved energy efficiency through the utilisation of available processing resources for captive power generation."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Product Portfolio: A combination of industrial-grade products and branded consumer offerings catering to B2B and B2C markets."
+      },
+      {
+        "type": "li",
+        "text": "Government Incentives: Potential benefits from applicable government policies and incentive schemes supporting the sugar and agro-processing industries."
+      }
+    ],
+    "promoters": "Dipali Dattatraya Kulkarni, Dattatray Kashinath Kulkarni",
+    "promoterHoldingPre": 100,
+    "promoterHoldingPost": 65,
+    "address": "Block Number 1 & 4, Floor No-1 and 2 Survey No 120, Plot No 4 & C.T.S. Number- 5343, Sambhaji Nagar Behind DIC, Osmanabad, Maharashtra",
+    "phone": "8669522424",
+    "email": "info@shreesiddhivinayakgreentech.com",
+    "website": "https://shreesiddhivinayakgreentech.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 53.24,
+      "roce": 19.76,
+      "debtEquity": 3.59,
+      "ronw": 46.24,
+      "patMargin": 15.4,
+      "ebitdaMargin": 27.19,
+      "priceToBook": 6.94,
+      "nav": 20.47
+    },
+    {
+      "asOf": "2026-07-31",
+      "roe": 12.86,
+      "roce": 6.2,
+      "debtEquity": 2.62,
+      "ronw": 12.08,
+      "patMargin": 9.84,
+      "ebitdaMargin": 13.35,
+      "priceToBook": 6.1,
+      "nav": 23.28
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "31 Jul 2026",
+        "date": "2026-07-31"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          121.8,
+          145.86,
+          115.22,
+          114.78
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          37.42,
+          78.32,
+          61.13,
+          36.9
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          3.45,
+          11.59,
+          5.5,
+          3.08
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          4.68,
+          20.46,
+          14.54,
+          8.61
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          28.52,
+          25.07,
+          18.48,
+          12.98
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          16.27,
+          20.17,
+          8.58,
+          3.08
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          74.72,
+          89.95,
+          72.76,
+          76.45
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Capital Expenditure",
+      "amountCr": 23.54
+    },
+    {
+      "text": "Pre-payment/re-payment, in part or full, of certain outstanding borrowings",
+      "amountCr": 48.5
+    },
+    {
+      "text": "General Corporate Expenses"
+    },
+    {
+      "text": "Total",
+      "amountCr": 72.04
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Shree Siddhivinayak Greentech Industries Ltd.",
+        "9.46",
+        "9.46",
+        "20.47",
+        "",
+        "46.24",
+        "Restated"
+      ],
+      [
+        "Dhampure Specialty Sugars Ltd",
+        "6.35",
+        "6.35",
+        "48.61",
+        "18.30",
+        "13.07",
+        "Consolidated"
+      ],
+      [
+        "Dollex Agrotech Limited",
+        "2.27",
+        "2.27",
+        "31.03",
+        "14.40",
+        "6.79",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/emerge/corporates/content/DRHP_SSGID.zip",
+    "rhp": "https://erudorecapital.com/wp-content/uploads/2026/11/Red-Herring-Prospectus-Siddhivinayak.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
+    "updated": "Nov 21st 2026 12:01 PM",
+    "gmpUpdatedAt": "2026-11-21T11:33:00+05:30"
+  }
+}

@@ -1,0 +1,451 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 1998,
+  "name": "Vectras Enprocon",
+  "companyName": "Vectras Enprocon Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Oil Equipment & Services",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 99,
+    "priceHigh": 105,
+    "finalPrice": 105,
+    "faceValue": 10,
+    "lot": 1200,
+    "sizeCr": 53.05,
+    "freshCr": 39.93,
+    "ofsCr": 10.46,
+    "totalShares": 5052000,
+    "marketCapCr": 200.09,
+    "peIssue": 10.2,
+    "pePostIssue": 10.99,
+    "eps": 10.29,
+    "epsPostIssue": 9.55
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 252000
+    },
+    "retailMax": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 252000
+    },
+    "sHniMin": {
+      "shares": 3600,
+      "lots": 3,
+      "amount": 378000
+    },
+    "bHniMin": {
+      "shares": 9600,
+      "lots": 8,
+      "amount": 1008000
+    }
+  },
+  "reservation": {
+    "qib": 960000,
+    "anchor": 1438800,
+    "nii": 720000,
+    "sNii": 237600,
+    "bNii": 482400,
+    "retail": 1680000,
+    "marketMaker": 253200
+  },
+  "dates": {
+    "anchorBid": "2026-10-29",
+    "open": "2026-10-30",
+    "close": "2026-11-03",
+    "boa": "2026-11-04",
+    "refund": "2026-11-05",
+    "dematCredit": "2026-11-05",
+    "listing": "2026-11-06",
+    "anchorLockIn50": "2026-12-04",
+    "anchorLockInRest": "2027-02-02"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-06T09:31:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-06",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 105,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-06T09:31:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 4.2,
+    "asOf": "2026-11-03T23:25:04+05:30"
+  },
+  "listing": {
+    "price": 106,
+    "gainPct": 0.95,
+    "nseSymbol": "VECTRAS",
+    "bseCode": 8072,
+    "isin": "INE1FD201014"
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "allotmentUrl": "https://in.mpms.mufg.com/Initial_Offer/public-issues.html",
+    "email": "vectras.smeipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Vectras Enprocon IPO is a book build issue of ₹53.05 crores. The issue is a combination of fresh issue of 40.56 lakh shares aggregating to ₹42.59 crores and offer for sale of 9.96 lakh shares aggregating to ₹10.46 crores."
+      },
+      {
+        "type": "p",
+        "text": "Vectras Enprocon IPO bidding started from Oct 30, 2026 and ended on Nov 3, 2026. The allotment for Vectras Enprocon IPO was finalized on Nov 4, 2026. The shares got listed on the BSE SME on Nov 6, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Vectras Enprocon IPO is set final issue price at ₹105 per share. The lot size for an application is 1,200 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,52,000 (2,400 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (3,600 shares), amounting to ₹3,78,000."
+      },
+      {
+        "type": "p",
+        "text": "Beeline Capital Advisors Pvt.ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Spread X Securities Pvt.Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Vectras Enprocon IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India."
+      },
+      {
+        "type": "h",
+        "text": "Business Verticals:"
+      },
+      {
+        "type": "li",
+        "text": "Combined Oil and Gas station works: Mechanical, electrical, and civil work in Refineries, petrochemical complexes, Gas Processing Units, Oil & Gas Terminals, and Petroleum Depots. As of August 31, 2025, its unexecuted Order book for Oil & Gas station work stands at ₹15,088.80 lakh."
+      },
+      {
+        "type": "li",
+        "text": "Midstream and Downstream pipeline projects and related facilities: As of September 30, 2026, its order book for Oil & Gas Pipeline work stands at ₹ 18,327.88 lakh"
+      },
+      {
+        "type": "li",
+        "text": "Other allied services: Civil and infrastructure projects in the Oil and gas industry; electrical, Instrumentation, and Inspection, Testing, and Safety Auditing services in the Oil and Gas Industry."
+      },
+      {
+        "type": "p",
+        "text": "The company has developed strong capabilities in designing, engineering, procuring, constructing, testing, and commissioning Oil & Gas pipelines and stations. It has completed over 3,34,000 inch dia piping, 785 inch-kilometer pipelines, and 4 combined station projects."
+      },
+      {
+        "type": "p",
+        "text": "The company serves both public and private oil and gas companies and maintains ISO certifications for quality, safety, environmental, and instrumentation standards."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, the company had 990 employees across multiple divisions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Track record of timely completion of complex project"
+      },
+      {
+        "type": "li",
+        "text": "Strong Order Book for existing project portfolio and geography"
+      },
+      {
+        "type": "li",
+        "text": "Strong Execution Capabilities"
+      },
+      {
+        "type": "li",
+        "text": "Track Record of Growth in Financial Performance"
+      },
+      {
+        "type": "li",
+        "text": "Experienced management team with significant industry experience"
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Vectras Enprocon Ltd. is a Gujarat-based Engineering, Procurement and Construction (EPC) company operating in the midstream and downstream segments of the Oil & Gas industry. The company specializes in laying pipeline networks, building combined stations, and constructing related facilities across multiple states in India."
+      },
+      {
+        "type": "h",
+        "text": "Business Verticals:"
+      },
+      {
+        "type": "li",
+        "text": "Combined Oil and Gas station works: Mechanical, electrical and civil work in Refineries, Petrochemical Complex, Gas Processing Units, Oil & Gas Terminals and Petroleum Depots. As of August 31, 2025, its unexecuted Order book for Oil & Gas stations work stands at ₹ 15,088.80 lakh."
+      },
+      {
+        "type": "li",
+        "text": "Midstream and Downstream pipeline projects and related facilities: As of August 31, 2025, its order book for Oil & Gas Pipeline work stands at ₹ 8,767.27 lakh"
+      },
+      {
+        "type": "li",
+        "text": "Other allied services: Civil and infrastructure project in Oil and Gas Industry, Electrical, Instrumentation, and Inspection, Testing and Safety Auditing services in Oil and Gas Industry."
+      },
+      {
+        "type": "p",
+        "text": "The company has developed strong capabilities in design, engineering, procurement, construction, testing, and commissioning of Oil & Gas pipelines and stations. It has completed over 3,34,000 inch dia piping, 785 inch-kilometre pipelines, and 4 combined station projects."
+      },
+      {
+        "type": "p",
+        "text": "The company serves both public and private Oil & Gas companies and maintain ISO certifications for quality, safety, environment, and instrumentation standards."
+      },
+      {
+        "type": "p",
+        "text": "As of August 31, 2025, the company had 279 permanent employees across multiple divisions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Track record of timely completion of complex project"
+      },
+      {
+        "type": "li",
+        "text": "Strong Order Book for existing project portfolio and geography"
+      },
+      {
+        "type": "li",
+        "text": "Strong Execution Capabilities"
+      },
+      {
+        "type": "li",
+        "text": "Track Record of Growth in Financial Performance"
+      },
+      {
+        "type": "li",
+        "text": "Experienced management team with significant industry experience"
+      }
+    ],
+    "promoters": "Naynesh Kanubhai Patel, Maheshkumar Gopalbhai Patel",
+    "promoterHoldingPre": 100,
+    "promoterHoldingPost": 73.49,
+    "address": "Office No. 601-602,, Amrakunj Avis, Near Tapovan circle,, Chandkheda, Ahmedabad, Gujarat",
+    "phone": "6353152513",
+    "email": "compliance@vectrasgroup.com",
+    "website": "https://www.vectrasgroup.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 51.39,
+      "roce": 48.37,
+      "debtEquity": 0.59,
+      "ronw": 51.39,
+      "patMargin": 12.88,
+      "ebitdaMargin": 20.04,
+      "priceToBook": 4.17,
+      "nav": 25.17
+    },
+    {
+      "asOf": "2026-09-30",
+      "roe": 21.52,
+      "roce": 19.69,
+      "debtEquity": 0.67,
+      "ronw": 21.52,
+      "patMargin": 12.65,
+      "ebitdaMargin": 20.21,
+      "priceToBook": 3.36,
+      "nav": 31.23
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Sep 2026",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          90.91,
+          74.94,
+          46.5,
+          21.47
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          72.2,
+          119.9,
+          80.53,
+          54.37
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          9.1,
+          15.43,
+          10.17,
+          5.81
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          14.54,
+          24.01,
+          15.05,
+          8.67
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          46.85,
+          37.75,
+          22.32,
+          12.15
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          31.85,
+          22.75,
+          19.82,
+          9.65
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          31.36,
+          22.21,
+          11.87,
+          4.16
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Repayment / prepayment, in full or part, of certain outstanding borrowings availed by Company",
+      "amountCr": 14
+    },
+    {
+      "text": "To Meet Working Capital Requirements of Company",
+      "amountCr": 20
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 4.44
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 5.17
+    },
+    {
+      "text": "Total",
+      "amountCr": 43.61
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Vectras Enprocon",
+        "10.29",
+        "10.29",
+        "25.17",
+        "",
+        "51.39",
+        "",
+        "Standalone"
+      ],
+      [
+        "Pratham EPC Projects",
+        "3.38",
+        "3.38",
+        "49.94",
+        "34.47",
+        "7.44",
+        "2.37",
+        "Consolidated"
+      ],
+      [
+        "Desco Infratech",
+        "21.30",
+        "21.30",
+        "92.22",
+        "8.35",
+        "25.21",
+        "1.92",
+        "Consolidated"
+      ],
+      [
+        "Likhitha Infrastructure",
+        "9.94",
+        "9.94",
+        "104.44",
+        "22.43",
+        "9.82",
+        "2.13",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/301904/SME_IPO%20InPrinciple/DRHP_20250930202344.pdf",
+    "rhp": "https://www.bseindia.com/downloads/ipo/VEL_RHP&GID_291020262108.zip",
+    "prospectus": "https://vectrasgroup.com/wp-content/uploads/2026/11/Prospectus_VEL_2026_Clean.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/vectras-enorocon-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/vectras-enprocon-ipo/1998/",
+    "updated": "Nov 6th 2026 09:31 AM",
+    "gmpUpdatedAt": "2026-11-06T09:31:00+05:30"
+  }
+}

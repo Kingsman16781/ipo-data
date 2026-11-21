@@ -1,0 +1,620 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2306,
+  "name": "Jio Platforms",
+  "companyName": "Jio Platforms Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "listed",
+  "rating": 4,
+  "sector": "Telecom - Cellular & Fixed line services",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 1065,
+    "priceHigh": 1119,
+    "finalPrice": 1119,
+    "faceValue": 10,
+    "lot": 12,
+    "sizeCr": 30187.65,
+    "freshCr": 30187.65,
+    "totalShares": 270000000,
+    "marketCapCr": 1030490.55,
+    "peIssue": 33.28,
+    "pePostIssue": 33.19,
+    "eps": 33.62,
+    "epsPostIssue": 33.72
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 12,
+      "lots": 1,
+      "amount": 13428
+    },
+    "retailMax": {
+      "shares": 168,
+      "lots": 14,
+      "amount": 187992
+    },
+    "sHniMin": {
+      "shares": 180,
+      "lots": 15,
+      "amount": 201420
+    },
+    "sHniMax": {
+      "shares": 888,
+      "lots": 74,
+      "amount": 993672
+    },
+    "bHniMin": {
+      "shares": 900,
+      "lots": 75,
+      "amount": 1007100
+    }
+  },
+  "reservation": {
+    "qib": 49007827,
+    "anchor": 72474066,
+    "nii": 36444569,
+    "sNii": 12148189,
+    "bNii": 24296380,
+    "retail": 85037327,
+    "employee": 4694835,
+    "shareholder": 22341376
+  },
+  "dates": {
+    "anchorBid": "2026-10-19",
+    "open": "2026-10-21",
+    "close": "2026-10-23",
+    "boa": "2026-10-26",
+    "refund": "2026-10-27",
+    "dematCredit": "2026-10-27",
+    "listing": "2026-10-28",
+    "anchorLockIn50": "2026-11-24",
+    "anchorLockInRest": "2027-01-23"
+  },
+  "gmp": {
+    "current": 250,
+    "pct": 22.34,
+    "low": 148,
+    "high": 273,
+    "estListing": 1369,
+    "estProfitPerLot": 3000,
+    "updatedAt": "2026-10-28T09:37:00+05:30",
+    "trend": {
+      "direction": "Volatile",
+      "first": 148,
+      "last": 250,
+      "change": 102,
+      "range": 125,
+      "upPct": 58.33,
+      "downPct": 33.33,
+      "sessions": 25
+    },
+    "history": [
+      {
+        "date": "2026-10-04",
+        "gmp": 148,
+        "gmpPct": 13.23,
+        "estListing": 1267,
+        "estProfitPerLot": 1776,
+        "updatedAt": "2026-10-04T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-05",
+        "gmp": 156,
+        "gmpPct": 13.94,
+        "estListing": 1275,
+        "estProfitPerLot": 1872,
+        "updatedAt": "2026-10-05T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-06",
+        "gmp": 167,
+        "gmpPct": 14.92,
+        "estListing": 1286,
+        "estProfitPerLot": 2004,
+        "updatedAt": "2026-10-06T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-07",
+        "gmp": 182,
+        "gmpPct": 16.26,
+        "estListing": 1301,
+        "estProfitPerLot": 2184,
+        "updatedAt": "2026-10-07T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-08",
+        "gmp": 167,
+        "gmpPct": 14.92,
+        "estListing": 1286,
+        "estProfitPerLot": 2004,
+        "updatedAt": "2026-10-08T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-09",
+        "gmp": 173,
+        "gmpPct": 15.46,
+        "estListing": 1292,
+        "estProfitPerLot": 2076,
+        "updatedAt": "2026-10-09T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-10",
+        "gmp": 171,
+        "gmpPct": 15.28,
+        "estListing": 1290,
+        "estProfitPerLot": 2052,
+        "updatedAt": "2026-10-10T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-11",
+        "gmp": 172,
+        "gmpPct": 15.37,
+        "estListing": 1291,
+        "estProfitPerLot": 2064,
+        "updatedAt": "2026-10-11T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-12",
+        "gmp": 182,
+        "gmpPct": 16.26,
+        "estListing": 1301,
+        "estProfitPerLot": 2184,
+        "updatedAt": "2026-10-12T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-13",
+        "gmp": 218,
+        "gmpPct": 19.48,
+        "estListing": 1337,
+        "estProfitPerLot": 2616,
+        "updatedAt": "2026-10-13T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-14",
+        "gmp": 206,
+        "gmpPct": 18.41,
+        "estListing": 1325,
+        "estProfitPerLot": 2472,
+        "updatedAt": "2026-10-14T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-15",
+        "gmp": 221,
+        "gmpPct": 19.75,
+        "estListing": 1340,
+        "estProfitPerLot": 2652,
+        "sauda": "2000",
+        "updatedAt": "2026-10-15T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-16",
+        "gmp": 221,
+        "gmpPct": 19.75,
+        "estListing": 1340,
+        "estProfitPerLot": 2652,
+        "sauda": "2000",
+        "updatedAt": "2026-10-16T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-17",
+        "gmp": 235,
+        "gmpPct": 21,
+        "estListing": 1354,
+        "estProfitPerLot": 2820,
+        "sauda": "2100",
+        "updatedAt": "2026-10-17T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-18",
+        "gmp": 250,
+        "gmpPct": 22.34,
+        "estListing": 1369,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "updatedAt": "2026-10-18T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-19",
+        "gmp": 245,
+        "gmpPct": 21.89,
+        "estListing": 1364,
+        "estProfitPerLot": 2940,
+        "sauda": "2200",
+        "updatedAt": "2026-10-19T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-20",
+        "gmp": 273,
+        "gmpPct": 24.4,
+        "estListing": 1392,
+        "estProfitPerLot": 3276,
+        "sauda": "2500",
+        "updatedAt": "2026-10-20T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-21",
+        "gmp": 246,
+        "gmpPct": 21.98,
+        "estListing": 1365,
+        "estProfitPerLot": 2952,
+        "sauda": "2200",
+        "sub": 3.04,
+        "updatedAt": "2026-10-21T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-22",
+        "gmp": 240,
+        "gmpPct": 21.45,
+        "estListing": 1359,
+        "estProfitPerLot": 2880,
+        "sauda": "2200",
+        "sub": 5.4,
+        "updatedAt": "2026-10-22T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-23",
+        "gmp": 250,
+        "gmpPct": 22.34,
+        "estListing": 1369,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "sub": 21.36,
+        "updatedAt": "2026-10-23T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-24",
+        "gmp": 247,
+        "gmpPct": 22.07,
+        "estListing": 1366,
+        "estProfitPerLot": 2964,
+        "sauda": "2300",
+        "updatedAt": "2026-10-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-25",
+        "gmp": 247,
+        "gmpPct": 22.07,
+        "estListing": 1366,
+        "estProfitPerLot": 2964,
+        "sauda": "2300",
+        "updatedAt": "2026-10-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-26",
+        "gmp": 245,
+        "gmpPct": 21.89,
+        "estListing": 1364,
+        "estProfitPerLot": 2940,
+        "sauda": "2200",
+        "updatedAt": "2026-10-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-27",
+        "gmp": 248,
+        "gmpPct": 22.16,
+        "estListing": 1367,
+        "estProfitPerLot": 2976,
+        "sauda": "2300",
+        "updatedAt": "2026-10-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-28",
+        "gmp": 250,
+        "gmpPct": 22.34,
+        "estListing": 1369,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "updatedAt": "2026-10-28T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 21.36,
+    "asOf": "2026-10-24T00:58:42+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-21",
+        "sub": 3.04
+      },
+      {
+        "date": "2026-10-22",
+        "sub": 5.4
+      },
+      {
+        "date": "2026-10-23",
+        "sub": 21.36
+      }
+    ]
+  },
+  "listing": {
+    "price": 1358,
+    "gainPct": 21.36,
+    "nseSymbol": "JPL",
+    "isin": "INE0BJO01010"
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "allotmentUrl": "https://ipostatus.kfintech.com/",
+    "email": "jioplatforms.ipo@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Jio Platforms IPO is a book build issue of ₹30,187.65 crores. The issue is entirely a fresh issue of 27.00 crore shares of ₹30,187.65 crore."
+      },
+      {
+        "type": "p",
+        "text": "Jio Platforms IPO bidding started from Oct 21, 2026 and ended on Oct 23, 2026. The allotment for Jio Platforms IPO was finalized on Oct 26, 2026. The shares got listed on NSE and BSE on Oct 28, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Jio Platforms IPO is set final issue price at ₹1,119 per share. The lot size for an application is 12 shares. The minimum amount of investment required by an individual investor (retail) is ₹13,428 (12 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "The issue includes a reservation of up to 46,94,835 shares for employees offered at a discount of ₹54.00 to the issue price."
+      },
+      {
+        "type": "p",
+        "text": "Kotak Mahindra Capital Co.Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Jio Platforms IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated on November 15, 2019, Jio Platforms Limited is a technology company focused on digital connectivity, digital services and technology-led solutions in India. The Company has developed proprietary digital technology and pan-India connectivity infrastructure to support the delivery of digital services to consumers and businesses. Its subsidiary, Reliance Jio Infocomm Limited, served 533.3 million customers as of June 30, 2026.The Company operates through an integrated technology platform encompassing digital connectivity, consumer applications, enterprise solutions, cloud services, Internet of Things (IoT) and artificial intelligence (AI). Its consumer offerings include mobile and fixed broadband, digital entertainment, cloud storage, virtual PC services and smart home solutions. For businesses, it provides enterprise connectivity, cloud and security solutions, managed services, IoT applications and AI-based solutions. The Company’s proprietary technology capabilities span network infrastructure, device engineering, software, operating systems and digital applications."
+      },
+      {
+        "type": "p",
+        "text": "The Company’s infrastructure includes pan-India 4G and 5G connectivity, fibre connectivity across more than 1,200 facilities and over 100 edge nodes within its networks as of June 30, 2026. Its wireless broadband network covered more than 99% of India’s population. The Company and its subsidiaries had filed 7,220 patent applications, of which 1,043 had been granted, as of June 30, 2026. Its technology initiatives include an indigenous 5G technology stack, proprietary AI platform JioBrain and fixed wireless access technology. The Company also leverages a nationwide distribution network and partnerships to expand access to digital services."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company had 27,932 full-time employees and engaged 63,795 personnel on a contract basis. Its workforce includes teams across digital products and technology development, business operations, sales and distribution, customer service, network operations, and corporate functions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Leadership in digital connectivity and services across India."
+      },
+      {
+        "type": "li",
+        "text": "Diversified portfolio of consumer and enterprise digital services."
+      },
+      {
+        "type": "li",
+        "text": "Large and highly engaged customer base with nationwide reach."
+      },
+      {
+        "type": "li",
+        "text": "Nationwide digital distribution network and strategic group synergies."
+      },
+      {
+        "type": "li",
+        "text": "Proven ability to scale operations and deploy new technologies rapidly."
+      },
+      {
+        "type": "li",
+        "text": "Extensive pan-India network infrastructure with 4G and 5G capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Proprietary technology platform with in-house engineering and full-stack capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Strong innovation capabilities supported by patents, AI and technology development."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Jio Platforms Limited is a leading digital technology company in India, operating primarily through its subsidiary, Reliance Jio Infocomm Limited. The company delivers a broad range of digital connectivity and technology-enabled services to consumers and enterprises across the country. As of March 31, 2026, it served more than 524 million customers through its extensive telecommunications and digital services ecosystem."
+      },
+      {
+        "type": "p",
+        "text": "The company has built an integrated, proprietary technology platform encompassing network infrastructure, software applications, operating systems, cloud capabilities, digital devices, and advanced technology solutions. Its consumer offerings include mobile and fixed broadband services, digital entertainment, gaming, cloud storage, smart home products, and AI-powered applications, supported by platforms such as MyJio, JioTV+, JioSaavn, JioGames, and JioAICloud. For enterprises, Jio Platforms provides connectivity solutions, cloud and IoT services, cybersecurity, managed services, unified communications, and private 5G networks, serving clients across sectors including banking, manufacturing, utilities, transportation, government, and information technology. As of March 31, 2026, the company and its subsidiaries employed 28,163 full-time personnel and maintained a portfolio of patent applications related to digital communications, cloud-native technologies, artificial intelligence, and other emerging innovations."
+      },
+      {
+        "type": "h",
+        "text": "Jio Platform Shareholder and Employee Reservation"
+      },
+      {
+        "type": "p",
+        "text": "The company has reserved 46,94,835 shares for eligible employees and 2,23,41,376 shares for eligible shareholders. Shareholders who hold Reliance Jio Co.'s shares by record date, Oct 14, 2026, will be the eligible to apply under the shareholder quota."
+      }
+    ],
+    "promoters": "Reliance Industries Ltd.",
+    "promoterHoldingPre": 66.43,
+    "promoterHoldingPost": 64.48,
+    "address": "Office - 101, Saffron, Nr. Centre Point, Panchwati 5 Rasta, Ambawadi, Ahmedabad, Gujarat",
+    "phone": "+91 22 7967 0000",
+    "email": "jpl.investorrelations@jio.com",
+    "website": "https://www.jio.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "ronw": 9.42,
+      "patMargin": 20.46,
+      "ebitdaMargin": 51.91,
+      "priceToBook": 2.99,
+      "nav": 373.66
+    },
+    {
+      "asOf": "2026-06-30",
+      "ronw": 2.3,
+      "patMargin": 19.82,
+      "ebitdaMargin": 53.26,
+      "priceToBook": 2.93,
+      "nav": 382.34
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          622905.3,
+          615594,
+          581233.8,
+          539580.4
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          40197.9,
+          149759.1,
+          129333,
+          110175.4
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          7764.1,
+          30052.7,
+          26120.3,
+          21434
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          20864.5,
+          76255.4,
+          64170,
+          54958.7
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          341778.5,
+          334013.4,
+          304022.4,
+          277866.1
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          332839.5,
+          325074.4,
+          295083.4,
+          268927.1
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          61372.2,
+          70781,
+          73060.3,
+          54348.9
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Prepayment, in full or in part, of certain outstanding borrowings availed by the Material Subsidiary, namely, RJIL",
+      "amountCr": 27500
+    },
+    {
+      "text": "General corporate purposes.",
+      "amountCr": 2217.9
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 469.7
+    },
+    {
+      "text": "Total",
+      "amountCr": 30187.6
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Jio Platforms Ltd.",
+        "33.63",
+        "33.59",
+        "373.66",
+        "33.31",
+        "9.42",
+        "Consolidated"
+      ],
+      [
+        "Bharti Airtel Ltd.",
+        "45.96",
+        "44.37",
+        "244.60",
+        "42.64",
+        "20.32",
+        "Consolidated"
+      ],
+      [
+        "Vodafone Idea Ltd.",
+        "3.21",
+        "3.21",
+        "-3.30",
+        "3.54",
+        "",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/jun-2026/jio-platforms-ltd-drhp_102248.html",
+    "rhp": "https://www.sebi.gov.in/filings/public-issues/oct-2026/jio-platforms-limited-rhp_105274.html",
+    "prospectus": "https://www.sebi.gov.in/filings/public-issues/oct-2026/jio-platforms-ltd-prospectus_105427.html",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/jio-platform-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/jio-platforms-ipo/2306/",
+    "updated": "Oct 28th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-10-28T09:37:00+05:30"
+  }
+}

@@ -1,0 +1,499 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2393,
+  "name": "Carver Roboweld",
+  "companyName": "Carver Roboweld Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "listed",
+  "rating": 2,
+  "sector": "Industrial Products",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 76,
+    "priceHigh": 80,
+    "finalPrice": 80,
+    "faceValue": 10,
+    "lot": 1600,
+    "sizeCr": 28.29,
+    "freshCr": 26.87,
+    "totalShares": 3536000,
+    "marketCapCr": 104.82,
+    "peIssue": 21.98,
+    "pePostIssue": 17.54,
+    "eps": 3.64,
+    "epsPostIssue": 4.56
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 3200,
+      "lots": 2,
+      "amount": 256000
+    },
+    "retailMax": {
+      "shares": 3200,
+      "lots": 2,
+      "amount": 256000
+    },
+    "sHniMin": {
+      "shares": 4800,
+      "lots": 3,
+      "amount": 384000
+    },
+    "bHniMin": {
+      "shares": 12800,
+      "lots": 8,
+      "amount": 1024000
+    }
+  },
+  "reservation": {
+    "qib": 668800,
+    "anchor": 996800,
+    "nii": 512000,
+    "sNii": 171200,
+    "bNii": 340800,
+    "retail": 1180800,
+    "marketMaker": 177600
+  },
+  "dates": {
+    "anchorBid": "2026-10-27",
+    "open": "2026-10-28",
+    "close": "2026-10-30",
+    "boa": "2026-11-02",
+    "refund": "2026-11-02",
+    "dematCredit": "2026-11-03",
+    "listing": "2026-11-04",
+    "anchorLockIn50": "2026-12-01",
+    "anchorLockInRest": "2027-01-30"
+  },
+  "gmp": {
+    "current": 4,
+    "pct": 5,
+    "low": 4,
+    "high": 5,
+    "estListing": 84,
+    "estProfitPerLot": 6400,
+    "updatedAt": "2026-11-04T09:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 5,
+      "last": 4,
+      "change": -1,
+      "range": 1,
+      "upPct": 0,
+      "downPct": 20,
+      "sessions": 6
+    },
+    "history": [
+      {
+        "date": "2026-10-30",
+        "gmp": 5,
+        "gmpPct": 6.25,
+        "estListing": 85,
+        "estProfitPerLot": 8000,
+        "sauda": "6100",
+        "sub": 25.8,
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 5,
+        "gmpPct": 6.25,
+        "estListing": 85,
+        "estProfitPerLot": 8000,
+        "sauda": "6100",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 5,
+        "gmpPct": 6.25,
+        "estListing": 85,
+        "estProfitPerLot": 8000,
+        "sauda": "6100",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 5,
+        "gmpPct": 6.25,
+        "estListing": 85,
+        "estProfitPerLot": 8000,
+        "sauda": "6100",
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 4,
+        "gmpPct": 5,
+        "estListing": 84,
+        "estProfitPerLot": 6400,
+        "sauda": "4900",
+        "updatedAt": "2026-11-03T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-04",
+        "gmp": 4,
+        "gmpPct": 5,
+        "estListing": 84,
+        "estProfitPerLot": 6400,
+        "sauda": "4900",
+        "updatedAt": "2026-11-04T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 25.8,
+    "asOf": "2026-10-30T23:25:04+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-30",
+        "sub": 25.8
+      }
+    ]
+  },
+  "listing": {
+    "price": 90,
+    "gainPct": 12.5,
+    "nseSymbol": "CRL",
+    "isin": "INE1FY301017"
+  },
+  "registrar": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "code": "BIGSHARE",
+    "allotmentUrl": "https://ipo.bigshareonline.com/IPO_Status.html",
+    "email": "ipo@bigshareonline.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Carver Roboweld IPO is a book build issue of ₹28.29 crores. The issue is entirely a fresh issue of 35.36 lakh shares of ₹28.29 crore."
+      },
+      {
+        "type": "p",
+        "text": "Carver Roboweld IPO bidding started from Oct 28, 2026 and ended on Oct 30, 2026. The allotment for Carver Roboweld IPO was finalized on Nov 2, 2026. The shares got listed on the BSE SME on Nov 4, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Carver Roboweld IPO is set final issue price at ₹80 per share. The lot size for an application is 1,600 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,56,000 (3,200 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (4,800 shares), amounting to ₹3,84,000."
+      },
+      {
+        "type": "p",
+        "text": "Smart Horizon Capital Advisors Pvt.Ltd. is the book running lead manager and Bigshare Services Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Shreni Shares Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Carver Roboweld IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in August 2009, Carver Roboweld Limited is engaged in the manufacturing of welding consumables, including Metal Cored Wires, Welding Rods and Gauging Electrodes, along with the supply of welding spare parts and accessories. The Company has also expanded its offerings to provide value-added engineering solutions to the forging industry, including forging die regeneration and welding robot rental services."
+      },
+      {
+        "type": "p",
+        "text": "The Company operates its primary manufacturing facility in Bamanbore, Rajkot, Gujarat, with additional service units in Pune, Hosur and Ludhiana, enabling it to serve customers across key industrial markets in India. As of July 11, 2026, the Company had an aggregate installed production capacity of 650 tonnes per annum for Metal Cored Wires and Welding Rods, reflecting a capacity CAGR of approximately 30% between Fiscal 2025 and Fiscal 2026."
+      },
+      {
+        "type": "p",
+        "text": "Through its subsidiary, Carver Engineering Private Limited, acquired in September 2025, the Company also provides re-conditioning and refurbishment services for plant and machinery across industries such as forging, casting, cement, steel, sugar, power, petroleum, automotive and fabrication. Its engineering services include heavy-duty machining, structural fabrication, repair and refurbishment of hammers and components, and turnkey engineering projects."
+      },
+      {
+        "type": "p",
+        "text": "The Company has a presence across several Indian states and caters to industrial customers through its welding consumables and engineering solutions. It is ISO 9001:2015 certified and is a Sustaining Corporate Member of the American Welding Society (AWS), reflecting its focus on quality management and adherence to international welding standards."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company had 68 permanent employees and 75 contract workers."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Strategically located manufacturing facility and service units."
+      },
+      {
+        "type": "li",
+        "text": "Strategic market coverage across domestic industrial markets."
+      },
+      {
+        "type": "li",
+        "text": "Focus on meeting customer specifications and quality standards."
+      },
+      {
+        "type": "li",
+        "text": "Integrated manufacturing and value-added engineering service capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Experienced promoter and management team with strong welding industry expertise."
+      },
+      {
+        "type": "li",
+        "text": "Robot rental model supporting long-term customer engagement and recurring revenue."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Carver Roboweld Limited manufactures a range of welding consumables, including metal cored wires, welding rods and gauging electrodes. The Company also supplies welding spare parts and accessories and has diversified into value-added engineering services for the forging industry, such as forging die regeneration and welding robot rentals."
+      },
+      {
+        "type": "p",
+        "text": "The Company's main manufacturing facility is situated in Bamanbore, Rajkot, Gujarat, while its service units are located in Pune, Hosur and Ludhiana. This operational network enables it to cater to industrial customers across major manufacturing hubs in India. As of July 11, 2026, the Company had an installed production capacity of 650 tonnes per annum for metal cored wires and welding rods. Its production capacity recorded an approximate CAGR of 30% between Fiscal 2025 and Fiscal 2026."
+      },
+      {
+        "type": "p",
+        "text": "In September 2025, the Company acquired Carver Engineering Private Limited, a subsidiary engaged in the reconditioning and refurbishment of industrial plant and machinery. The subsidiary serves multiple sectors, including forging, casting, cement, steel, sugar, power, petroleum, automotive and fabrication. Its service portfolio covers heavy-duty machining, structural fabrication, repair and refurbishment of industrial hammers and components, and execution of turnkey engineering projects."
+      },
+      {
+        "type": "p",
+        "text": "Carver Roboweld Limited serves customers across various Indian states through its welding consumables and engineering service offerings. The Company holds ISO 9001:2015 certification and is a Sustaining Corporate Member of the American Welding Society (AWS), demonstrating its commitment to quality management practices and recognised welding industry standards."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company employed 68 permanent employees and engaged 75 contract workers to support its manufacturing and service operations."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Strategic Manufacturing and Service Locations: Its manufacturing facility and service units are positioned to support customers across important industrial centres."
+      },
+      {
+        "type": "li",
+        "text": "Established Domestic Market Reach: The Company serves industrial customers across multiple Indian states through its diversified product and service portfolio."
+      },
+      {
+        "type": "li",
+        "text": "Customer-Centric Quality Approach: Emphasis on customer-specific requirements, product quality and established quality management practices."
+      },
+      {
+        "type": "li",
+        "text": "Integrated Product and Engineering Capabilities: A combination of welding consumables manufacturing and specialised engineering services enables the Company to address a broader range of industrial requirements."
+      },
+      {
+        "type": "li",
+        "text": "Experienced Leadership: The promoter and management team brings experience and expertise in the welding industry."
+      },
+      {
+        "type": "li",
+        "text": "Recurring Business Opportunities Through Robot Rentals: Its welding robot rental services support ongoing customer relationships and create opportunities for repeat business and recurring revenue."
+      }
+    ],
+    "promoters": "Ranjit Chandrabhai Bose, Rajit Chandra Bose, Deval Ranjitbhai Bose",
+    "promoterHoldingPre": 90.07,
+    "promoterHoldingPost": 65.77,
+    "address": "Office no. 1403, Space Odyssey, Near KKV Hall, 150 Feet Ring Road, Mota Mava, Rajkot, Gujarat",
+    "phone": "9727797000",
+    "email": "investor@carver.co.in",
+    "website": "https://www.carverroboweld.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-06-30",
+      "roe": 8.48,
+      "roce": 8.27,
+      "debtEquity": 0.7,
+      "ronw": 8.48,
+      "patMargin": 19.37,
+      "ebitdaMargin": 36.9,
+      "priceToBook": 4.34,
+      "nav": 18.42
+    },
+    {
+      "asOf": "2026-03-31",
+      "roe": 33.63,
+      "roce": 21.64,
+      "debtEquity": 0.97,
+      "ronw": 21.57,
+      "patMargin": 12.87,
+      "ebitdaMargin": 30.94,
+      "nav": 17.54
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          39.45,
+          38.26,
+          32.69,
+          21.59
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          7.71,
+          27.12,
+          24.97,
+          21.67
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          1.49,
+          3.48,
+          1.45,
+          1.01
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          2.84,
+          8.36,
+          4.92,
+          4.12
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          17.62,
+          16.13,
+          4.56,
+          3.11
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          9.62,
+          8.42,
+          3.61,
+          2.16
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          12.27,
+          15.65,
+          22.32,
+          13.39
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding the capital expenditure requirements of the Company towards the purchase of Welding Robots",
+      "amountCr": 11.99
+    },
+    {
+      "text": "Repayment and/or prepayment, in full or in part, of certain outstanding borrowings availed by the Company from banks and financial institutions",
+      "amountCr": 8.6
+    },
+    {
+      "text": "General Corporate Purpose",
+      "amountCr": 3.37
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 4.32
+    },
+    {
+      "text": "Total",
+      "amountCr": 28.29
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "- Standalone",
+        "3.78",
+        "3.78",
+        "16.86",
+        "",
+        "21.57",
+        "Standalone"
+      ],
+      [
+        "- Consolidated",
+        "5.80",
+        "5.80",
+        "18.80",
+        "",
+        "29.67",
+        "Consolidated"
+      ],
+      [
+        "Royal Arc Electrodes",
+        "9.05",
+        "9.05",
+        "73.21",
+        "18.18",
+        "12.36",
+        ""
+      ],
+      [
+        "Diffusion Engineers",
+        "11.98",
+        "11.98",
+        "102.73",
+        "34.52",
+        "11.61",
+        ""
+      ],
+      [
+        "Classic Electrodes (India)",
+        "7.04",
+        "7.04",
+        "52.99",
+        "7.03",
+        "13.28",
+        ""
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/398782/SME_IPO%20InPrinciple/DRHP_Carver_20260825235407.pdf",
+    "rhp": "https://www.bseindia.com/downloads/ipo/RHP&GID_271020261926.zip",
+    "prospectus": "https://www.bsesme.com/download/398782/SME_IPO%20BasisOfAllotment/Prospectus_20261102123310.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/anchorintimationlettercarver.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/carver-roboweld-ipo/2393/",
+    "updated": "Nov 4th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-04T09:37:00+05:30"
+  }
+}

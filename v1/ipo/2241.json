@@ -1,0 +1,432 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2241,
+  "name": "HGS (India)",
+  "companyName": "HGS (India) Ltd.",
+  "category": "SME",
+  "exchange": "NSE SME",
+  "status": "listed",
+  "rating": 4,
+  "sector": "Industrial Products",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 114,
+    "priceHigh": 120,
+    "finalPrice": 120,
+    "faceValue": 10,
+    "lot": 1200,
+    "sizeCr": 34.56,
+    "freshCr": 26.17,
+    "ofsCr": 6.65,
+    "totalShares": 2880000,
+    "marketCapCr": 130.3,
+    "peIssue": 8.8,
+    "pePostIssue": 9.76,
+    "eps": 13.64,
+    "epsPostIssue": 12.29
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 288000
+    },
+    "retailMax": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 288000
+    },
+    "sHniMin": {
+      "shares": 3600,
+      "lots": 3,
+      "amount": 432000
+    },
+    "bHniMin": {
+      "shares": 8400,
+      "lots": 7,
+      "amount": 1008000
+    }
+  },
+  "reservation": {
+    "qib": 547200,
+    "anchor": 813600,
+    "nii": 414000,
+    "sNii": 140400,
+    "bNii": 273600,
+    "retail": 960000,
+    "marketMaker": 145200
+  },
+  "dates": {
+    "anchorBid": "2026-10-29",
+    "open": "2026-10-30",
+    "close": "2026-11-03",
+    "boa": "2026-11-04",
+    "refund": "2026-11-05",
+    "dematCredit": "2026-11-05",
+    "listing": "2026-11-06",
+    "anchorLockIn50": "2026-12-03",
+    "anchorLockInRest": "2027-02-01"
+  },
+  "gmp": {
+    "current": 27,
+    "pct": 22.5,
+    "low": 25,
+    "high": 30,
+    "estListing": 147,
+    "estProfitPerLot": 32400,
+    "updatedAt": "2026-11-06T09:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 30,
+      "last": 27,
+      "change": -3,
+      "range": 5,
+      "upPct": 28.57,
+      "downPct": 28.57,
+      "sessions": 8
+    },
+    "history": [
+      {
+        "date": "2026-10-30",
+        "gmp": 30,
+        "gmpPct": 25,
+        "estListing": 150,
+        "estProfitPerLot": 36000,
+        "sauda": "27400",
+        "sub": 1.16,
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 30,
+        "gmpPct": 25,
+        "estListing": 150,
+        "estProfitPerLot": 36000,
+        "sauda": "27400",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 30,
+        "gmpPct": 25,
+        "estListing": 150,
+        "estProfitPerLot": 36000,
+        "sauda": "27400",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 30,
+        "gmpPct": 25,
+        "estListing": 150,
+        "estProfitPerLot": 36000,
+        "sauda": "27400",
+        "sub": 20.96,
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 25,
+        "gmpPct": 20.83,
+        "estListing": 145,
+        "estProfitPerLot": 30000,
+        "sauda": "22800",
+        "sub": 248.58,
+        "updatedAt": "2026-11-03T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-04",
+        "gmp": 28,
+        "gmpPct": 23.33,
+        "estListing": 148,
+        "estProfitPerLot": 33600,
+        "sauda": "25500",
+        "updatedAt": "2026-11-04T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-05",
+        "gmp": 30,
+        "gmpPct": 25,
+        "estListing": 150,
+        "estProfitPerLot": 36000,
+        "sauda": "27400",
+        "updatedAt": "2026-11-05T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-06",
+        "gmp": 27,
+        "gmpPct": 22.5,
+        "estListing": 147,
+        "estProfitPerLot": 32400,
+        "sauda": "24600",
+        "updatedAt": "2026-11-06T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 248.58,
+    "asOf": "2026-11-03T23:25:04+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-30",
+        "sub": 1.16
+      },
+      {
+        "date": "2026-11-02",
+        "sub": 20.96
+      },
+      {
+        "date": "2026-11-03",
+        "sub": 248.58
+      }
+    ]
+  },
+  "listing": {
+    "price": 160,
+    "gainPct": 33.33,
+    "nseSymbol": "HGSINDIALT",
+    "isin": "INE813R01012"
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "allotmentUrl": "https://ipostatus.kfintech.com/",
+    "email": "hgs.ipo@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "HGS (India) IPO is a book build issue of ₹34.56 crores. The issue is a combination of fresh issue of 23.26 lakh shares aggregating to ₹27.91 crores and offer for sale of 5.54 lakh shares aggregating to ₹6.65 crores."
+      },
+      {
+        "type": "p",
+        "text": "HGS (India) IPO bidding started from Oct 30, 2026 and ended on Nov 3, 2026. The allotment for HGS (India) IPO was finalized on Nov 4, 2026. The shares got listed on the NSE SME on Nov 6, 2026."
+      },
+      {
+        "type": "p",
+        "text": "HGS (India) IPO is set final issue price at ₹120 per share. The lot size for an application is 1,200 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,88,000 (2,400 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (3,600 shares), amounting to ₹4,32,000."
+      },
+      {
+        "type": "p",
+        "text": "Hem Securities Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue. The Market Maker of the company is Hem Finlease Pvt.Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to HGS (India) IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Its products are used in oil and gas exploration, mineral exploration, defence research, earthquake monitoring, vibration analysis and other geoscience applications. The company also manufactures cables and connectors for resistivity meters and radar equipment."
+      },
+      {
+        "type": "p",
+        "text": "HGS (India) has developed in-house manufacturing capabilities, including cable extrusion lines and injection moulding machines, enabling it to manufacture critical components and maintain quality control. Its manufacturing facility is located in Manesar, Haryana, and is equipped with precision assembly, coil winding, magnetising and testing facilities. The company is ISO 9001:2015 certified, holds ZED Gold Certification and is recognised as a 100% Export Oriented Unit by the Noida Special Economic Zone (NSEZ)."
+      },
+      {
+        "type": "p",
+        "text": "The company exports its products to several countries across North America, Europe, Asia, Africa and other regions. In 2015, it established its wholly owned subsidiary, HGS Products B.V., in the Netherlands to strengthen its international sales and customer support."
+      },
+      {
+        "type": "h",
+        "text": "Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Wide Product Portfolio: Offers a diverse range of geophones, seismic cables, connectors and geophysical equipment for multiple industries."
+      },
+      {
+        "type": "li",
+        "text": "Technical Expertise: Has specialised engineering and manufacturing capabilities for precision components and customised products."
+      },
+      {
+        "type": "li",
+        "text": "Established Customer Relationships: Maintains long-standing relationships with customers in the seismic and energy sectors."
+      },
+      {
+        "type": "li",
+        "text": "Focus on Quality: Follows established quality management standards and holds ISO 9001:2015 and ZED Gold certifications."
+      },
+      {
+        "type": "li",
+        "text": "Strong Supply Chain: Has an established sourcing network and in-house component manufacturing capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Experienced Management: Benefits from experienced promoters and a professional management team."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "HGS (India) Limited is engaged in the manufacturing of geophysical instruments and components used in seismic surveys and geoscience-related applications."
+      },
+      {
+        "type": "p",
+        "text": "Established through technical and financial collaboration with Geosource Inc., USA, the company markets its products under the “HG” brand."
+      },
+      {
+        "type": "p",
+        "text": "Its product range comprises geophones, geophone strings, seismic cables, connectors, and various seismic instruments and accessories, including seismographs, seismometers, and accelerographs."
+      },
+      {
+        "type": "p",
+        "text": "The company’s products cater to a wide range of applications, including oil and gas exploration, mineral exploration, defence research, earthquake studies, and infrastructure monitoring."
+      },
+      {
+        "type": "p",
+        "text": "HGS (India) Limited operates a manufacturing facility in Manesar, Haryana, featuring precision assembly lines, injection moulding equipment, and cable manufacturing facilities. The company has also strengthened its manufacturing capabilities through backward integration, enabling in-house production of key components."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2025, the company served 146 domestic and international clients across 21 countries."
+      }
+    ],
+    "promoters": "Anil Dass, Shashi Singh, Cecilia Margareta Singh Ramel, Sowar Pvt.Ltd.",
+    "promoterHoldingPre": 87.3,
+    "promoterHoldingPost": 64.33,
+    "address": "Portion-2, First & Second Floor,, A-259,, Defence Colony, New Delhi, New Delhi",
+    "phone": "011-46066604",
+    "email": "cs@hgsindia.com",
+    "website": "https://www.hgsindia.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 13.35,
+      "roce": 17.13,
+      "ronw": 13.04,
+      "patMargin": 25.77,
+      "ebitdaMargin": 37.4,
+      "priceToBook": 1.15,
+      "nav": 104.63
+    },
+    {
+      "asOf": "2025-04-30",
+      "roe": 1.24,
+      "roce": 1.6,
+      "ronw": 1.23,
+      "patMargin": 35.8,
+      "ebitdaMargin": 50.81,
+      "priceToBook": 1.13,
+      "nav": 105.96
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Apr 2026",
+        "date": "2026-04-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          111.9,
+          110.12,
+          104.04,
+          113.7
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          3.79,
+          48.91,
+          53.45,
+          37.93
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          1.11,
+          11.64,
+          10.51,
+          4
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          1.58,
+          16.89,
+          15.31,
+          6.16
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          90.41,
+          89.27,
+          85.16,
+          95.04
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          91.8,
+          90.66,
+          87.97,
+          95.47
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding the capital expenditure towards replacement of plant and machinery for our existing manufacturing facility at Manesar, Gurugram",
+      "amountCr": 15.05
+    },
+    {
+      "text": "Funding the capital expenditure towards Backward Integration for setting up in-house gold plating facility",
+      "amountCr": 1.05
+    },
+    {
+      "text": "Funding the capital expenditure towards Infrastructural development of building on 3rd Floor at our existing manufacturing facility at Manesar, Gurugram",
+      "amountCr": 3.26
+    },
+    {
+      "text": "Pursuing unidentified acquisitions and general corporate purpose",
+      "amountCr": 5.88
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 3.31
+    },
+    {
+      "text": "Total",
+      "amountCr": 28.55
+    }
+  ],
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_30032026210242_HGSINDIALIMITEDDRHP.pdf",
+    "rhp": "https://nsearchives.nseindia.com/content/ipo/RHP_HGSINDIALT.zip",
+    "prospectus": "https://hemadmin.hemsecurities.com/images/Files/offer/3266.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/hgs-ipo-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/hgs-india-ipo/2241/",
+    "updated": "Nov 6th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-06T09:37:00+05:30"
+  }
+}

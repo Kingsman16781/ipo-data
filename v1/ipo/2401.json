@@ -1,0 +1,502 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2401,
+  "name": "Mahanadi Coalfields",
+  "companyName": "Mahanadi Coalfields Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "open",
+  "rating": 1,
+  "sector": "Coal",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 129,
+    "priceHigh": 136,
+    "faceValue": 2,
+    "lot": 110,
+    "sizeCr": 8981.12,
+    "ofsCr": 8981.12,
+    "totalShares": 661836300,
+    "marketCapCr": 90009.74,
+    "peIssue": 8.42,
+    "pePostIssue": 9.22,
+    "eps": 16.16,
+    "epsPostIssue": 14.75
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 110,
+      "lots": 1,
+      "amount": 14960
+    },
+    "retailMax": {
+      "shares": 1430,
+      "lots": 13,
+      "amount": 194480
+    },
+    "sHniMin": {
+      "shares": 1540,
+      "lots": 14,
+      "amount": 209440
+    },
+    "sHniMax": {
+      "shares": 7260,
+      "lots": 66,
+      "amount": 987360
+    },
+    "bHniMin": {
+      "shares": 7370,
+      "lots": 67,
+      "amount": 1002320
+    }
+  },
+  "reservation": {
+    "qib": 112512173,
+    "anchor": 168768255,
+    "nii": 84384129,
+    "sNii": 28128043,
+    "bNii": 56256086,
+    "retail": 196896299,
+    "employee": 33091815,
+    "shareholder": 66183630
+  },
+  "dates": {
+    "anchorBid": "2026-11-18",
+    "open": "2026-11-19",
+    "close": "2026-11-23",
+    "boa": "2026-11-25",
+    "refund": "2026-11-26",
+    "dematCredit": "2026-11-26",
+    "listing": "2026-11-27",
+    "anchorLockIn50": "2026-12-25",
+    "anchorLockInRest": "2027-02-23"
+  },
+  "gmp": {
+    "current": 0.7,
+    "pct": 0.51,
+    "low": 0.7,
+    "high": 9.25,
+    "estListing": 136.7,
+    "estProfitPerLot": 77,
+    "updatedAt": "2026-11-21T11:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 9,
+      "last": 0,
+      "change": -9,
+      "range": 9,
+      "upPct": 0,
+      "downPct": 57.14,
+      "sessions": 8
+    },
+    "history": [
+      {
+        "date": "2026-11-14",
+        "gmp": 9.25,
+        "gmpPct": 0,
+        "estListing": 9.25,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-14T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-15",
+        "gmp": 7,
+        "gmpPct": 0,
+        "estListing": 7,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-15T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-16",
+        "gmp": 3.5,
+        "gmpPct": 2.57,
+        "estListing": 139.5,
+        "estProfitPerLot": 385,
+        "sauda": "300",
+        "updatedAt": "2026-11-16T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-17",
+        "gmp": 3.65,
+        "gmpPct": 2.68,
+        "estListing": 139.65,
+        "estProfitPerLot": 401.5,
+        "sauda": "300",
+        "updatedAt": "2026-11-17T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-18",
+        "gmp": 3.1,
+        "gmpPct": 2.28,
+        "estListing": 139.1,
+        "estProfitPerLot": 341,
+        "sauda": "300",
+        "updatedAt": "2026-11-18T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-19",
+        "gmp": 1.8,
+        "gmpPct": 1.32,
+        "estListing": 137.8,
+        "estProfitPerLot": 198,
+        "sauda": "200",
+        "sub": 0.38,
+        "updatedAt": "2026-11-19T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-20",
+        "gmp": 0.75,
+        "gmpPct": 0.55,
+        "estListing": 136.75,
+        "estProfitPerLot": 82.5,
+        "sauda": "100",
+        "sub": 0.49,
+        "updatedAt": "2026-11-20T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-21",
+        "gmp": 0.7,
+        "gmpPct": 0.51,
+        "estListing": 136.7,
+        "estProfitPerLot": 77,
+        "sauda": "100",
+        "updatedAt": "2026-11-21T12:02:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 0.38,
+    "asOf": "2026-11-19T23:25:03+05:30",
+    "byDay": [
+      {
+        "date": "2026-11-19",
+        "sub": 0.38
+      },
+      {
+        "date": "2026-11-20",
+        "sub": 0.49
+      }
+    ]
+  },
+  "listing": {
+    "nseSymbol": "MAHACOAL"
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "email": "mahanadi.ipo@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Mahanadi Coalfields IPO is a book build issue of ₹8,981.12 crores. The issue is entirely an offer for sale of 66.18 crore shares of ₹8,981.12 crore."
+      },
+      {
+        "type": "p",
+        "text": "Mahanadi Coalfields IPO bidding opened for subscription on Nov 19, 2026 and will close on Nov 23, 2026. The allotment for the Mahanadi Coalfields IPO is expected to be finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Mahanadi Coalfields IPO is set issue price band at ₹129 to ₹136 per share. The lot size for an application is 110 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,960 (110 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "The issue includes a reservation of up to 3,30,91,815 shares for employees offered at a discount of ₹6.00 to the issue price."
+      },
+      {
+        "type": "p",
+        "text": "SBI Capital Markets Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Mahanadi Coalfields IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in April 1992, Mahanadi Coalfields Limited is India’s largest coal producer in terms of production, primarily engaged in the mining and production of non-coking coal. The Company operates mainly in the Talcher and Ib Valley coalfields in Odisha and produces various grades of coal, including washed and beneficiated coal, catering primarily to the power sector as well as industries such as cement, sponge iron, steel, aluminium and paper."
+      },
+      {
+        "type": "p",
+        "text": "The Company is a wholly owned subsidiary of Coal India Limited and was established to enhance coal production and meet India’s growing energy requirements. Its operations include a network of opencast and underground mines, supported by coal handling plants, rapid loading systems, silos and coal evacuation infrastructure. As of June 30, 2026, the Company operated 17 mines, including 14 opencast mines and three underground mines."
+      },
+      {
+        "type": "p",
+        "text": "Mahanadi Coalfields follows a highly mechanised mining model, with extensive deployment of surface miners, enabling efficient coal extraction while reducing the use of explosives, ground vibration, dust and noise. Its predominantly opencast mining operations, mechanisation and strategic location have supported efficient production and cost management."
+      },
+      {
+        "type": "p",
+        "text": "The Company also operates the Ib Valley Coal Washery, which has a capacity of 10 million tonnes per annum and produces washed coal with lower ash content for high-efficiency power stations. Its coal evacuation network is supported by extensive railway connectivity, dedicated coal corridors, roads, rapid loading infrastructure and access to ports on India’s eastern coast."
+      },
+      {
+        "type": "p",
+        "text": "The Company derives a significant portion of its revenue from long-term Fuel Supply Agreements (FSAs) and serves customers across multiple states in India, including major power utilities. It is also focused on research and development, operational efficiency, technological advancement and environmentally sustainable practices, including the installation of solar power projects."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, Mahanadi Coalfields had 20,526 permanent employees, comprising executives, workmen, staff and supervisors across mining, engineering, excavation, finance, human resources, environment, marketing and other operational functions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Strong financial performance and experienced management and workforce."
+      },
+      {
+        "type": "li",
+        "text": "Well-positioned to benefit from India’s long-term demand for non-coking coal."
+      },
+      {
+        "type": "li",
+        "text": "Large resource base and reserves supporting long-term non-coking coal production."
+      },
+      {
+        "type": "li",
+        "text": "Low-cost and highly mechanised mining operations in strategically located coalfields."
+      },
+      {
+        "type": "li",
+        "text": "Focus on research, technology, operational efficiency and sustainable mining practices."
+      },
+      {
+        "type": "li",
+        "text": "Integrated coal evacuation infrastructure supported by strong rail and port connectivity."
+      },
+      {
+        "type": "li",
+        "text": "Extensive deployment of surface miners and predominantly opencast mining operations."
+      },
+      {
+        "type": "li",
+        "text": "India’s largest coal producer with significant coal reserves and long-term production potential."
+      },
+      {
+        "type": "li",
+        "text": "Wholly owned subsidiary of Coal India Limited, benefiting from its strategic support and resources."
+      },
+      {
+        "type": "li",
+        "text": "Strong customer relationships with major power utilities and geographically diversified customer base."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Mahanadi Coalfields Limited (MCL) is one of India's largest coal producers and is primarily engaged in mining and supplying non-coking coal. The Company operates mainly in the Talcher and Ib Valley coalfields of Odisha and supplies coal to power plants and industries such as steel, cement, aluminium and paper."
+      },
+      {
+        "type": "p",
+        "text": "Mahanadi Coalfields is a wholly owned subsidiary of Coal India Limited. As of June 30, 2026, it operated 17 mines, including 14 open-cast and three underground mines. The Company uses modern machinery and technology to improve mining efficiency and control operating costs."
+      },
+      {
+        "type": "p",
+        "text": "It also operates the Ib Valley Coal Washery, with a capacity of 10 million tonnes per year, to produce better-quality coal with lower ash content. Its railway and road network supports coal transportation to customers across several Indian states."
+      },
+      {
+        "type": "p",
+        "text": "The Company supplies coal through long-term Fuel Supply Agreements (FSAs) and focuses on operational efficiency, technological development and environmental initiatives, including solar power projects. As of June 30, 2026, it had 20,473 permanent employees."
+      }
+    ],
+    "promoters": "Government of India, Coal India Ltd.",
+    "promoterHoldingPre": 100,
+    "promoterHoldingPost": 90,
+    "address": "Jagruti Vihar, Burla, Sambalpur, Odisha",
+    "phone": "+910663 254 2977",
+    "email": "cs.mcl@coalindia.in",
+    "website": "https://www.mahanadicoal.in/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roce": 73.26,
+      "ronw": 53.87,
+      "patMargin": 31.56,
+      "ebitdaMargin": 47.45,
+      "priceToBook": 4.21,
+      "nav": 32.29
+    },
+    {
+      "asOf": "2026-09-30",
+      "roce": 30.44,
+      "ronw": 22.29,
+      "patMargin": 28.43,
+      "ebitdaMargin": 43.63,
+      "nav": 33.84
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Sep 2026",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          57711.68,
+          55358.27,
+          53590.53,
+          50687.79
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          17107.83,
+          33899.28,
+          33028.65,
+          33590.34
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          4880.66,
+          10698.12,
+          10825.12,
+          11841.55
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          7463.98,
+          16084.93,
+          15331.11,
+          16636.91
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          22399.8,
+          21371.23,
+          18343.49,
+          16119.91
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          20945.38,
+          19932.31,
+          16873.51,
+          14700.91
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          2.76,
+          3.16,
+          3.35,
+          3.95
+        ]
+      }
+    ]
+  },
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Mahanadi Coalfields Ltd.",
+        "16.13",
+        "16.13",
+        "32.29",
+        "",
+        "53.87",
+        "",
+        "Consolidated"
+      ],
+      [
+        "Coal India Ltd",
+        "50.46",
+        "50.46",
+        "195.22",
+        "7.95",
+        "27.78",
+        "2.06",
+        "Consolidated"
+      ],
+      [
+        "Bharat Coking Coal Ltd",
+        "0.28",
+        "0.28",
+        "12.53",
+        "",
+        "2.07",
+        "2.83",
+        "Consolidated"
+      ],
+      [
+        "National Mineral Development Corporation Ltd",
+        "8.47",
+        "8.47",
+        "38.73",
+        "10.24",
+        "23.28",
+        "2.26",
+        "Consolidated"
+      ],
+      [
+        "PT Bukit Asam (Persero) Tbk",
+        "1.36",
+        "1.36",
+        "10.47",
+        "10.00",
+        "13.16",
+        "1.30",
+        "Consolidated"
+      ],
+      [
+        "Yancoal Australia Ltd",
+        "20.11",
+        "20.05",
+        "410.11",
+        "20.81",
+        "4.83",
+        "1.02",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/corporate/Registration_01092026212900_MCLDRHP.pdf",
+    "rhp": "https://www.sebi.gov.in/filings/public-issues/nov-2026/mahanadi-coalfields-limited-rhp_105777.html",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/mahanandi-ipo-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
+    "updated": "Nov 21st 2026 12:02 PM",
+    "gmpUpdatedAt": "2026-11-21T11:37:00+05:30"
+  }
+}

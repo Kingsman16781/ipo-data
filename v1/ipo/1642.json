@@ -1,0 +1,574 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 1642,
+  "name": "SFC Environmental Technologies",
+  "companyName": "SFC Environmental Technologies Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Waste Management",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 313,
+    "priceHigh": 330,
+    "finalPrice": 330,
+    "faceValue": 2,
+    "lot": 45,
+    "sizeCr": 667.53,
+    "freshCr": 150,
+    "ofsCr": 517.53,
+    "totalShares": 20228204,
+    "marketCapCr": 3232.57,
+    "peIssue": 19.24,
+    "pePostIssue": 540.98,
+    "eps": 17.15,
+    "epsPostIssue": 0.61
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 45,
+      "lots": 1,
+      "amount": 14850
+    },
+    "retailMax": {
+      "shares": 585,
+      "lots": 13,
+      "amount": 193050
+    },
+    "sHniMin": {
+      "shares": 630,
+      "lots": 14,
+      "amount": 207900
+    },
+    "sHniMax": {
+      "shares": 3015,
+      "lots": 67,
+      "amount": 994950
+    },
+    "bHniMin": {
+      "shares": 3060,
+      "lots": 68,
+      "amount": 1009800
+    }
+  },
+  "reservation": {
+    "qib": 4045641,
+    "anchor": 6068460,
+    "nii": 3034231,
+    "sNii": 1011410,
+    "bNii": 2022821,
+    "retail": 7079872
+  },
+  "dates": {
+    "anchorBid": "2026-10-26",
+    "open": "2026-10-27",
+    "close": "2026-10-29",
+    "boa": "2026-10-30",
+    "refund": "2026-11-02",
+    "dematCredit": "2026-11-02",
+    "listing": "2026-11-03",
+    "anchorLockIn50": "2026-11-28",
+    "anchorLockInRest": "2027-01-27"
+  },
+  "gmp": {
+    "current": 15.5,
+    "pct": 4.7,
+    "low": 10,
+    "high": 32,
+    "estListing": 345.5,
+    "estProfitPerLot": 697.5,
+    "updatedAt": "2026-11-03T09:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 31,
+      "last": 15,
+      "change": -16,
+      "range": 22,
+      "upPct": 38.46,
+      "downPct": 38.46,
+      "sessions": 14
+    },
+    "history": [
+      {
+        "date": "2026-10-21",
+        "gmp": 31,
+        "gmpPct": 9.39,
+        "estListing": 361,
+        "estProfitPerLot": 1395,
+        "sauda": "1100",
+        "updatedAt": "2026-10-21T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-22",
+        "gmp": 21,
+        "gmpPct": 6.36,
+        "estListing": 351,
+        "estProfitPerLot": 945,
+        "sauda": "700",
+        "updatedAt": "2026-10-22T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-23",
+        "gmp": 21,
+        "gmpPct": 6.36,
+        "estListing": 351,
+        "estProfitPerLot": 945,
+        "sauda": "700",
+        "updatedAt": "2026-10-23T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-24",
+        "gmp": 32,
+        "gmpPct": 9.7,
+        "estListing": 362,
+        "estProfitPerLot": 1440,
+        "sauda": "1100",
+        "updatedAt": "2026-10-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-25",
+        "gmp": 32,
+        "gmpPct": 9.7,
+        "estListing": 362,
+        "estProfitPerLot": 1440,
+        "sauda": "1100",
+        "updatedAt": "2026-10-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-26",
+        "gmp": 20,
+        "gmpPct": 6.06,
+        "estListing": 350,
+        "estProfitPerLot": 900,
+        "sauda": "700",
+        "updatedAt": "2026-10-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-27",
+        "gmp": 17,
+        "gmpPct": 5.15,
+        "estListing": 347,
+        "estProfitPerLot": 765,
+        "sauda": "600",
+        "sub": 0.1,
+        "updatedAt": "2026-10-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-28",
+        "gmp": 10,
+        "gmpPct": 3.03,
+        "estListing": 340,
+        "estProfitPerLot": 450,
+        "sauda": "300",
+        "sub": 0.27,
+        "updatedAt": "2026-10-28T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-29",
+        "gmp": 19,
+        "gmpPct": 5.76,
+        "estListing": 349,
+        "estProfitPerLot": 855,
+        "sauda": "600",
+        "sub": 9.47,
+        "updatedAt": "2026-10-29T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-30",
+        "gmp": 20,
+        "gmpPct": 6.06,
+        "estListing": 350,
+        "estProfitPerLot": 900,
+        "sauda": "700",
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 23.5,
+        "gmpPct": 7.12,
+        "estListing": 353.5,
+        "estProfitPerLot": 1057.5,
+        "sauda": "800",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 26,
+        "gmpPct": 7.88,
+        "estListing": 356,
+        "estProfitPerLot": 1170,
+        "sauda": "900",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 15.5,
+        "gmpPct": 4.7,
+        "estListing": 345.5,
+        "estProfitPerLot": 697.5,
+        "sauda": "500",
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 15.5,
+        "gmpPct": 4.7,
+        "estListing": 345.5,
+        "estProfitPerLot": 697.5,
+        "sauda": "500",
+        "updatedAt": "2026-11-03T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 9.47,
+    "asOf": "2026-10-29T23:25:06+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-27",
+        "sub": 0.1
+      },
+      {
+        "date": "2026-10-28",
+        "sub": 0.27
+      },
+      {
+        "date": "2026-10-29",
+        "sub": 9.47
+      }
+    ]
+  },
+  "listing": {
+    "price": 355.1,
+    "gainPct": 7.61,
+    "nseSymbol": "SFCTECH",
+    "isin": "INE0PKN01028"
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "allotmentUrl": "https://in.mpms.mufg.com/Initial_Offer/public-issues.html",
+    "email": "sfcenvironmental.ipo@linkintime.co.in"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "SFC Environmental Technologies IPO is a book build issue of ₹667.53 crores. The issue is a combination of fresh issue of 45.45 lakh shares aggregating to ₹150.00 crores and offer for sale of 1.57 crore shares aggregating to ₹517.53 crores."
+      },
+      {
+        "type": "p",
+        "text": "SFC Environmental Technologies IPO bidding started from Oct 27, 2026 and ended on Oct 29, 2026. The allotment for SFC Environmental Technologies IPO was finalized on Oct 30, 2026. The shares got listed on NSE and BSE on Nov 3, 2026."
+      },
+      {
+        "type": "p",
+        "text": "SFC Environmental Technologies IPO is set final issue price at ₹330 per share. The lot size for an application is 45 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,850 (45 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "IIFL Capital Services Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to SFC Environmental Technologies IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in March 2005, SFC Environmental Technologies Limited is an environmental technology company engaged in providing technology, design, engineering, manufacturing, supply, installation and commissioning solutions for wastewater treatment (“WWT”), wastewater recycling and reuse (“WRR”), and solid waste treatment (“SWT”). The Company’s wastewater treatment business is primarily based on its proprietary C-Tech technology, an advanced sequencing batch reactor (“SBR”) process used in sewage treatment plants and industrial effluent treatment. Its solutions include technology packages, equipment, automation systems, installation, commissioning and related services. As of July 31, 2026, the Company had commissioned 728 wastewater treatment installations and its technologies facilitated the treatment of 17,511.11 million litres of wastewater per day. It has also expanded into wastewater recycling and reuse through ultrafiltration (“UF”), closed circuit reverse osmosis (“CCRO”) and membrane bioreactor (“MBR”) technologies, supported by an exclusive supply arrangement with DuPont for selected products in India."
+      },
+      {
+        "type": "p",
+        "text": "The Company’s solid waste treatment business is based on its proprietary Organic Extraction (“OREX”) technology, designed to separate biodegradable organic matter from mixed municipal waste to support biogas generation and resource recovery. It provides end-to-end solutions covering design, engineering, construction, equipment supply, commissioning and operations and maintenance. The Company operates two integrated solid waste treatment facilities in Goa with an aggregate treatment capacity of up to 425 tonnes per day. Through its subsidiary, it has also secured orders for compressed biogas plants in Assam and Odisha, with cumulative order value of ₹5,017 million, and has expanded into projects involving agricultural waste and biomass."
+      },
+      {
+        "type": "p",
+        "text": "The Company operates across 23 states and five Union Territories in India, with a business model involving technology supply, engineering solutions, project execution and operations and maintenance. Its customer relationships include engineering, procurement and construction companies, municipal bodies and government-owned entities. The Company’s growth strategy includes expanding its wastewater recycling and reuse capabilities and pursuing opportunities in solid waste treatment, compressed biogas and waste-to-energy projects."
+      },
+      {
+        "type": "p",
+        "text": "As of August 31, 2026, the Company had 264 employees, including 149 engineers, supported by teams across design and engineering, electrical and instrumentation, erection and commissioning, manufacturing, proposals, sales, finance and other functions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Technology-Driven Market Leadership: Strong position in wastewater treatment, supported by proprietary C-Tech technology and over 80% market share in SBR technology in India."
+      },
+      {
+        "type": "li",
+        "text": "Integrated Technology and Engineering Capabilities: Comprehensive solutions across design, engineering, equipment supply, installation, commissioning and operations and maintenance."
+      },
+      {
+        "type": "li",
+        "text": "Established Presence in Wastewater Recycling and Reuse: Expansion into UF, CCRO and MBR technologies, supported by an exclusive supply arrangement with DuPont for selected products in India."
+      },
+      {
+        "type": "li",
+        "text": "Proprietary Solid Waste Treatment Technology: OREX technology enables organic waste separation, biogas generation and recovery of recyclable resources."
+      },
+      {
+        "type": "li",
+        "text": "Strong Order Book and Repeat Business: High repeat-customer revenue, contributing 91.98% of revenue in Fiscal 2026, alongside significant orders in wastewater recycling and compressed biogas projects."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Growth Opportunities: Presence across wastewater treatment, wastewater recycling and reuse, solid waste treatment, compressed biogas and waste-to-energy projects."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "SFC Environmental Technologies Limited provides advanced technologies and integrated engineering solutions for wastewater treatment (WWT), wastewater recycling and reuse (WRR), and solid waste treatment (SWT). Its services cover the design, engineering, manufacturing, supply, installation supervision, and commissioning of wastewater treatment systems and related equipment."
+      },
+      {
+        "type": "p",
+        "text": "The company's wastewater treatment technologies have a reported treatment capacity of approximately 14,812.86 million litres per day (MLD). In the solid waste treatment segment, it offers end-to-end solutions encompassing design, engineering, financing, construction, equipment supply, installation, commissioning, performance testing, turnkey project execution, and operations and maintenance (O&M)."
+      },
+      {
+        "type": "p",
+        "text": "For solid waste processing, the company has developed Organic Extraction (OREX), a proprietary technology designed to separate biodegradable organic matter from inorganic materials and lignocellulosic fibres in mixed municipal waste. This technology supports the efficient processing and recovery of useful components from municipal solid waste."
+      },
+      {
+        "type": "p",
+        "text": "The company's wastewater treatment portfolio includes its proprietary C-Tech Cyclic Activated Sludge Technology, which is based on the Sequencing Batch Reactor (SBR) process. This technology is designed to treat domestic sewage and industrial wastewater efficiently, offering advantages such as high treatment performance, lower life-cycle costs, operational simplicity, and space-efficient plant design. Its business activities are primarily organised around wastewater treatment, wastewater treatment business solutions, and solid waste treatment."
+      },
+      {
+        "type": "p",
+        "text": "SFC Environmental Technologies Limited primarily operates on a business-to-business (B2B) model, catering to institutional, infrastructure, municipal, and industrial customers. The company has reported commissioning approximately 639 C-Tech systems, with different disclosures indicating installations ranging from 621 to 639 systems in its wastewater treatment business. Its technologies have been associated with wastewater treatment capacities exceeding 15,000 MLD, and the company has reported an approximately 80% market share in India's SBR-based wastewater treatment technology segment."
+      },
+      {
+        "type": "p",
+        "text": "Its wastewater treatment customers include Enviro Control Private Limited, Vishvaraj Environment Private Limited, Khilari Infrastructure Private Limited, SMC Infrastructures Private Limited, Rajkamal Builders Infrastructure Private Limited, Ramky Infrastructure Private Limited, GVPR Engineers Limited, HNB Engineers Private Limited, and Gharpure Engineering & Constructions Private Limited, among others. These customers contribute substantially to revenue generated from the wastewater treatment business."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Technology-led market position: The company benefits from specialised wastewater treatment technologies and an established presence in the SBR-based treatment segment."
+      },
+      {
+        "type": "li",
+        "text": "Technology integration and continuous innovation: Its focus on developing and improving proprietary technologies supports operational efficiency and strengthens its engineering capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Repeat business and order book visibility: Established customer relationships, repeat orders, and a strong order book support business continuity and revenue visibility."
+      },
+      {
+        "type": "li",
+        "text": "Experienced management team: The company draws on management expertise and industry experience to execute projects and develop its environmental technology business."
+      }
+    ],
+    "promoters": "Sandeep Sudhakar Asolkar, Priya Sandeep Asolkar, Prachiti Sandeep Asolkar, Saketchandrasingh Pratapsingh Dhandoriya",
+    "promoterHoldingPre": 45.24,
+    "promoterHoldingPost": 38.37,
+    "address": "The Ambience Court, Hi-Tech Business Park, 21st, Sector 19- D,, Plot No. 2, Vashi,, Navi Mumbai, Maharashtra",
+    "phone": "22 4482 2717",
+    "email": "compliance@sfcenv.com",
+    "website": "https://www.sfcenvironment.com"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 21.55,
+      "roce": 22.21,
+      "debtEquity": 0.24,
+      "ronw": 21.25,
+      "patMargin": 19.94,
+      "ebitdaMargin": 29.34,
+      "priceToBook": 3.83,
+      "nav": 86.09
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 0.18,
+      "roce": 0.72,
+      "debtEquity": 0.25,
+      "ronw": 0.19,
+      "patMargin": 1.11,
+      "ebitdaMargin": 7.36,
+      "nav": 86.23
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          1224.56,
+          1323.43,
+          999.47,
+          904.94
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          137.9,
+          821.27,
+          726.96,
+          676.74
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          1.48,
+          160.21,
+          152.01,
+          144.17
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          9.86,
+          235.81,
+          207.48,
+          193.25
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          805.49,
+          804.17,
+          648.68,
+          534.3
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          784.14,
+          782.63,
+          628.54,
+          526.41
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          204.77,
+          195.64,
+          83.71,
+          139.16
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Prepayment of all or a portion of certain outstanding borrowings availed by Company and wholly owned Subsidiary, namely Vasudha Waste Treatment Pvt.Ltd.",
+      "amountCr": 42.23
+    },
+    {
+      "text": "Funding working capital requirements",
+      "amountCr": 74.92
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 20.33
+    },
+    {
+      "text": "Issue Expense",
+      "amountCr": 55.61
+    },
+    {
+      "text": "Total",
+      "amountCr": 193.08
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "SFC Environmental Technologies Limited",
+        "16.52",
+        "16.52",
+        "86.09",
+        "",
+        "21.25",
+        "",
+        "Consolidated"
+      ],
+      [
+        "Thermax Ltd.",
+        "63.95",
+        "63.94",
+        "492.55",
+        "52.01",
+        "13.74",
+        "6.76",
+        "Consolidated"
+      ],
+      [
+        "Praj Industries Ltd.",
+        "1.30",
+        "1.30",
+        "71.22",
+        "220.77",
+        "1.77",
+        "4.04",
+        "Consolidated"
+      ],
+      [
+        "Ion Exchange India Ltd.",
+        "12.03",
+        "12.03",
+        "91.30",
+        "31.34",
+        "11.20",
+        "4.14",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bseindia.com/corporates/download/329313/IPO%20Prior/DRHP_August_25_2025_20250825140721.pdf",
+    "rhp": "https://www.sebi.gov.in/filings/public-issues/oct-2026/sfc-environmental-technologies-ltd-rhp_105380.html",
+    "prospectus": "https://www.sebi.gov.in/filings/public-issues/nov-2026/sfc-environmental-technologies-ltd-prospectus_105531.html",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/sfc-environmental-technologies-anchor-report.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/sfc-environmental-technologies-ipo/1642/",
+    "updated": "Nov 3rd 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-03T09:37:00+05:30"
+  }
+}

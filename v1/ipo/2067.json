@@ -1,0 +1,544 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2067,
+  "name": "Crystal Crop Protection",
+  "companyName": "Crystal Crop Protection Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "closed",
+  "rating": 2,
+  "sector": "Other Agricultural Products",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 259,
+    "priceHigh": 272,
+    "faceValue": 10,
+    "lot": 55,
+    "sizeCr": 455.49,
+    "freshCr": 354.77,
+    "ofsCr": 100.71,
+    "totalShares": 16754274,
+    "marketCapCr": 4438.18,
+    "peIssue": 28.19,
+    "pePostIssue": 8.17,
+    "eps": 9.65,
+    "epsPostIssue": 33.29
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 55,
+      "lots": 1,
+      "amount": 14960
+    },
+    "retailMax": {
+      "shares": 715,
+      "lots": 13,
+      "amount": 194480
+    },
+    "sHniMin": {
+      "shares": 770,
+      "lots": 14,
+      "amount": 209440
+    },
+    "sHniMax": {
+      "shares": 3630,
+      "lots": 66,
+      "amount": 987360
+    },
+    "bHniMin": {
+      "shares": 3685,
+      "lots": 67,
+      "amount": 1002320
+    }
+  },
+  "reservation": {
+    "qib": 3332473,
+    "anchor": 4998708,
+    "nii": 2499354,
+    "sNii": 833118,
+    "bNii": 1666236,
+    "retail": 5831827,
+    "employee": 101215
+  },
+  "dates": {
+    "anchorBid": "2026-11-17",
+    "open": "2026-11-18",
+    "close": "2026-11-20",
+    "boa": "2026-11-23",
+    "refund": "2026-11-25",
+    "dematCredit": "2026-11-25",
+    "listing": "2026-11-26",
+    "anchorLockIn50": "2026-12-23",
+    "anchorLockInRest": "2027-02-21"
+  },
+  "gmp": {
+    "current": 14,
+    "pct": 5.15,
+    "low": 13,
+    "high": 40,
+    "estListing": 286,
+    "estProfitPerLot": 770,
+    "updatedAt": "2026-11-21T11:37:00+05:30",
+    "trend": {
+      "direction": "Downward",
+      "first": 40,
+      "last": 14,
+      "change": -26,
+      "range": 27,
+      "upPct": 12.5,
+      "downPct": 75,
+      "sessions": 9
+    },
+    "history": [
+      {
+        "date": "2026-11-13",
+        "gmp": 40,
+        "gmpPct": 14.71,
+        "estListing": 312,
+        "estProfitPerLot": 2200,
+        "sauda": "1700",
+        "updatedAt": "2026-11-13T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-14",
+        "gmp": 27,
+        "gmpPct": 9.93,
+        "estListing": 299,
+        "estProfitPerLot": 1485,
+        "sauda": "1100",
+        "updatedAt": "2026-11-14T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-15",
+        "gmp": 15,
+        "gmpPct": 5.51,
+        "estListing": 287,
+        "estProfitPerLot": 825,
+        "sauda": "600",
+        "updatedAt": "2026-11-15T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-16",
+        "gmp": 13,
+        "gmpPct": 4.78,
+        "estListing": 285,
+        "estProfitPerLot": 715,
+        "sauda": "500",
+        "updatedAt": "2026-11-16T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-17",
+        "gmp": 19,
+        "gmpPct": 6.99,
+        "estListing": 291,
+        "estProfitPerLot": 1045,
+        "sauda": "800",
+        "updatedAt": "2026-11-17T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-18",
+        "gmp": 18,
+        "gmpPct": 6.62,
+        "estListing": 290,
+        "estProfitPerLot": 990,
+        "sauda": "800",
+        "sub": 1.48,
+        "updatedAt": "2026-11-18T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-19",
+        "gmp": 17,
+        "gmpPct": 6.25,
+        "estListing": 289,
+        "estProfitPerLot": 935,
+        "sauda": "700",
+        "sub": 3.08,
+        "updatedAt": "2026-11-19T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-20",
+        "gmp": 14.5,
+        "gmpPct": 5.33,
+        "estListing": 286.5,
+        "estProfitPerLot": 797.5,
+        "sauda": "600",
+        "sub": 17.68,
+        "updatedAt": "2026-11-20T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-21",
+        "gmp": 14,
+        "gmpPct": 5.15,
+        "estListing": 286,
+        "estProfitPerLot": 770,
+        "sauda": "600",
+        "updatedAt": "2026-11-21T12:02:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 1.48,
+    "asOf": "2026-11-18T23:25:02+05:30",
+    "byDay": [
+      {
+        "date": "2026-11-18",
+        "sub": 1.48
+      },
+      {
+        "date": "2026-11-19",
+        "sub": 3.08
+      },
+      {
+        "date": "2026-11-20",
+        "sub": 17.68
+      }
+    ]
+  },
+  "listing": {
+    "nseSymbol": "CRYSTALCP"
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "email": "crystalcrop.ipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Crystal Crop Protection IPO is a book build issue of ₹455.49 crores. The issue is a combination of fresh issue of 1.31 crore shares aggregating to ₹354.77 crores and offer for sale of 37.03 lakh shares aggregating to ₹100.71 crores."
+      },
+      {
+        "type": "p",
+        "text": "Crystal Crop Protection IPO opens for subscription on Nov 18, 2026 and closes on Nov 20, 2026. The allotment for the Crystal Crop Protection IPO is expected to be finalized on Nov 23, 2026. Crystal Crop Protection IPO will list on NSE and BSE with a tentative listing date fixed as Nov 26, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Crystal Crop Protection IPO is set issue price band at ₹259 to ₹272 per share. The lot size for an application is 55 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,960 (55 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "IIFL Capital Services Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Crystal Crop Protection IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in 1994, Crystal Crop Protection is a crop solutions company with agrochemicals and seeds as its core offerings. Its portfolio includes crop protection products such as herbicides, fungicides and insecticides, along with natural crop solutions like bio-stimulants, bio-protectants, plant growth regulators, liquid fertilizers and micronutrients. It also offer seeds for field crops, vegetable crops and flowers. The offerings are customized for Indian farmers through research and development (“R&D”) including by collaborations with various multinational companies, delivering relevant solutions that aim to enhance farm economics, yield, productivity and profitability."
+      },
+      {
+        "type": "h",
+        "text": "Product Portfolio:"
+      },
+      {
+        "type": "li",
+        "text": "Crop protection products and natural crop solutions"
+      },
+      {
+        "type": "li",
+        "text": "Seed business"
+      },
+      {
+        "type": "p",
+        "text": "Its products are designed specifically for Indian farmers and are supported by strong in-house research and development, as well as collaborations with multinational companies. The company follows a fully integrated business model that combines R&D, seed breeding, backward-integrated and technology-enabled manufacturing, and a pan-India distribution network, with a strong focus on farmers’ needs."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, The company hold 63 PVP registrations granted in cotton, pearl millet, sorghum and mustard and maintain a strong run-rate of new product launches with an innovation index of 24.62%. They have a portfolio of over 275 hybrid seeds, comprising 111 field crop varieties, 139 vegetable seed varieties and 25 marigold seed varieties."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, we have a pan-India distribution network across 23 states and four union territories with an aggregate of 14,717 independent distributors, across business segments and brands. The business has a strong pan-India network of over 13,000 distributors and 36 distribution centers."
+      },
+      {
+        "type": "h",
+        "text": "Competitive strengths"
+      },
+      {
+        "type": "li",
+        "text": "Strong R&D capabilities backed by advanced technology infrastructure and collaborations"
+      },
+      {
+        "type": "li",
+        "text": "A deep connect with Indian farmers resulting in strong brand equity"
+      },
+      {
+        "type": "li",
+        "text": "Operational excellence with focus on our multi-pronged go-to-market strategy"
+      },
+      {
+        "type": "li",
+        "text": "Vertically integrated manufacturing operations backed by robust R&D capabilities and strong supply chain"
+      },
+      {
+        "type": "li",
+        "text": "Strategic acquisitions and successful integration of growth opportunities"
+      },
+      {
+        "type": "li",
+        "text": "Diversification across business verticals, geographies, product categories and crops"
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Crystal Crop Protection is an Indian agri-inputs company built around two pillars: agrochemicals and seeds. Everything it makes is tailored to the conditions and needs of Indian farmers."
+      },
+      {
+        "type": "h",
+        "text": "Offerings:"
+      },
+      {
+        "type": "li",
+        "text": "Crop protection: Herbicides, fungicides and insecticides, sold under more than 174 brands in a range of pack sizes, including smaller, farmer-friendly formats. The branded business has been its faster-growing segment."
+      },
+      {
+        "type": "li",
+        "text": "Crop nutrition and natural solutions: Bio-stimulants, bio-protectants, plant growth regulators, liquid fertilizers and micronutrients."
+      },
+      {
+        "type": "li",
+        "text": "Seeds: Cotton, cereals, oilseeds, fodder crops, vegetables and flowers, sold across India and exported to markets such as Japan, the USA and Thailand."
+      },
+      {
+        "type": "li",
+        "text": "Exports: Formulations and technicals shipped to Bangladesh, Nepal and several countries in Africa and Asia."
+      },
+      {
+        "type": "p",
+        "text": "Crystal follows a fully integrated model that links research, seed breeding, technology-enabled manufacturing and distribution. Its R&D centre is in Sonipat, Haryana, and the company also works with multinational partners on innovation."
+      },
+      {
+        "type": "p",
+        "text": "Production is spread across Haryana, Gujarat, Jammu & Kashmir, Maharashtra, Telangana and Karnataka, covering formulations, technicals and seed processing. As of 30 September 2025, formulation plants had a combined installed capacity of 75,962 MT, while technicals facilities stood at 3,456 MT."
+      },
+      {
+        "type": "p",
+        "text": "Products reach the market through over 13,000 distributors and 36 distribution centres across India."
+      }
+    ],
+    "promoters": "Nand Kishore Aggarwal, Ankur Aggarwal, Komal Aggarwal, Ankur Aggarwal KNK Family Trust",
+    "promoterHoldingPre": 84.92,
+    "promoterHoldingPost": 75.85,
+    "address": "206, 2nd Floor, Span Trade  Centre Opp. Kochrab,, Gandhi  Ashram, Near Paldi Char  Rasta,, Ashram Road   Ellisbridge,, Ahmedabad, Gujarat",
+    "phone": "11 49007100",
+    "email": "investor@crystalcrop.com",
+    "website": "https://www.crystalcropprotection.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 7.94,
+      "roce": 16.06,
+      "debtEquity": 0.41,
+      "ronw": 7.14,
+      "patMargin": 4.56,
+      "ebitdaMargin": 14.47,
+      "priceToBook": 1.7,
+      "nav": 160.03
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 6.91,
+      "roce": 9.78,
+      "debtEquity": 0.41,
+      "ronw": 6.25,
+      "patMargin": 11.23,
+      "ebitdaMargin": 20.2,
+      "priceToBook": 1.59,
+      "nav": 170.57
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          4498.27,
+          3927.24,
+          3538.43,
+          2541.92
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          1209.21,
+          3180.98,
+          2731.94,
+          2271.71
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          135.78,
+          144.91,
+          118.39,
+          87.24
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          241.78,
+          456.23,
+          315.28,
+          209.06
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          null,
+          2039.76,
+          1600.1,
+          1488.39
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          1524.85,
+          1386.12,
+          1296.9,
+          1197.23
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          952.02,
+          820.04,
+          947.02,
+          577.29
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Repayment/pre-payment, in full or part, of certain borrowings availed by the Company",
+      "amountCr": 247.94
+    },
+    {
+      "text": "Investment in Material Subsidiary namely Saffire Crop Science Private Limited for repayment/ pre-payment, in full or in part, of all or a portion of certain of its outstanding borrowings",
+      "amountCr": 22.06
+    },
+    {
+      "text": "Funding inorganic growth through unidentified acquisitions and strategic initiatives and general corporate purposes"
+    },
+    {
+      "text": "Total",
+      "amountCr": 270
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Crystal Crop Protection Ltd.",
+        "11.43",
+        "11.06",
+        "160.03",
+        "",
+        "7.14",
+        "",
+        "Consolidated"
+      ],
+      [
+        "Kaveri Seed Co.Ltd.",
+        "56.94",
+        "56.94",
+        "341.53",
+        "12.13",
+        "16.07",
+        "2.02",
+        "Consolidated"
+      ],
+      [
+        "Sumitomo Chemical India Ltd.",
+        "10.88",
+        "10.88",
+        "67.84",
+        "31.20",
+        "14.95",
+        "5.06",
+        "Consolidated"
+      ],
+      [
+        "Bayer Cropscience Ltd.",
+        "153.35",
+        "153.35",
+        "659.89",
+        "22.73",
+        "19.15",
+        "5.29",
+        "Consolidated"
+      ],
+      [
+        "Rallis India Ltd.",
+        "9.46",
+        "9.46",
+        "104.40",
+        "19.93",
+        "6.16",
+        "1.81",
+        "Consolidated"
+      ],
+      [
+        "Dhanuka Agritech Ltd.",
+        "63.72",
+        "63.72",
+        "372.89",
+        "14.38",
+        "17.67",
+        "2.46",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/dec-2025/crystal-crop-protection-limited-drhp_98530.html",
+    "rhp": "https://www.sebi.gov.in/filings/public-issues/nov-2026/crystal-crop-protection-limited-rhp_105734.html",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/anchor_lettere46a8874-a3a3-4682-8e82-a0ec5ddc6cbb.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
+    "updated": "Nov 21st 2026 12:02 PM",
+    "gmpUpdatedAt": "2026-11-21T11:37:00+05:30"
+  }
+}

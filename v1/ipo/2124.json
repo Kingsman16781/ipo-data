@@ -1,0 +1,429 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2124,
+  "name": "Bonfiglioli Transmissions",
+  "companyName": "Bonfiglioli Transmissions Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "listed",
+  "rating": 3,
+  "sector": "Industrial Products",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 558,
+    "priceHigh": 586,
+    "finalPrice": 586,
+    "faceValue": 10,
+    "lot": 25,
+    "sizeCr": 2533.67,
+    "ofsCr": 2533.66,
+    "totalShares": 43239042,
+    "marketCapCr": 11016.56,
+    "peIssue": 46.32,
+    "pePostIssue": 37.07,
+    "eps": 12.65,
+    "epsPostIssue": 15.81
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 25,
+      "lots": 1,
+      "amount": 14650
+    },
+    "retailMax": {
+      "shares": 325,
+      "lots": 13,
+      "amount": 190450
+    },
+    "sHniMin": {
+      "shares": 350,
+      "lots": 14,
+      "amount": 205100
+    },
+    "sHniMax": {
+      "shares": 1700,
+      "lots": 68,
+      "amount": 996200
+    },
+    "bHniMin": {
+      "shares": 1725,
+      "lots": 69,
+      "amount": 1010850
+    }
+  },
+  "reservation": {
+    "qib": 8637808,
+    "anchor": 12956712,
+    "nii": 6478357,
+    "sNii": 2159452,
+    "bNii": 4318905,
+    "retail": 15116165,
+    "employee": 50000
+  },
+  "dates": {
+    "anchorBid": "2026-10-14",
+    "open": "2026-10-15",
+    "close": "2026-10-19",
+    "boa": "2026-10-21",
+    "refund": "2026-10-22",
+    "dematCredit": "2026-10-22",
+    "listing": "2026-10-23",
+    "anchorLockIn50": "2026-11-19",
+    "anchorLockInRest": "2027-01-18"
+  },
+  "gmp": {
+    "current": 66,
+    "pct": 11.26,
+    "low": 66,
+    "high": 178,
+    "estListing": 652,
+    "estProfitPerLot": 1650,
+    "updatedAt": "2026-10-23T09:37:00+05:30",
+    "trend": {
+      "direction": "Volatile",
+      "first": 137,
+      "last": 66,
+      "change": -71,
+      "range": 112,
+      "upPct": 38.46,
+      "downPct": 53.85,
+      "sessions": 14
+    },
+    "history": [
+      {
+        "date": "2026-10-21",
+        "gmp": 132,
+        "gmpPct": 22.53,
+        "estListing": 718,
+        "estProfitPerLot": 3300,
+        "sauda": "2500",
+        "updatedAt": "2026-10-21T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-22",
+        "gmp": 66,
+        "gmpPct": 11.26,
+        "estListing": 652,
+        "estProfitPerLot": 1650,
+        "sauda": "1300",
+        "updatedAt": "2026-10-22T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-23",
+        "gmp": 66,
+        "gmpPct": 11.26,
+        "estListing": 652,
+        "estProfitPerLot": 1650,
+        "sauda": "1300",
+        "updatedAt": "2026-10-23T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 46.05,
+    "asOf": "2026-10-19T23:25:05+05:30"
+  },
+  "listing": {
+    "price": 586,
+    "gainPct": 0.0,
+    "nseSymbol": "BONFIG",
+    "isin": "INE28SO01013"
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "allotmentUrl": "https://in.mpms.mufg.com/Initial_Offer/public-issues.html",
+    "email": "bonfigliolitransmissions.ipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Bonfiglioli Transmissions IPO is a book build issue of ₹2,533.67 crores. The issue is entirely an offer for sale of 4.32 crore shares of ₹2,533.67 crore."
+      },
+      {
+        "type": "p",
+        "text": "Bonfiglioli Transmissions IPO bidding started from Oct 15, 2026 and ended on Oct 19, 2026. The allotment for Bonfiglioli Transmissions IPO was finalized on Oct 21, 2026. The shares got listed on NSE and BSE on Oct 23, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Bonfiglioli Transmissions IPO is set final issue price at ₹586 per share. The lot size for an application is 25 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,650 (25 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "The issue includes a reservation of up to 50,000 shares for employees offered at a discount of ₹29.00 to the issue price."
+      },
+      {
+        "type": "p",
+        "text": "Axis Capital Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Bonfiglioli Transmissions IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Bonfiglioli Transmissions Ltd is one of India’s leading technology-driven companies providing mechanical and electro-mechanical power transmission and industrial drive solutions. The company designs and manufactures high-precision, mission-critical gearboxes and drive systems that are used across a wide range of industries."
+      },
+      {
+        "type": "p",
+        "text": "Product Portfolio: Its product portfolio includes low, medium and heavy duty gear motors and gearboxes in torque capacities ranging from 13 Nm to 1,400 kNm Helical, bevel, planetary and worm gearboxes and gear motors, electric motors; variable frequency drives, servo motors and drives, and precision drives for robotics & automation solutions."
+      },
+      {
+        "type": "p",
+        "text": "The business serves three main market segments based on end-use applications, including Industry and Automation Solutions, Off-Highway Mobility, and Wind Industry. In the Industry and Automation Solutions segment, it is among the largest manufacturers of gearboxes and drives in India, serving both original equipment manufacturers (OEMs) and end-users."
+      },
+      {
+        "type": "p",
+        "text": "In India, it operates three manufacturing facilities—two in Tamil Nadu (Thirumudivakkam and Mannur) and one in Maharashtra (Talegaon). Together, these facilities produced over 341,133 gear motors and gearboxes in Fiscal 2025. As of June 30, 2026, we had 215 suppliers in India and 70 suppliers outside India."
+      },
+      {
+        "type": "p",
+        "text": "The company also offers strong after-sales support through two dedicated channels. This includes a team of in-house service engineers based at our 13 sales offices across India, with three offices located at the manufacturing sites in Thirumudivakkam, Mannur, and Talegaon."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the company had 71 touchpoints for customer sales and service across India, including three manufacturing facilities, 13 sales offices, 13 authorized third-party service facilities and 44 authorized dealers with 54 outlets. As of June 30, 2026 the company a network of 285 suppliers of which 215 were located in India and 70 were located overseas including in Italy, China, USA and Germany."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the company had 1,032 personnel involved in various aspects of our operations, which includes onroll employees and contract workers."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "End-to-end technology-led power transmissions and industrial drive solutions provider across business verticals."
+      },
+      {
+        "type": "li",
+        "text": "Highly diversified offerings across business verticals and customer industries."
+      },
+      {
+        "type": "li",
+        "text": "Established parentage and trusted brand backed by global and local R&D capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Deep relationships with marquee customers."
+      },
+      {
+        "type": "li",
+        "text": "State-of-the-art manufacturing infrastructure."
+      },
+      {
+        "type": "li",
+        "text": "Experienced management team delivering strong financial performance"
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Bonfiglioli Transmissions Ltd is a technology-driven manufacturer of mechanical and electro-mechanical power transmission solutions, including gearboxes, gear motors, electric motors, variable frequency drives, servo drives, and precision drives for robotics and automation. The company operates across three key segments: Industry and Automation Solutions, Off-Highway Mobility, and Wind Industry."
+      },
+      {
+        "type": "p",
+        "text": "It operates three manufacturing facilities in Tamil Nadu and Maharashtra, producing over 330,000 gear motors and gearboxes in FY2024. With 13 sales offices across India, the company provides dedicated after-sales support and serves a diversified customer base, including leading industrial OEMs."
+      },
+      {
+        "type": "p",
+        "text": "Its key strengths include a diversified product portfolio, global R&D capabilities, an established brand, strong customer relationships, advanced manufacturing infrastructure, and an experienced management team."
+      }
+    ],
+    "promoters": "Sonia Bonfiglioli, Luciano Bonfiglioli, Luisa Lusardi, Bon-FI S.R.L, Bonfiglioli S.P.A",
+    "promoterHoldingPre": 100,
+    "promoterHoldingPost": 77,
+    "address": "Plot No.AC7-AC11,, SIDCO Industrial Estate,, Thirumudivakkam, Kancheepuram, Tamil Nadu",
+    "phone": "63858 63934",
+    "email": "btl.secretarial@bonfiglioli.com",
+    "website": "https://www.bonfiglioli.in/en"
+  },
+  "kpis": [
+    {
+      "asOf": "2025-12-31",
+      "roe": 25.66,
+      "roce": 18.62,
+      "ronw": 23.96,
+      "patMargin": 11.9,
+      "ebitdaMargin": 18.37,
+      "priceToBook": 11.09,
+      "nav": 52.82
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 14.66,
+      "roce": 20.03,
+      "ronw": 14.37,
+      "patMargin": 13.04,
+      "ebitdaMargin": 19.78,
+      "priceToBook": 10.65,
+      "nav": 55.02
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Dec 2025",
+        "date": "2025-12-31"
+      },
+      {
+        "label": "31 Dec 2024",
+        "date": "2024-12-31"
+      },
+      {
+        "label": "31 Dec 2023",
+        "date": "2023-12-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          1495.82,
+          1439.46,
+          1299.08,
+          1414.72
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          1139.17,
+          2023.59,
+          1861.16,
+          1701.8
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          148.58,
+          237.87,
+          195.16,
+          148.49
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          223.87,
+          370.77,
+          295.07,
+          243.89
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          1034.27,
+          975.25,
+          860.95,
+          801.36
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          846.27,
+          867.66,
+          735.62,
+          670.24
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          null,
+          null,
+          null,
+          110.79
+        ]
+      }
+    ]
+  },
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Bonfiglioli Transmissions Ltd.",
+        "12.65",
+        "12.65",
+        "52.82",
+        "",
+        "23.96",
+        "",
+        ""
+      ],
+      [
+        "Elecon Engineering Co.Ltd.",
+        "15.20",
+        "15.20",
+        "102.65",
+        "31.63",
+        "14.81",
+        "4.71",
+        "Consolidated"
+      ],
+      [
+        "Shanthi Gears Ltd.",
+        "9.99",
+        "9.99",
+        "57.36",
+        "63.39",
+        "17.42",
+        "11.11",
+        "Consolidated"
+      ],
+      [
+        "Schaeffler India Ltd.",
+        "73.60",
+        "73.60",
+        "386.94",
+        "53.74",
+        "19.02",
+        "10.25",
+        "Consolidated"
+      ],
+      [
+        "Timken India Ltd.",
+        "55.16",
+        "55.16",
+        "403.31",
+        "57.66",
+        "13.68",
+        "7.89",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/feb-2026/bonfiglioli-transmissions-limited_99781.html",
+    "rhp": "https://nsearchives.nseindia.com/content/ipo/RHP_BONFIG.zip",
+    "prospectus": "https://www.axiscapital.co.in/contents/Bonfiglioli%20Transmissions%20Limited-%20-%20Prospectus-1792580424.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/bonfiglioli-transmissions-ipo-anchor-list.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/bonfiglioli-transmissions-ipo/2124/",
+    "updated": "Oct 23rd 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-10-23T09:37:00+05:30"
+  }
+}

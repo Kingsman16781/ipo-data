@@ -1,0 +1,265 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2232,
+  "name": "Monomark Engineering",
+  "companyName": "Monomark Engineering (India) Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "upcoming",
+  "rating": 1,
+  "sector": "Civil Construction",
+  "issue": {
+    "type": "Book Build Issue",
+    "faceValue": 10,
+    "freshCr": 2.7,
+    "totalShares": 27000000,
+    "eps": 2.64,
+    "epsPostIssue": 2.57
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "updatedAt": "2026-11-21T05:55:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-21",
+        "gmp": 0,
+        "gmpPct": 0,
+        "updatedAt": "2026-11-21T05:55:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "code": "BIGSHARE",
+    "email": "ipo@bigshareonline.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Monomark Engineering (India) IPO is a book build issue of 2.70 crore shares. The issue is entirely a fresh issue of shares."
+      },
+      {
+        "type": "p",
+        "text": "Monomark Engineering (India) IPO dates are yet to be announced."
+      },
+      {
+        "type": "p",
+        "text": "Monomark Engineering (India) IPO is set issue price band at [.] to [.] per share."
+      },
+      {
+        "type": "p",
+        "text": "Holani Consultants Pvt.Ltd. is the book running lead manager and Bigshare Services Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Monomark Engineering (India) IPO DRHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in 2005, Monomark Engineering (India) Limited is engaged in providing industrial operations and maintenance (O&M) services, metal fabrication solutions, and industrial project execution services to clients across sectors such as metals, cement, ports, and engineering/OEMs."
+      },
+      {
+        "type": "p",
+        "text": "The company executes projects under two models—EPC and FEIC. Under the EPC model, it undertakes end-to-end project execution including engineering, procurement, construction, erection, installation, and commissioning. Under the FEIC model, it focuses on on-site fabrication, erection, installation, and commissioning, while design and procurement are handled by clients or other contractors."
+      },
+      {
+        "type": "p",
+        "text": "As of February 28, 2026, the company has 28 ongoing projects, including 20 O&M and 8 execution projects. Over the last five years, it has completed 20 projects across its business segments, indicating consistent execution capabilities. The company also has an unexecuted order book of ₹1,09,535.03 lakhs."
+      },
+      {
+        "type": "p",
+        "text": "The company operates a manufacturing facility in Chittorgarh, Rajasthan, and has offices and project sites across multiple states including Rajasthan, Maharashtra, Madhya Pradesh, Gujarat, Goa, and Dadra and Nagar Haveli and Daman and Diu. It has a total workforce of 6,381 employees, comprising 836 permanent and 5,545 project-based employees."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Monomark Engineering (India) Limited provides industrial operations and maintenance (O&M) services, metal fabrication, and project execution services to industries such as metals, cement, ports, and engineering."
+      },
+      {
+        "type": "p",
+        "text": "The company executes projects through two models: EPC, which covers complete project execution from engineering to commissioning, and FEIC, which mainly involves fabrication, erection, installation, and commissioning."
+      },
+      {
+        "type": "p",
+        "text": "As of February, 2026, the company has 28 ongoing projects, including 20 O&M and 8 execution projects. It has completed 20 projects over the last five years and has an unexecuted order book of ₹1,09,535.03 lakhs."
+      },
+      {
+        "type": "p",
+        "text": "The company operates a manufacturing facility in Chittorgarh, Rajasthan, with offices and project sites across several states. It has a total workforce of 6,381 employees, including 836 permanent and 5,545 project-based employees."
+      }
+    ],
+    "promoters": "Narendra Chordia, Meena Chordia, Nitesh Chordia and Gaurav Chordia",
+    "promoterHoldingPre": 91.37,
+    "address": "165-167,, New RIICO Ind. Area, Chanderiya,, Distt. Chittorgarh,, Chittaurgarh, Rajasthan",
+    "phone": "7023050122",
+    "email": "s.taneja@monomark.co.in",
+    "website": "https://www.monomark.co.in/"
+  },
+  "kpis": [
+    {
+      "asOf": "2025-03-31",
+      "roe": 27.31,
+      "roce": 21.95,
+      "ronw": 24.86,
+      "patMargin": 3.83,
+      "ebitdaMargin": 8.27,
+      "nav": 11.61
+    },
+    {
+      "asOf": "2025-09-30",
+      "roe": 13.67,
+      "roce": 10.72,
+      "ronw": 11.49,
+      "patMargin": 4.79,
+      "ebitdaMargin": 9.19,
+      "nav": 15.58
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Sep 2025",
+        "date": "2025-09-30"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          343.46,
+          293.52,
+          240.81
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          259.16,
+          477.29,
+          392.14
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          12.36,
+          18.21,
+          14.83
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          23.7,
+          39.26,
+          31.89
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          37.4,
+          16.64,
+          9.68
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding the incremental working capital requirements of the Company",
+      "amountCr": 111
+    },
+    {
+      "text": "General corporate purposes"
+    },
+    {
+      "text": "Total",
+      "amountCr": 111
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Monomark Engineering (India)",
+        "2.89",
+        "2.89",
+        "11.61",
+        "",
+        "24.86",
+        "Consolidated"
+      ],
+      [
+        "ANI Integrated Services",
+        "8.79",
+        "7.94",
+        "68.16",
+        "7.54",
+        "12.76",
+        "Consolidated"
+      ],
+      [
+        "Thejo Engineering",
+        "46.07",
+        "46.04",
+        "295.33",
+        "33.89",
+        "16.33",
+        "Consolidated"
+      ],
+      [
+        "Power Mech Projects",
+        "103.26",
+        "103.26",
+        "683.17",
+        "18.20",
+        "16.09",
+        "Consolidated"
+      ],
+      [
+        "Thermax",
+        "56.33",
+        "56.31",
+        "438.79",
+        "56.68",
+        "12.68",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/apr-2026/monomark-engineering-india-limited_100945.html"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
+    "updated": "Nov 21st 2026 05:55 AM",
+    "gmpUpdatedAt": "2026-11-21T05:55:00+05:30"
+  }
+}

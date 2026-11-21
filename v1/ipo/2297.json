@@ -1,0 +1,534 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2297,
+  "name": "Vedant Poly Fabs",
+  "companyName": "Vedant Poly Fabs Ltd.",
+  "category": "SME",
+  "exchange": "NSE SME",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Packaging",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 88,
+    "priceHigh": 94,
+    "finalPrice": 94,
+    "faceValue": 10,
+    "lot": 1200,
+    "sizeCr": 56.68,
+    "freshCr": 48.14,
+    "ofsCr": 5.67,
+    "totalShares": 6030000,
+    "marketCapCr": 189.43,
+    "peIssue": 12.62,
+    "pePostIssue": 13.62,
+    "eps": 7.45,
+    "epsPostIssue": 6.9
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 225600
+    },
+    "retailMax": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 225600
+    },
+    "sHniMin": {
+      "shares": 3600,
+      "lots": 3,
+      "amount": 338400
+    },
+    "bHniMin": {
+      "shares": 10800,
+      "lots": 9,
+      "amount": 1015200
+    }
+  },
+  "reservation": {
+    "qib": 68400,
+    "nii": 2260800,
+    "sNii": 753600,
+    "bNii": 1507200,
+    "retail": 3396000,
+    "marketMaker": 304800
+  },
+  "dates": {
+    "open": "2026-11-02",
+    "close": "2026-11-04",
+    "boa": "2026-11-05",
+    "refund": "2026-11-06",
+    "dematCredit": "2026-11-06",
+    "listing": "2026-11-09"
+  },
+  "gmp": {
+    "current": 1,
+    "pct": 1.06,
+    "low": 1,
+    "high": 15,
+    "estListing": 95,
+    "estProfitPerLot": 1200,
+    "updatedAt": "2026-11-09T09:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 5,
+      "last": 1,
+      "change": -4,
+      "range": 14,
+      "upPct": 11.11,
+      "downPct": 22.22,
+      "sessions": 10
+    },
+    "history": [
+      {
+        "date": "2026-10-31",
+        "gmp": 5,
+        "gmpPct": 5.32,
+        "estListing": 99,
+        "estProfitPerLot": 6000,
+        "sauda": "4600",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 15,
+        "gmpPct": 15.96,
+        "estListing": 109,
+        "estProfitPerLot": 18000,
+        "sauda": "13700",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 15,
+        "gmpPct": 15.96,
+        "estListing": 109,
+        "estProfitPerLot": 18000,
+        "sauda": "13700",
+        "sub": 0.42,
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 11,
+        "gmpPct": 11.7,
+        "estListing": 105,
+        "estProfitPerLot": 13200,
+        "sauda": "10000",
+        "sub": 0.89,
+        "updatedAt": "2026-11-03T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-04",
+        "gmp": 1,
+        "gmpPct": 1.06,
+        "estListing": 95,
+        "estProfitPerLot": 1200,
+        "sauda": "900",
+        "sub": 1.9,
+        "updatedAt": "2026-11-04T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-05",
+        "gmp": 1,
+        "gmpPct": 1.06,
+        "estListing": 95,
+        "estProfitPerLot": 1200,
+        "sauda": "900",
+        "updatedAt": "2026-11-05T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-06",
+        "gmp": 1,
+        "gmpPct": 1.06,
+        "estListing": 95,
+        "estProfitPerLot": 1200,
+        "sauda": "900",
+        "updatedAt": "2026-11-06T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-07",
+        "gmp": 1,
+        "gmpPct": 1.06,
+        "estListing": 95,
+        "estProfitPerLot": 1200,
+        "sauda": "900",
+        "updatedAt": "2026-11-07T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-08",
+        "gmp": 1,
+        "gmpPct": 1.06,
+        "estListing": 95,
+        "estProfitPerLot": 1200,
+        "sauda": "900",
+        "updatedAt": "2026-11-08T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-09",
+        "gmp": 1,
+        "gmpPct": 1.06,
+        "estListing": 95,
+        "estProfitPerLot": 1200,
+        "sauda": "900",
+        "updatedAt": "2026-11-09T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 1.9,
+    "asOf": "2026-11-04T23:25:04+05:30",
+    "byDay": [
+      {
+        "date": "2026-11-02",
+        "sub": 0.42
+      },
+      {
+        "date": "2026-11-03",
+        "sub": 0.89
+      },
+      {
+        "date": "2026-11-04",
+        "sub": 1.9
+      }
+    ]
+  },
+  "listing": {
+    "price": 94,
+    "gainPct": 0.0,
+    "nseSymbol": "VPFL",
+    "isin": "INE2RWX01016"
+  },
+  "registrar": {
+    "name": "Cameo Corporate Services Ltd.",
+    "code": "CAMEO",
+    "allotmentUrl": "https://ipo.cameoindia.com/",
+    "email": "investor@cameoindia.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Vedant Poly Fabs IPO is a book build issue of ₹56.68 crores. The issue is a combination of fresh issue of 54.26 lakh shares aggregating to ₹51.01 crores and offer for sale of 6.04 lakh shares aggregating to ₹5.67 crores."
+      },
+      {
+        "type": "p",
+        "text": "Vedant Poly Fabs IPO bidding started from Nov 2, 2026 and ended on Nov 4, 2026. The allotment for Vedant Poly Fabs IPO was finalized on Nov 5, 2026. Vedant Poly Fabs IPO will list on the NSE SME on Nov 9, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Vedant Poly Fabs IPO is set final issue price at ₹94 per share. The lot size for an application is 1,200 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,25,600 (2,400 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (3,600 shares), amounting to ₹3,38,400."
+      },
+      {
+        "type": "p",
+        "text": "Affinity Global Capital Market Pvt.Ltd. is the book running lead manager and Cameo Corporate Services Ltd. is the registrar of the issue. The Market Maker of the company is Giriraj Stock Broking Pvt.Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Vedant Poly Fabs IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Vedant Poly Fabs Limited was incorporated in December 2018 and manufactures flexible packaging materials for businesses across India. The company operates as a B2B supplier and offers a diverse range of packaging products, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches, catering to industries such as food & beverages and other consumer goods."
+      },
+      {
+        "type": "p",
+        "text": "Since commencing operations, the company has expanded its product portfolio, strengthened its manufacturing capabilities, and established dedicated teams across sales, design, production, logistics, and dispatch. In March 2026, it further increased manufacturing capacity by adding lamination, slitting, and pouching machines, and installed a reprocessing unit to improve resource utilization and recycle manufacturing waste."
+      },
+      {
+        "type": "p",
+        "text": "The company follows an integrated manufacturing process covering raw material procurement, film extrusion, printing, lamination, slitting, quality control, packing, and dispatch."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company had 61 employees across its manufacturing facility and office operations, including Directors, Key Managerial Personnel, and Senior Managerial Personnel responsible for business operations, compliance, administration, marketing, and accounting."
+      },
+      {
+        "type": "h",
+        "text": "Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Integrated manufacturing operations"
+      },
+      {
+        "type": "li",
+        "text": "Diversified flexible packaging product portfolio"
+      },
+      {
+        "type": "li",
+        "text": "Strong quality control systems"
+      },
+      {
+        "type": "li",
+        "text": "Strategic manufacturing location"
+      },
+      {
+        "type": "li",
+        "text": "In-house transportation and logistics capabilities"
+      },
+      {
+        "type": "li",
+        "text": "Direct sales model with diversified customer base"
+      },
+      {
+        "type": "li",
+        "text": "Product development and customization capabilities."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Vedant Poly Fabs Limited, incorporated in December 2018, is engaged in the manufacturing of flexible packaging materials for business customers across India. The company offers a diversified product portfolio, including 3-layer and 5-layer LD films, shrink films, barrier films, printed laminates, and milk and oil pouches. Its products cater to the packaging requirements of the food and beverage industry and other consumer goods segments."
+      },
+      {
+        "type": "p",
+        "text": "The company operates an integrated manufacturing process covering film extrusion, printing, lamination, slitting, quality control, and packaging. In March 2026, it strengthened its manufacturing infrastructure by adding lamination, slitting, and pouching machines and installing a reprocessing unit to support waste recycling and improve resource utilization. These initiatives reflect its focus on enhancing operational capabilities and supporting evolving customer requirements. As of March 31, 2026, the company had a workforce of 72 employees, comprising 41 permanent and 31 contractual employees."
+      },
+      {
+        "type": "h",
+        "text": "Key Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Integrated Manufacturing: In-house capabilities across multiple stages of the flexible packaging production process."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Product Portfolio: A wide range of flexible packaging solutions catering to different industry requirements."
+      },
+      {
+        "type": "li",
+        "text": "Quality Control: Quality checks integrated into the manufacturing process to support product consistency."
+      },
+      {
+        "type": "li",
+        "text": "Manufacturing Infrastructure: Additional machinery and reprocessing facilities to enhance production capabilities and resource utilization."
+      },
+      {
+        "type": "li",
+        "text": "Logistics Capabilities: In-house transportation and logistics support for product distribution."
+      },
+      {
+        "type": "li",
+        "text": "Customer Reach: A direct B2B sales model and a diversified customer base across India."
+      },
+      {
+        "type": "li",
+        "text": "Customization Capabilities: Product development and customization to address specific packaging requirements."
+      }
+    ],
+    "promoters": "Pankaj Kumar Maheshwari, Sujata Maheshwari, Sethsawaria Poly Fab LLP",
+    "promoterHoldingPre": 100,
+    "promoterHoldingPost": 70.08,
+    "address": "6/1/Q Digberia Road, P.O. Badu, North 24 Parganas, Badu, Barasat, West Bengal",
+    "phone": "8240877760",
+    "email": "cs@vedantpolyfabs.com",
+    "website": "https://vedantpolyfabs.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 38.03,
+      "roce": 46.34,
+      "debtEquity": 1.11,
+      "ronw": 25.95,
+      "patMargin": 9.52,
+      "ebitdaMargin": 16.5,
+      "priceToBook": 3.28,
+      "nav": 28.7
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 7.92,
+      "roce": 8.93,
+      "debtEquity": 0.98,
+      "ronw": 30.52,
+      "patMargin": 11.48,
+      "ebitdaMargin": 21.76,
+      "priceToBook": 3.04,
+      "nav": 30.97
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          100.88,
+          97.8,
+          55.4,
+          18.88
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          30.49,
+          115.31,
+          81.58,
+          49.73
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          3.48,
+          10.97,
+          456060,
+          0.64
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          6.59,
+          19,
+          7.74,
+          1.29
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          45.6,
+          42.26,
+          15.42,
+          3.86
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          30.88,
+          27.53,
+          4.57,
+          3.75
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          44.81,
+          46.82,
+          13.32,
+          6.35
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding incremental working capital requirements of the Company",
+      "amountCr": 24.61
+    },
+    {
+      "text": "Prepayment or Repayment of all or a portion of certain secured or/and unsecured outstanding borrowings availed by the company",
+      "amountCr": 8
+    },
+    {
+      "text": "Funding Capital Expenditure for purchase and installation of Plant and Machinery at its existing manufacturing facility",
+      "amountCr": 6.51
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 7.53
+    },
+    {
+      "text": "To meet the offer related expenses",
+      "amountCr": 4.36
+    },
+    {
+      "text": "Total",
+      "amountCr": 51.01
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Vedant Poly Fabs",
+        "2.36",
+        "2.36",
+        "30.97",
+        "9.96",
+        "30.52",
+        "3.13",
+        "Restated"
+      ],
+      [
+        "B&A Packaging India",
+        "14.24",
+        "14.24",
+        "180.16",
+        "14.11",
+        "7.90",
+        "1.11",
+        "Standalone"
+      ],
+      [
+        "Barflex Polyfilms",
+        "1.93",
+        "1.93",
+        "38.82",
+        "26.43",
+        "7.34",
+        "1.34",
+        "Consolidated"
+      ],
+      [
+        "RFBL Flexi Pack",
+        "5.08",
+        "3.54",
+        "16.32",
+        "17.79",
+        "31.11",
+        "5.63",
+        "Standalone"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/emerge/corporates/content/Vedant.zip",
+    "rhp": "https://nsearchives.nseindia.com/content/ipo/RHP_VPFL.zip",
+    "prospectus": "https://affinityglobalcap.in/wp-content/uploads/2026/11/Final_Prospectus.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/vedant-poly-fabs-ipo/2297/",
+    "updated": "Nov 9th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-09T09:37:00+05:30"
+  }
+}

@@ -1,0 +1,584 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 1849,
+  "name": "BLS Polymers",
+  "companyName": "BLS Polymers Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "listed",
+  "rating": 4,
+  "sector": "Specialty Chemicals",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 142,
+    "priceHigh": 150,
+    "finalPrice": 150,
+    "faceValue": 10,
+    "lot": 100,
+    "sizeCr": 255,
+    "freshCr": 255,
+    "totalShares": 17000000,
+    "marketCapCr": 930.48,
+    "peIssue": 25,
+    "pePostIssue": 22.73,
+    "eps": 6,
+    "epsPostIssue": 6.6
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 100,
+      "lots": 1,
+      "amount": 15000
+    },
+    "retailMax": {
+      "shares": 1300,
+      "lots": 13,
+      "amount": 195000
+    },
+    "sHniMin": {
+      "shares": 1400,
+      "lots": 14,
+      "amount": 210000
+    },
+    "sHniMax": {
+      "shares": 6600,
+      "lots": 66,
+      "amount": 990000
+    },
+    "bHniMin": {
+      "shares": 6700,
+      "lots": 67,
+      "amount": 1005000
+    }
+  },
+  "reservation": {
+    "qib": 3400000,
+    "anchor": 5100000,
+    "nii": 2550000,
+    "sNii": 850000,
+    "bNii": 1700000,
+    "retail": 5950000
+  },
+  "dates": {
+    "anchorBid": "2026-10-26",
+    "open": "2026-10-27",
+    "close": "2026-10-29",
+    "boa": "2026-10-30",
+    "refund": "2026-11-02",
+    "dematCredit": "2026-11-02",
+    "listing": "2026-11-03",
+    "anchorLockIn50": "2026-11-28",
+    "anchorLockInRest": "2027-01-27"
+  },
+  "gmp": {
+    "current": 69,
+    "pct": 46,
+    "low": 18,
+    "high": 70,
+    "estListing": 219,
+    "estProfitPerLot": 6900,
+    "updatedAt": "2026-11-03T09:37:00+05:30",
+    "trend": {
+      "direction": "Volatile",
+      "first": 18,
+      "last": 69,
+      "change": 51,
+      "range": 52,
+      "upPct": 53.33,
+      "downPct": 6.67,
+      "sessions": 16
+    },
+    "history": [
+      {
+        "date": "2026-10-19",
+        "gmp": 18,
+        "gmpPct": 12,
+        "estListing": 168,
+        "estProfitPerLot": 1800,
+        "sauda": "1400",
+        "updatedAt": "2026-10-19T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-20",
+        "gmp": 30,
+        "gmpPct": 20,
+        "estListing": 180,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "updatedAt": "2026-10-20T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-21",
+        "gmp": 30,
+        "gmpPct": 20,
+        "estListing": 180,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "updatedAt": "2026-10-21T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-22",
+        "gmp": 38,
+        "gmpPct": 25.33,
+        "estListing": 188,
+        "estProfitPerLot": 3800,
+        "sauda": "2900",
+        "updatedAt": "2026-10-22T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-23",
+        "gmp": 38,
+        "gmpPct": 25.33,
+        "estListing": 188,
+        "estProfitPerLot": 3800,
+        "sauda": "2900",
+        "updatedAt": "2026-10-23T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-24",
+        "gmp": 38,
+        "gmpPct": 25.33,
+        "estListing": 188,
+        "estProfitPerLot": 3800,
+        "sauda": "2900",
+        "updatedAt": "2026-10-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-25",
+        "gmp": 38,
+        "gmpPct": 25.33,
+        "estListing": 188,
+        "estProfitPerLot": 3800,
+        "sauda": "2900",
+        "updatedAt": "2026-10-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-26",
+        "gmp": 40,
+        "gmpPct": 26.67,
+        "estListing": 190,
+        "estProfitPerLot": 4000,
+        "sauda": "3000",
+        "updatedAt": "2026-10-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-27",
+        "gmp": 44,
+        "gmpPct": 29.33,
+        "estListing": 194,
+        "estProfitPerLot": 4400,
+        "sauda": "3300",
+        "sub": 9.62,
+        "updatedAt": "2026-10-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-28",
+        "gmp": 51,
+        "gmpPct": 34,
+        "estListing": 201,
+        "estProfitPerLot": 5100,
+        "sauda": "3900",
+        "sub": 35.3,
+        "updatedAt": "2026-10-28T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-29",
+        "gmp": 68,
+        "gmpPct": 45.33,
+        "estListing": 218,
+        "estProfitPerLot": 6800,
+        "sauda": "5200",
+        "sub": 241.22,
+        "updatedAt": "2026-10-29T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-30",
+        "gmp": 70,
+        "gmpPct": 46.67,
+        "estListing": 220,
+        "estProfitPerLot": 7000,
+        "sauda": "5300",
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 68,
+        "gmpPct": 45.33,
+        "estListing": 218,
+        "estProfitPerLot": 6800,
+        "sauda": "5200",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 68,
+        "gmpPct": 45.33,
+        "estListing": 218,
+        "estProfitPerLot": 6800,
+        "sauda": "5200",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 68,
+        "gmpPct": 45.33,
+        "estListing": 218,
+        "estProfitPerLot": 6800,
+        "sauda": "5200",
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 69,
+        "gmpPct": 46,
+        "estListing": 219,
+        "estProfitPerLot": 6900,
+        "sauda": "5200",
+        "updatedAt": "2026-11-03T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 241.22,
+    "asOf": "2026-10-29T23:25:06+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-27",
+        "sub": 9.62
+      },
+      {
+        "date": "2026-10-28",
+        "sub": 35.3
+      },
+      {
+        "date": "2026-10-29",
+        "sub": 241.22
+      }
+    ]
+  },
+  "listing": {
+    "price": 248,
+    "gainPct": 65.33,
+    "nseSymbol": "BLSPOLY",
+    "isin": "INE0ZCQ01019"
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "allotmentUrl": "https://ipostatus.kfintech.com/",
+    "email": "blsploymers.ipo@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "BLS Polymers IPO is a book build issue of ₹255.00 crores. The issue is entirely a fresh issue of 1.70 crore shares of ₹255.00 crore."
+      },
+      {
+        "type": "p",
+        "text": "BLS Polymers IPO bidding started from Oct 27, 2026 and ended on Oct 29, 2026. The allotment for BLS Polymers IPO was finalized on Oct 30, 2026. The shares got listed on NSE and BSE on Nov 3, 2026."
+      },
+      {
+        "type": "p",
+        "text": "BLS Polymers IPO is set final issue price at ₹150 per share. The lot size for an application is 100 shares. The minimum amount of investment required by an individual investor (retail) is ₹15,000 (100 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "Unistone Capital Pvt.Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to BLS Polymers IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "The company operates a manufacturing facility in Goa, spread across approximately 24,220 sq. metres and equipped with 11 machines. It has an in-house laboratory, a quality control team and ISO 9001:2015 certification. The company also develops customised products to meet specific customer requirements."
+      },
+      {
+        "type": "p",
+        "text": "BLS Polymers serves more than 190 customers and exports its products to countries including Bangladesh, Egypt, Saudi Arabia, the UAE, the USA and Zambia."
+      },
+      {
+        "type": "p",
+        "text": "Its proximity to Mormugao Port supports the import of raw materials and export of finished products."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Government Approvals: Enlisted with prominent government agencies with a pre-approved product portfolio."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Product Portfolio: Caters to multiple industries with specialised polymer compounds."
+      },
+      {
+        "type": "li",
+        "text": "Established Customer Relationships: More than 100 customers have been associated with the company for over three years."
+      },
+      {
+        "type": "li",
+        "text": "Wide Market Presence: Serves customers across India and international markets."
+      },
+      {
+        "type": "li",
+        "text": "Product Development Capabilities: Develops customised polymer compounds to meet specific industry and customer requirements."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "BLS Polymers specializes in the development and manufacturing of customized polymer compounds for essential infrastructure industries, including telecommunications, power, railways, water management, and oil and gas distribution."
+      },
+      {
+        "type": "p",
+        "text": "Product Portfolio: The company offers a broad range of polymer-based materials, including high-density polyethylene (HDPE), medium-density polyethylene (MDPE), linear low-density polyethylene (LLDPE), cross-linked polyethylene (XLPE), halogen-free flame-retardant (HFFR) compounds, polyvinyl chloride (PVC), cable filling compounds (CFC), and adhesive coating compounds."
+      },
+      {
+        "type": "p",
+        "text": "Domestic Reach and Customer Base: BLS Polymers has developed an extensive distribution network spanning 24 Indian states and union territories. During Fiscal 2025, the company catered to 113 repeat customers and added 53 new customers to its portfolio."
+      },
+      {
+        "type": "p",
+        "text": "Geographical Market Presence: The company serves both domestic and international markets, exporting its products to countries such as Bangladesh, Egypt, Oman, Saudi Arabia, Turkey, the United Arab Emirates, the United States of America, and Zambia. In Fiscal 2025, domestic sales accounted for 91.57% of total revenue, while exports contributed the remaining 8.43%."
+      },
+      {
+        "type": "p",
+        "text": "Manufacturing Infrastructure: BLS Polymers operates a manufacturing facility in Goa covering approximately 24,220 square feet. The facility is equipped with advanced machinery to support its polymer compound manufacturing operations."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Advantages"
+      },
+      {
+        "type": "li",
+        "text": "Approved supplier status with established government agencies, supported by a portfolio of pre-approved products."
+      },
+      {
+        "type": "li",
+        "text": "A diversified product range serving multiple industries and infrastructure applications."
+      },
+      {
+        "type": "li",
+        "text": "Established customer relationships built through long-term business associations."
+      },
+      {
+        "type": "li",
+        "text": "A broad pan-India distribution network covering 24 states and union territories."
+      },
+      {
+        "type": "li",
+        "text": "Integrated product development capabilities that support customized polymer solutions."
+      }
+    ],
+    "promoters": "Vinod Aggarwal, Sushil Aggarwal, Madhukar Aggarwal, Diwakar Aggarwal, Karan Aggarwal",
+    "promoterHoldingPre": 98.53,
+    "promoterHoldingPost": 71.53,
+    "address": "604, Indra Prakash,, 21, Barakhamba Road, Delhi, New Delhi",
+    "phone": "+91 114 352 6312",
+    "email": "corporate@blspolymers.com",
+    "website": "https://www.blspolymers.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 33.17,
+      "roce": 29.51,
+      "debtEquity": 0.56,
+      "ronw": 28.45,
+      "patMargin": 7.73,
+      "ebitdaMargin": 13.33,
+      "priceToBook": 7.12,
+      "nav": 21.08
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 10.22,
+      "roce": 9.11,
+      "debtEquity": 0.61,
+      "ronw": 9.73,
+      "patMargin": 9.56,
+      "ebitdaMargin": 15.15,
+      "priceToBook": 6.42,
+      "nav": 23.35
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          231.34,
+          206.13,
+          179.14,
+          168.49
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          107.81,
+          354.41,
+          336.7,
+          301.5
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          10.23,
+          27.01,
+          21.14,
+          7.52
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          16.21,
+          46.6,
+          39.66,
+          21.05
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          105.17,
+          94.93,
+          67.94,
+          46.83
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          60.14,
+          49.9,
+          58.34,
+          37.23
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          62.91,
+          51.72,
+          73.92,
+          93.77
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Financing the capital expenditure requirement towards expansion of our Manufacturing Facility by increasing the manufacturing capacity of certain of the existing products",
+      "amountCr": 77.56
+    },
+    {
+      "text": "Funding working capital requirements of the Company",
+      "amountCr": 89.5
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 62.94
+    },
+    {
+      "text": "Issue Expense",
+      "amountCr": 25
+    },
+    {
+      "text": "Total",
+      "amountCr": 255
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "BLS Polymers Limited",
+        "5.99",
+        "5.99",
+        "21.08",
+        "",
+        "28.45",
+        "",
+        "Consolidated"
+      ],
+      [
+        "Kingfa Science & Technology (india) Ltd.",
+        "144.10",
+        "144.10",
+        "1,155.40",
+        "46.25",
+        "13.24",
+        "3.66",
+        "Consolidated"
+      ],
+      [
+        "Ddev Plastiks Industries Ltd.",
+        "19.50",
+        "19.50",
+        "97.93",
+        "12.97",
+        "19.92",
+        "1.95",
+        "Consolidated"
+      ],
+      [
+        "Plastiblends India Ltd.",
+        "14.12",
+        "14.12",
+        "172.78",
+        "14.53",
+        "8.17",
+        "0.70",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/corporate/Registration_07082025095701_BLS_Polymers_Limited.pdf",
+    "rhp": "https://www.sebi.gov.in/filings/public-issues/oct-2026/bls-polymers-limited-rhp_105327.html",
+    "prospectus": "https://www.sebi.gov.in/filings/public-issues/oct-2026/bls-polymers-limited-prospectus_105357.html",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/anchor_intimation_letter_company-bls-polymers.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/bls-polymers-ipo/1849/",
+    "updated": "Nov 3rd 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-03T09:37:00+05:30"
+  }
+}

@@ -1,0 +1,420 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2375,
+  "name": "Antala Industries",
+  "companyName": "Antala Industries Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Packaging",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 62,
+    "priceHigh": 66,
+    "finalPrice": 66,
+    "faceValue": 10,
+    "lot": 2000,
+    "sizeCr": 22.98,
+    "freshCr": 21.82,
+    "totalShares": 3482000,
+    "marketCapCr": 80.23,
+    "peIssue": 13.52,
+    "pePostIssue": 9.58,
+    "eps": 4.88,
+    "epsPostIssue": 6.89
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 4000,
+      "lots": 2,
+      "amount": 264000
+    },
+    "retailMax": {
+      "shares": 4000,
+      "lots": 2,
+      "amount": 264000
+    },
+    "sHniMin": {
+      "shares": 6000,
+      "lots": 3,
+      "amount": 396000
+    },
+    "bHniMin": {
+      "shares": 16000,
+      "lots": 8,
+      "amount": 1056000
+    }
+  },
+  "reservation": {
+    "qib": 36000,
+    "nii": 510000,
+    "sNii": 168000,
+    "bNii": 342000,
+    "retail": 2760000,
+    "marketMaker": 176000
+  },
+  "dates": {
+    "open": "2026-10-29",
+    "close": "2026-11-05",
+    "boa": "2026-11-06",
+    "refund": "2026-11-09",
+    "dematCredit": "2026-11-09",
+    "listing": "2026-11-11"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-11T09:37:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-11",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 66,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-11T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 12.79,
+    "asOf": "2026-11-05T23:25:03+05:30"
+  },
+  "listing": {
+    "price": 52.8,
+    "gainPct": -20.0,
+    "nseSymbol": "ANTALA",
+    "isin": "INE15Z101013"
+  },
+  "registrar": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "code": "BIGSHARE",
+    "allotmentUrl": "https://ipo.bigshareonline.com/IPO_Status.html",
+    "email": "ipo@bigshareonline.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Antala Industries IPO is a book build issue of ₹22.98 crores. The issue is entirely a fresh issue of 34.82 lakh shares of ₹22.98 crore."
+      },
+      {
+        "type": "p",
+        "text": "Antala Industries IPO bidding started from Oct 29, 2026 and ended on Nov 5, 2026. The allotment for Antala Industries IPO was finalized on Nov 6, 2026. The shares got listed on the BSE SME on Nov 11, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Antala Industries IPO is set final issue price at ₹66 per share. The lot size for an application is 2,000 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,64,000 (4,000 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (6,000 shares), amounting to ₹3,96,000."
+      },
+      {
+        "type": "p",
+        "text": "Vatsa Capital Venture Pvt.ltd. is the book running lead manager and Bigshare Services Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Asnani Stock Broker Pvt.Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Antala Industries IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in August 2024, Antala Industries Limited is engaged in the manufacturing, processing, printing, laminating and supply of industrial and commercial packaging products. The Company specializes in BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, serving customers across industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, with capabilities including extrusion, coating and lamination, rotogravure printing, stitching and finishing."
+      },
+      {
+        "type": "h",
+        "text": "Products:"
+      },
+      {
+        "type": "li",
+        "text": "BOPP Bags: Premium packaging bags used in food, fertilizers, chemicals, seeds, and consumer products."
+      },
+      {
+        "type": "li",
+        "text": "BOPP Printing Roll: BOPP film printed with customer-specific designs, logos, product details, and graphics."
+      },
+      {
+        "type": "li",
+        "text": "BOPP Lamination Roll: Printed BOPP film laminated with PP woven fabric for packaging applications."
+      },
+      {
+        "type": "li",
+        "text": "PP Woven Bag: Durable industrial packaging bags used across various industries."
+      },
+      {
+        "type": "li",
+        "text": "PP Woven Lamination Roll: PP woven fabric laminated with a polymer layer for enhanced packaging performance."
+      },
+      {
+        "type": "p",
+        "text": "The Company provides customized packaging solutions focused on strength, durability, moisture resistance, high-quality printability and enhanced product visibility. Its integrated manufacturing setup enables in-house processing from printing and lamination to cutting, stitching, finishing and packaging, supporting quality control, production efficiency and timely delivery. The Company holds ISO 9001:2015, ISO 14001:2015, ISO 22000:2018 and ISO 45001:2018 certifications and is backed by promoters with nearly three decades of experience in the packaging industry."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, the Company had 11 employees across accounts and finance, management, administration, sales, secretarial and production functions. Its key strengths include experienced promoters and management, a diversified and customizable product portfolio, presence across multiple end-user industries, customer-focused manufacturing and delivery capabilities, and established supplier and customer relationships."
+      },
+      {
+        "type": "h",
+        "text": "Strengths :"
+      },
+      {
+        "type": "li",
+        "text": "Experienced promoters and management team with extensive packaging industry expertise."
+      },
+      {
+        "type": "li",
+        "text": "Diversified product portfolio with customization capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Presence across multiple end-user industries."
+      },
+      {
+        "type": "li",
+        "text": "Integrated manufacturing capabilities supporting operational efficiency."
+      },
+      {
+        "type": "li",
+        "text": "Customer-focused manufacturing and delivery process."
+      },
+      {
+        "type": "li",
+        "text": "Established supplier and customer relationships."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Antala Industries Limited is engaged in the production, processing, printing, lamination and supply of industrial and commercial packaging materials. Its product range includes BOPP bags, BOPP printing rolls, BOPP lamination rolls, PP woven bags and PP woven lamination rolls, catering to industries such as food processing, fertilizers, chemicals, cement and seeds. The Company operates an integrated manufacturing facility in Rajkot, Gujarat, equipped with extrusion, coating and lamination, rotogravure printing, stitching and finishing capabilities."
+      },
+      {
+        "type": "p",
+        "text": "The Company offers customized packaging solutions designed to provide strength, durability, moisture resistance, superior print quality and improved product presentation. Its integrated production infrastructure supports in-house operations ranging from printing and lamination to cutting, stitching, finishing and final packaging, enabling effective quality management, efficient production and timely order fulfilment. The Company holds ISO 9001:2015, ISO 14001:2015, ISO 22000:2018 and ISO 45001:2018 certifications. Its promoters bring nearly three decades of experience in the packaging industry."
+      },
+      {
+        "type": "p",
+        "text": "As of July 21, 2026, the Company employed 11 personnel across various functions, including accounts and finance, management, administration, sales, secretarial and production. Its competitive advantages include experienced promoters and management, a broad and customizable packaging portfolio, a presence across diverse industries, integrated manufacturing operations, a customer-oriented approach and well-established relationships with suppliers and customers."
+      },
+      {
+        "type": "h",
+        "text": "Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "Promoters and management with substantial experience in the packaging industry."
+      },
+      {
+        "type": "li",
+        "text": "Wide range of packaging products with flexibility to meet customized customer requirements."
+      },
+      {
+        "type": "li",
+        "text": "Established presence across several industrial and commercial end-use sectors."
+      },
+      {
+        "type": "li",
+        "text": "Integrated manufacturing infrastructure supporting production control and operational efficiency."
+      },
+      {
+        "type": "li",
+        "text": "Focus on product quality, customized solutions and timely delivery."
+      },
+      {
+        "type": "li",
+        "text": "Established business relationships with customers and suppliers."
+      }
+    ],
+    "promoters": "Rajeshkumar Chandulal Antala, Lataben Rajeshbhai Antala, Pankajkumar Chandulal Antala, Hetalben Pankajkumar Antala, Nevil Pankajbhai Antala, Aaryan Rajesh Antala, Shaily Rajeshkumar Antala",
+    "promoterHoldingPre": 72.92,
+    "promoterHoldingPost": 52.04,
+    "address": "Shapar RS No.84, Plot No.1, Opp. Shreeji Tiles, Veraval (Shapar), Kotda Sanghani, Rajkot, Gujarat",
+    "phone": "98255 17357",
+    "email": "cs@antalaindustriesltd.com",
+    "website": "https://antalalimited.in/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 33.26,
+      "roce": 42.23,
+      "debtEquity": 0.25,
+      "ronw": 24.88,
+      "patMargin": 8.94,
+      "ebitdaMargin": 12.97,
+      "priceToBook": 3.19,
+      "nav": 20.67
+    },
+    {
+      "asOf": "2026-09-30",
+      "roe": 21.36,
+      "roce": 26.61,
+      "debtEquity": 0.08,
+      "ronw": 18.88,
+      "patMargin": 13.9,
+      "ebitdaMargin": 19.12
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Sep 2026",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          34.88,
+          28.41,
+          25.47,
+          5.97
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          30.2,
+          47.53,
+          31.98,
+          12.59
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          4.19,
+          4.24,
+          1.82,
+          0.89
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          5.76,
+          6.15,
+          2.82,
+          1.36
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          22.17,
+          17.03,
+          12.19,
+          3.54
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          13.49,
+          8.79,
+          3.02,
+          null
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          1.75,
+          4.19,
+          3.85,
+          0.36
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "To meet Working Capital Requirements",
+      "amountCr": 10.68
+    },
+    {
+      "text": "To meet the requirements of Capital Expenditure towards Purchase of Machinery",
+      "amountCr": 5.89
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 3.42
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 3.13
+    },
+    {
+      "text": "Total",
+      "amountCr": 23.12
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Antala Industries Ltd.",
+        "7.40",
+        "20.67",
+        "",
+        "24.88",
+        "",
+        "Standalone"
+      ],
+      [
+        "Knack Packaging Ltd",
+        "8.94",
+        "30.48",
+        "24.62",
+        "34.41",
+        "6.83",
+        "Standalone"
+      ],
+      [
+        "Dhaval Packaging Ltd",
+        "8.08",
+        "30.78",
+        "18.50",
+        "31.58",
+        "3.60",
+        "Standalone"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/389949/SME_IPO%20InPrinciple/ANTALA_DRHP_20260814032436.zip",
+    "rhp": "https://www.bseindia.com/downloads/ipo/RHP_281020261807.zip",
+    "prospectus": "https://vatsacapitalventure.com/wp-content/uploads/2026/11/Prospectus-Antala.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/antala-industries-ipo/2375/",
+    "updated": "Nov 11th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-11T09:37:00+05:30"
+  }
+}

@@ -1,0 +1,579 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2017,
+  "name": "Ajwa Projects",
+  "companyName": "Ajwa Projects Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Civil Construction",
+  "issue": {
+    "type": "Fixed Price Issue",
+    "priceHigh": 203,
+    "finalPrice": 203,
+    "faceValue": 10,
+    "lot": 600,
+    "sizeCr": 38.06,
+    "freshCr": 28.53,
+    "ofsCr": 7.6,
+    "totalShares": 1875000,
+    "marketCapCr": 111.66,
+    "peIssue": 14.97,
+    "pePostIssue": 17.92,
+    "eps": 13.56,
+    "epsPostIssue": 11.33
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 1200,
+      "lots": 2,
+      "amount": 243600
+    },
+    "retailMax": {
+      "shares": 1200,
+      "lots": 2,
+      "amount": 243600
+    },
+    "sHniMin": {
+      "shares": 1800,
+      "lots": 3,
+      "amount": 365400
+    },
+    "bHniMin": {
+      "shares": 5400,
+      "lots": 9,
+      "amount": 1096200
+    }
+  },
+  "reservation": {
+    "nii": 889200,
+    "retail": 890400,
+    "marketMaker": 94800
+  },
+  "dates": {
+    "open": "2026-10-28",
+    "close": "2026-10-30",
+    "boa": "2026-11-02",
+    "refund": "2026-11-03",
+    "dematCredit": "2026-11-03",
+    "listing": "2026-11-04"
+  },
+  "gmp": {
+    "current": 1,
+    "pct": 0.49,
+    "low": 1,
+    "high": 38,
+    "estListing": 204,
+    "estProfitPerLot": 600,
+    "updatedAt": "2026-11-04T09:37:00+05:30",
+    "trend": {
+      "direction": "Volatile",
+      "first": 10,
+      "last": 1,
+      "change": -9,
+      "range": 37,
+      "upPct": 11.11,
+      "downPct": 44.44,
+      "sessions": 10
+    },
+    "history": [
+      {
+        "date": "2026-10-26",
+        "gmp": 10,
+        "gmpPct": 4.93,
+        "estListing": 213,
+        "estProfitPerLot": 6000,
+        "sauda": "4600",
+        "updatedAt": "2026-10-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-27",
+        "gmp": 38,
+        "gmpPct": 18.72,
+        "estListing": 241,
+        "estProfitPerLot": 22800,
+        "sauda": "17300",
+        "updatedAt": "2026-10-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-28",
+        "gmp": 35,
+        "gmpPct": 17.24,
+        "estListing": 238,
+        "estProfitPerLot": 21000,
+        "sauda": "16000",
+        "sub": 0.4,
+        "updatedAt": "2026-10-28T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-29",
+        "gmp": 5,
+        "gmpPct": 2.46,
+        "estListing": 208,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "sub": 0.87,
+        "updatedAt": "2026-10-29T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-30",
+        "gmp": 2,
+        "gmpPct": 0.99,
+        "estListing": 205,
+        "estProfitPerLot": 1200,
+        "sauda": "900",
+        "sub": 1.12,
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 1,
+        "gmpPct": 0.49,
+        "estListing": 204,
+        "estProfitPerLot": 600,
+        "sauda": "500",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 1,
+        "gmpPct": 0.49,
+        "estListing": 204,
+        "estProfitPerLot": 600,
+        "sauda": "500",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 1,
+        "gmpPct": 0.49,
+        "estListing": 204,
+        "estProfitPerLot": 600,
+        "sauda": "500",
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 1,
+        "gmpPct": 0.49,
+        "estListing": 204,
+        "estProfitPerLot": 600,
+        "sauda": "500",
+        "updatedAt": "2026-11-03T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-04",
+        "gmp": 1,
+        "gmpPct": 0.49,
+        "estListing": 204,
+        "estProfitPerLot": 600,
+        "sauda": "500",
+        "updatedAt": "2026-11-04T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 1.12,
+    "asOf": "2026-10-30T23:25:05+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-28",
+        "sub": 0.4
+      },
+      {
+        "date": "2026-10-29",
+        "sub": 0.87
+      },
+      {
+        "date": "2026-10-30",
+        "sub": 1.12
+      }
+    ]
+  },
+  "listing": {
+    "price": 203,
+    "gainPct": 0.0,
+    "nseSymbol": "AJWA",
+    "isin": "INE1NMO01017"
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "allotmentUrl": "https://ipostatus.kfintech.com/",
+    "email": "ajwa.ipo@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Ajwa Projects IPO is a fixed issue price of ₹38.06 crores. The issue is a combination of fresh issue of 15.01 lakh shares aggregating to ₹30.46 crores and offer for sale of 3.74 lakh shares aggregating to ₹7.60 crores."
+      },
+      {
+        "type": "p",
+        "text": "Ajwa Projects IPO bidding started from Oct 28, 2026 and ended on Oct 30, 2026. The allotment for Ajwa Projects IPO was finalized on Nov 2, 2026. The shares got listed on the BSE SME on Nov 4, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Ajwa Projects IPO is set final issue price at ₹203 per share. The lot size for an application is 600 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,43,600 (1,200 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (1,800 shares), amounting to ₹3,65,400."
+      },
+      {
+        "type": "p",
+        "text": "Wealth Mine Networks Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue. The Market Maker of the company is Prabhat Financial Services Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Ajwa Projects IPO DRHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in 2011, Ajwa Projects is a multi-disciplinary industrial services company delivering end-to-end solutions across fabrication, erection, piping, pressure equipment, prefabricated structures, civil construction, and maintenance. The company specializes in turning project plans into real, functional industrial assets. The company manufacture technological frameworks, industrial buildings, girders, heavy modules, platforms, and crane girders that are critical for plant construction and infrastructure projects. They also fabricate specialised components such as dish ends, crowns, petals, and customised parts, including diesel engine components for railway applications that require a high degree of precision and strict compliance with industry standards."
+      },
+      {
+        "type": "h",
+        "text": "Key Services:"
+      },
+      {
+        "type": "li",
+        "text": "Fabrication: Manufacture and sell structural components, pressure vessels, boilers, tanks, ducts, and precision parts for various industries."
+      },
+      {
+        "type": "li",
+        "text": "Erection: On-site installation and integration of heavy structures, equipment, and piping systems with strict focus on safety and precision."
+      },
+      {
+        "type": "li",
+        "text": "Piping: Fabrication and installation of process and utility pipelines for chemicals, gases, steam, and fluids."
+      },
+      {
+        "type": "li",
+        "text": "Pressure Equipment: Fabrication, assembly, and erection of pressure vessels and related heavy-duty equipment."
+      },
+      {
+        "type": "li",
+        "text": "Civil Construction: Site development, foundations, industrial buildings, silos, tanks, and other civil works."
+      },
+      {
+        "type": "li",
+        "text": "Prefabricated Structures: Modular and portable buildings for industrial and commercial use."
+      },
+      {
+        "type": "li",
+        "text": "Maintenance & Mechanical Services: Preventive maintenance, PSV calibration, NDT testing, blasting & painting, and plant shutdown support."
+      },
+      {
+        "type": "p",
+        "text": "The company caters to a wide range of industries such as oil & gas, petrochemicals, refineries, power generation, steel, heavy metals, cement, nuclear power, bridges, metro rail, bullet train infrastructure, and other industrial and infrastructure projects."
+      },
+      {
+        "type": "p",
+        "text": "It has a workforce of over 557 skilled and semi-skilled professionals."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "Experienced management team"
+      },
+      {
+        "type": "li",
+        "text": "Comprehensive Portfolio with Sectoral Diversity"
+      },
+      {
+        "type": "li",
+        "text": "Strong and diverse Order Book: As of Sep 30, 2025, its order book stood at Rs 1,982.05 lakhs."
+      },
+      {
+        "type": "li",
+        "text": "Flexible Execution Model (On-Site and Off-Site)"
+      },
+      {
+        "type": "li",
+        "text": "Integrated Fabrication and Erection Expertise"
+      },
+      {
+        "type": "li",
+        "text": "Quality and Safety Framework"
+      },
+      {
+        "type": "li",
+        "text": "Skilled Workforce and Operational Capability"
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Ajwa Projects is a multi-disciplinary industrial services company delivering end-to-end solutions across fabrication, erection, piping, pressure equipment, prefabricated structures, civil construction, and maintenance. The company specializes in turning project plans into real, functional industrial assets."
+      },
+      {
+        "type": "h",
+        "text": "Key Services:"
+      },
+      {
+        "type": "li",
+        "text": "Fabrication: Manufacture and sell structural components, pressure vessels, boilers, tanks, ducts, and precision parts for various industries."
+      },
+      {
+        "type": "li",
+        "text": "Erection: On-site installation and integration of heavy structures, equipment, and piping systems with strict focus on safety and precision."
+      },
+      {
+        "type": "li",
+        "text": "Piping: Fabrication and installation of process and utility pipelines for chemicals, gases, steam, and fluids."
+      },
+      {
+        "type": "li",
+        "text": "Pressure Equipment: Fabrication, assembly, and erection of pressure vessels and related heavy-duty equipment."
+      },
+      {
+        "type": "li",
+        "text": "Civil Construction: Site development, foundations, industrial buildings, silos, tanks, and other civil works."
+      },
+      {
+        "type": "li",
+        "text": "Prefabricated Structures: Modular and portable buildings for industrial and commercial use."
+      },
+      {
+        "type": "li",
+        "text": "Maintenance & Mechanical Services: Preventive maintenance, PSV calibration, NDT testing, blasting & painting, and plant shutdown support."
+      },
+      {
+        "type": "p",
+        "text": "The company caters to a wide range of industries such as oil & gas, petrochemicals, refineries, power generation, steel, heavy metals, cement, nuclear power, bridges, metro rail, bullet train infrastructure, and other industrial and infrastructure projects."
+      },
+      {
+        "type": "p",
+        "text": "It has a workforce of over 550 skilled and semi-skilled professionals."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "Experienced management team"
+      },
+      {
+        "type": "li",
+        "text": "Comprehensive Portfolio with Sectoral Diversity"
+      },
+      {
+        "type": "li",
+        "text": "Strong and diverse Order Book: As of Sep 30, 2025, its order book stood at Rs 1,982.05 lakhs."
+      },
+      {
+        "type": "li",
+        "text": "Flexible Execution Model (On-Site and Off-Site)"
+      },
+      {
+        "type": "li",
+        "text": "Integrated Fabrication and Erection Expertise"
+      },
+      {
+        "type": "li",
+        "text": "Quality and Safety Framework"
+      },
+      {
+        "type": "li",
+        "text": "Skilled Workforce and Operational Capability"
+      }
+    ],
+    "promoters": "Mohammad Khurshid Alam Khan, Zarinbegum Khurshid Alam Khan, Riyaz Rafiq Padela",
+    "promoterHoldingPre": 98.9,
+    "promoterHoldingPost": 65.11,
+    "address": "M/71,, Silver Spring Near Bhulkabhavan School,, Adajan, Surat, Gujarat",
+    "phone": "0261-2786786",
+    "email": "info@ajwaprojects.com",
+    "website": "https://www.ajwaprojects.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 36.15,
+      "roce": 34.75,
+      "debtEquity": 0.71,
+      "ronw": 36.15,
+      "patMargin": 11.2,
+      "ebitdaMargin": 18.66,
+      "priceToBook": 4.58,
+      "nav": 44.28
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 8.42,
+      "roce": 7.56,
+      "debtEquity": 0.72,
+      "ronw": 8.42,
+      "patMargin": 12.55,
+      "ebitdaMargin": 19.71,
+      "priceToBook": 4.21,
+      "nav": 48.17
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          41.97,
+          36.37,
+          25.57,
+          25
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          12.44,
+          48.56,
+          36.87,
+          34.38
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          1.56,
+          5.42,
+          3.28,
+          2.95
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          2.45,
+          9.03,
+          6.41,
+          5.68
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          19.27,
+          17.71,
+          12.29,
+          8.9
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          15.27,
+          13.71,
+          8.29,
+          8.81
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          13.84,
+          12.52,
+          7.96,
+          10.85
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding capital expenditure requirements towards acquisition of plant & machinery, transport vehicle/assets",
+      "amountCr": 8.1
+    },
+    {
+      "text": "Repayment or prepayment, in full or in part, of borrowings availed by Company",
+      "amountCr": 9.35
+    },
+    {
+      "text": "Working Capital Requirement",
+      "amountCr": 4
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 4.43
+    },
+    {
+      "text": "Total",
+      "amountCr": 25.88
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Ajwa Projects Ltd.",
+        "13.56",
+        "13.56",
+        "44.28",
+        "14.97",
+        "36.15",
+        "4.61",
+        "Restated"
+      ],
+      [
+        "Atmastco Ltd.",
+        "7.33",
+        "7.33",
+        "59.15",
+        "15.97",
+        "13.93",
+        "1.98",
+        ""
+      ],
+      [
+        "Samay Project Services Ltd.",
+        "4.77",
+        "4.77",
+        "26.02",
+        "9.52",
+        "22.64",
+        "1.73",
+        ""
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/355566/SME_IPO%20InPrinciple/DraftProspectusAjwaProjects_20251009230442.pdf",
+    "prospectus": "https://www.bsesme.com/download/355566/SME_IPO%20Open/1.%20Prospectus_Ajwa_20261022220154.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/ajwa-projects-ipo/2017/",
+    "updated": "Nov 4th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-04T09:37:00+05:30"
+  }
+}

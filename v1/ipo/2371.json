@@ -1,0 +1,541 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2371,
+  "name": "Johnsoncab Electricals",
+  "companyName": "Johnsoncab Electricals Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Cables - Electricals",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 190,
+    "priceHigh": 200,
+    "finalPrice": 200,
+    "faceValue": 10,
+    "lot": 600,
+    "sizeCr": 56.02,
+    "freshCr": 53.18,
+    "totalShares": 2800800,
+    "marketCapCr": 211.42,
+    "peIssue": 11.58,
+    "pePostIssue": 10.2,
+    "eps": 17.27,
+    "epsPostIssue": 19.6
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 1200,
+      "lots": 2,
+      "amount": 240000
+    },
+    "retailMax": {
+      "shares": 1200,
+      "lots": 2,
+      "amount": 240000
+    },
+    "sHniMin": {
+      "shares": 1800,
+      "lots": 3,
+      "amount": 360000
+    },
+    "bHniMin": {
+      "shares": 5400,
+      "lots": 9,
+      "amount": 1080000
+    }
+  },
+  "reservation": {
+    "qib": 531000,
+    "anchor": 795000,
+    "nii": 399600,
+    "sNii": 133200,
+    "bNii": 266400,
+    "retail": 933600,
+    "marketMaker": 141600
+  },
+  "dates": {
+    "anchorBid": "2026-10-29",
+    "open": "2026-10-30",
+    "close": "2026-11-03",
+    "boa": "2026-11-04",
+    "refund": "2026-11-05",
+    "dematCredit": "2026-11-05",
+    "listing": "2026-11-06",
+    "anchorLockIn50": "2026-12-05",
+    "anchorLockInRest": "2027-02-03"
+  },
+  "gmp": {
+    "current": 8,
+    "pct": 4,
+    "low": 5,
+    "high": 13,
+    "estListing": 208,
+    "estProfitPerLot": 4800,
+    "updatedAt": "2026-11-06T09:37:00+05:30",
+    "trend": {
+      "direction": "Stable",
+      "first": 10,
+      "last": 8,
+      "change": -2,
+      "range": 8,
+      "upPct": 22.22,
+      "downPct": 33.33,
+      "sessions": 10
+    },
+    "history": [
+      {
+        "date": "2026-10-28",
+        "gmp": 10,
+        "gmpPct": 5,
+        "estListing": 210,
+        "estProfitPerLot": 6000,
+        "sauda": "4600",
+        "updatedAt": "2026-10-28T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-29",
+        "gmp": 13,
+        "gmpPct": 6.5,
+        "estListing": 213,
+        "estProfitPerLot": 7800,
+        "sauda": "5900",
+        "updatedAt": "2026-10-29T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-30",
+        "gmp": 10,
+        "gmpPct": 5,
+        "estListing": 210,
+        "estProfitPerLot": 6000,
+        "sauda": "4600",
+        "sub": 1.14,
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 5,
+        "gmpPct": 2.5,
+        "estListing": 205,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 5,
+        "gmpPct": 2.5,
+        "estListing": 205,
+        "estProfitPerLot": 3000,
+        "sauda": "2300",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 10,
+        "gmpPct": 5,
+        "estListing": 210,
+        "estProfitPerLot": 6000,
+        "sauda": "4600",
+        "sub": 2.01,
+        "updatedAt": "2026-11-02T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-03",
+        "gmp": 8,
+        "gmpPct": 4,
+        "estListing": 208,
+        "estProfitPerLot": 4800,
+        "sauda": "3600",
+        "sub": 23.82,
+        "updatedAt": "2026-11-03T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-04",
+        "gmp": 8,
+        "gmpPct": 4,
+        "estListing": 208,
+        "estProfitPerLot": 4800,
+        "sauda": "3600",
+        "updatedAt": "2026-11-04T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-05",
+        "gmp": 8,
+        "gmpPct": 4,
+        "estListing": 208,
+        "estProfitPerLot": 4800,
+        "sauda": "3600",
+        "updatedAt": "2026-11-05T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-06",
+        "gmp": 8,
+        "gmpPct": 4,
+        "estListing": 208,
+        "estProfitPerLot": 4800,
+        "sauda": "3600",
+        "updatedAt": "2026-11-06T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 23.82,
+    "asOf": "2026-11-03T23:25:03+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-30",
+        "sub": 1.14
+      },
+      {
+        "date": "2026-11-02",
+        "sub": 2.01
+      },
+      {
+        "date": "2026-11-03",
+        "sub": 23.82
+      }
+    ]
+  },
+  "listing": {
+    "price": 238.5,
+    "gainPct": 19.25,
+    "nseSymbol": "JOHNSONCAB",
+    "isin": "INE1ZSR01011"
+  },
+  "registrar": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "code": "MAASHITLA",
+    "allotmentUrl": "https://maashitla.com/allotment-status/public-issues",
+    "email": "contact@maashitla.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Johnsoncab Electricals IPO is a book build issue of ₹56.02 crores. The issue is entirely a fresh issue of 28.01 lakh shares of ₹56.02 crore."
+      },
+      {
+        "type": "p",
+        "text": "Johnsoncab Electricals IPO bidding started from Oct 30, 2026 and ended on Nov 3, 2026. The allotment for Johnsoncab Electricals IPO was finalized on Nov 4, 2026. The shares got listed on the BSE SME on Nov 6, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Johnsoncab Electricals IPO is set final issue price at ₹200 per share. The lot size for an application is 600 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,40,000 (1,200 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (1,800 shares), amounting to ₹3,60,000."
+      },
+      {
+        "type": "p",
+        "text": "ISK Advisors Pvt.Ltd. is the book running lead manager and Maashitla Securities Pvt.Ltd. is the registrar of the issue. The Market Maker of the company are Isk Equities Private Ltd. , Sunflower Broking Pvt.Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Johnsoncab Electricals IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated on November 12, 2020, Johnsoncab Electricals Limited originated as a partnership firm named M/s. Johnson Cables in February 2012. It is engaged in the manufacturing of low-voltage wires and cables rated up to 1.1 kV and markets its products under the brand name “JOHNSON CABLES”, catering to power infrastructure, renewable energy, railways and industrial applications.The Company’s product portfolio includes control cables, power cables, industrial single-core and multicore cables, house and building wires, welding cables, solar/photovoltaic cables and submersible flat cables. Its products are designed for applications across power transmission and distribution, renewable energy integration, industrial operations and allied sectors. The Company holds ISO and BIS certifications to support product quality and compliance with applicable standards."
+      },
+      {
+        "type": "p",
+        "text": "Johnsoncab Electricals operates two manufacturing units in Mehsana, Gujarat, with a combined annual installed manufacturing capacity of 79,950 kilometres as of Fiscal 2026. Its facilities are equipped with machinery for wire drawing, annealing, bunching, insulation, extrusion, testing and packaging. The Company has upgraded its manufacturing infrastructure with automatic and semi-automatic machinery to improve production capabilities and cater to varied product specifications."
+      },
+      {
+        "type": "p",
+        "text": "The Company serves both government entities and private-sector customers through direct orders, tender participation and vendor approval processes. Revenue from operations increased from ₹88.34 crore in Fiscal 2024 to ₹210.47 crore in Fiscal 2026. For the five months ended August 31, 2026, the Company reported revenue from operations of ₹113.04 crore, EBITDA of ₹15.32 crore and profit after tax of ₹8.63 crore."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, the Company had 193 employees across production, operations, finance, human resources, quality assurance, sales and marketing, supply chain, logistics and information technology."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Consistent Growth in Revenue from Operations."
+      },
+      {
+        "type": "li",
+        "text": "Continued Investment in Manufacturing Infrastructure."
+      },
+      {
+        "type": "li",
+        "text": "Product Innovation Supported by Intellectual Property."
+      },
+      {
+        "type": "li",
+        "text": "Ability to Serve Government and Private-Sector Customers."
+      },
+      {
+        "type": "li",
+        "text": "Established Vendor Approvals and Government Tender Eligibility."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Johnsoncab Electricals Limited is engaged in the production of low-voltage wires and cables rated up to 1.1 kV. Its products serve various sectors, including power infrastructure, transmission and distribution, renewable energy, railways, and other industrial applications. The company markets its products under the “JOHNSON CABLES” brand and supplies to both government organisations and private sector customers."
+      },
+      {
+        "type": "p",
+        "text": "The company offers a broad range of products, including control cables, power cables, industrial single-core and multicore control cables, house wiring and building wires, welding cables, solar and photovoltaic cables, and submersible flat cables. It operates two manufacturing units in Mehsana, Gujarat, with a combined installed production capacity of 79,950 KMS annually as of Fiscal 2026. These facilities are equipped with machinery for wire drawing, annealing, bunching, insulation, extrusion, testing, and packaging."
+      },
+      {
+        "type": "p",
+        "text": "Johnsoncab Electricals Limited serves its customers through direct orders, competitive tenders, and vendor registration and approval procedures. Its products are supported by ISO and BIS certifications. The company continues to strengthen its manufacturing capabilities and focus on product development to meet evolving industry requirements."
+      },
+      {
+        "type": "p",
+        "text": "As of March 31, 2026, the company employed 167 personnel across key functions, including manufacturing, operations, quality control, sales and marketing, supply chain management, finance, and administration."
+      },
+      {
+        "type": "h",
+        "text": "Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Consistent revenue growth reflecting the company's ability to expand its business operations."
+      },
+      {
+        "type": "li",
+        "text": "Ongoing investments in manufacturing facilities and production capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Established presence in both government and private sector markets."
+      },
+      {
+        "type": "li",
+        "text": "Diverse product range covering multiple low-voltage wire and cable applications."
+      },
+      {
+        "type": "li",
+        "text": "Focus on product development and innovation, supported by intellectual property."
+      },
+      {
+        "type": "li",
+        "text": "Established vendor credentials and eligibility to participate in government tenders."
+      },
+      {
+        "type": "li",
+        "text": "Product quality and manufacturing processes supported by ISO and BIS certifications."
+      }
+    ],
+    "promoters": "Chandreshkumar Shankerlal Patel, Anjal Chandreshkumar Patel, Bhavanaben Chandreshkumar Patel",
+    "promoterHoldingPre": 100,
+    "promoterHoldingPost": 73.5,
+    "address": "Survey No. 930, Jagudan Char Rasta, At Linch, Jagudan, Mehsana, Gujarat",
+    "phone": "96387 54022",
+    "email": "office@johnsoncables.com",
+    "website": "https://www.johnsoncables.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 58.75,
+      "roce": 39.68,
+      "debtEquity": 2.54,
+      "ronw": 42.68,
+      "patMargin": 6.38,
+      "ebitdaMargin": 11.43,
+      "priceToBook": 4.94,
+      "nav": 40.47
+    },
+    {
+      "asOf": "2026-08-31",
+      "roe": 24.14,
+      "roce": 21.55,
+      "debtEquity": 1.94,
+      "ronw": 21.54,
+      "patMargin": 7.64,
+      "ebitdaMargin": 13.55,
+      "priceToBook": 3.88,
+      "nav": 51.58
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "31 Aug 2026",
+        "date": "2026-08-31"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          132.07,
+          126.64,
+          64.28,
+          48.44
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          113.33,
+          211.34,
+          140,
+          88.95
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          8.63,
+          13.42,
+          5.46,
+          2.52
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          15.32,
+          24.06,
+          12.14,
+          5.42
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          40.08,
+          31.44,
+          14.24,
+          8.88
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          32.31,
+          23.67,
+          11.24,
+          5.88
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          77.57,
+          79.88,
+          41.79,
+          32.81
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Construction of additional Factory Shed for expansion",
+      "amountCr": 8.46
+    },
+    {
+      "text": "Purchase of additional plant & machinery for increasing the production capacity",
+      "amountCr": 9.9
+    },
+    {
+      "text": "Purchase new machinery to manufacture “Paper Insulated Copper / Aluminium Conductors",
+      "amountCr": 8.5
+    },
+    {
+      "text": "Purchase and set up a rooftop solar power plant",
+      "amountCr": 3.23
+    },
+    {
+      "text": "Additional Working Capital Requirement",
+      "amountCr": 14
+    },
+    {
+      "text": "General Corporate Purposes",
+      "amountCr": 8.37
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 5.25
+    },
+    {
+      "text": "Total",
+      "amountCr": 57.71
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Johnsoncab Electricals Ltd.",
+        "17.81",
+        "40.47",
+        "",
+        "42.68",
+        "",
+        "Standalone"
+      ],
+      [
+        "Prime Cable Industries Limited",
+        "6.68",
+        "33.17",
+        "25.45",
+        "20.14",
+        "5.15",
+        "Standalone"
+      ],
+      [
+        "Jd Cables Ltd",
+        "14.07",
+        "64.82",
+        "11.56",
+        "21.70",
+        "2.53",
+        "Standalone"
+      ],
+      [
+        "Susan Electricals India Ltd",
+        "11.96",
+        "24.68",
+        "18.14",
+        "47.42",
+        "9.04",
+        "Standalone"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/343160/SME_IPO%20InPrinciple/DRHP_20260807200458.pdf",
+    "rhp": "https://www.bseindia.com/downloads/ipo/RHP&GID_291020261815.zip",
+    "prospectus": "https://iskadvisors.com/wp-content/uploads/2026/11/Prospectus-JEL.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/johnsocab-electricals-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/johnsoncab-electricals-ipo/2371/",
+    "updated": "Nov 6th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-06T09:37:00+05:30"
+  }
+}

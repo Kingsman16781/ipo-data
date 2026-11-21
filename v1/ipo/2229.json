@@ -1,0 +1,426 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2229,
+  "name": "Core4 Engineers",
+  "companyName": "Core4 Engineers Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Civil Construction",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 88,
+    "priceHigh": 93,
+    "finalPrice": 93,
+    "faceValue": 10,
+    "lot": 1200,
+    "sizeCr": 54.82,
+    "freshCr": 48.12,
+    "totalShares": 5894400,
+    "marketCapCr": 192.35,
+    "peIssue": 11.12,
+    "pePostIssue": 7.8,
+    "eps": 8.36,
+    "epsPostIssue": 11.93
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 223200
+    },
+    "retailMax": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 223200
+    },
+    "sHniMin": {
+      "shares": 3600,
+      "lots": 3,
+      "amount": 334800
+    },
+    "bHniMin": {
+      "shares": 10800,
+      "lots": 9,
+      "amount": 1004400
+    }
+  },
+  "reservation": {
+    "qib": 1040400,
+    "anchor": 1544400,
+    "nii": 777600,
+    "sNii": 259200,
+    "bNii": 518400,
+    "retail": 1812000,
+    "marketMaker": 720000
+  },
+  "dates": {
+    "anchorBid": "2026-10-22",
+    "open": "2026-10-23",
+    "close": "2026-10-27",
+    "boa": "2026-10-28",
+    "refund": "2026-10-29",
+    "dematCredit": "2026-10-29",
+    "listing": "2026-10-30",
+    "anchorLockIn50": "2026-11-26",
+    "anchorLockInRest": "2027-01-25"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-10-30T09:28:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-10-30",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 93,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-10-30T09:28:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 5.44,
+    "asOf": "2026-10-27T23:25:05+05:30"
+  },
+  "listing": {
+    "price": 74.4,
+    "gainPct": -20.0,
+    "nseSymbol": "CORE4",
+    "isin": "INE1RY601016"
+  },
+  "registrar": {
+    "name": "Purva Sharegistry (India) Pvt.Ltd.",
+    "code": "PURVA",
+    "allotmentUrl": "https://www.purvashare.com/investor-service/ipo-query",
+    "email": "newissue@purvashare.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Core4 Engineers IPO is a book build issue of ₹54.82 crores. The issue is entirely a fresh issue of 58.94 lakh shares of ₹54.82 crore."
+      },
+      {
+        "type": "p",
+        "text": "Core4 Engineers IPO bidding started from Oct 23, 2026 and ended on Oct 27, 2026. The allotment for Core4 Engineers IPO was finalized on Oct 28, 2026. The shares got listed on the BSE SME on Oct 30, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Core4 Engineers IPO is set final issue price at ₹93 per share. The lot size for an application is 1,200 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,23,200 (2,400 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (3,600 shares), amounting to ₹3,34,800."
+      },
+      {
+        "type": "p",
+        "text": "Socradamus Capital Pvt.ltd. is the book running lead manager and Purva Sharegistry (India) Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Mansi Share & Stock Broking Pvt.Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Core4 Engineers IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in June 2014, Core4 Engineers Limited is an Engineering, Procurement, Construction and Commissioning (“EPCC”) company providing integrated infrastructure solutions across railway infrastructure, power transmission and distribution, and water and wastewater treatment. The Company offers end-to-end project execution capabilities covering design, engineering, procurement, construction, installation, testing, commissioning and operations and maintenance.The Company operates through five business segments: railway electrification and infrastructure, Extra High Tension (“EHT”) transmission and distribution systems, water and wastewater treatment EPCC, automation and Supervisory Control and Data Acquisition (“SCADA”) systems, and supply of High-Tension (“HT”) and Low-Tension (“LT”) distribution panels and related services."
+      },
+      {
+        "type": "p",
+        "text": "Its railway infrastructure activities include overhead electrification, traction substations, station redevelopment, civil works and allied signalling and telecommunication interfaces. In power transmission and distribution, it undertakes turnkey projects involving substations, transmission lines and distribution networks up to 220 kV. Its water and wastewater division provides solutions for water treatment plants, sewage treatment plants and effluent treatment plants, supported by automation and process control systems."
+      },
+      {
+        "type": "p",
+        "text": "The Company also designs and implements PLC-based automation and SCADA systems for railway, power and water infrastructure projects. Its in-house manufacturing facility produces HT/LT distribution and control panels, including VCB, PCC, MCC, APFC and PLC-based automation panels, as well as compact substations. This manufacturing capability complements its EPCC operations by supporting customization, cost efficiency, quality control and timely project execution. The Company also undertakes subcontracting assignments, providing on-ground execution support for engineering and infrastructure projects."
+      },
+      {
+        "type": "p",
+        "text": "The Company serves government organizations, public sector undertakings, utilities, infrastructure contractors and private enterprises across India. Its business model combines multidisciplinary project execution, in-house design and engineering capabilities, panel manufacturing and vendor partnerships to deliver integrated infrastructure solutions."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company had a total workforce of 462 personnel, comprising 62 employees on its payroll and 400 floating labourers engaged primarily for project execution."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Integrated EPCC Capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Business Portfolio."
+      },
+      {
+        "type": "li",
+        "text": "Experienced Project Workforce."
+      },
+      {
+        "type": "li",
+        "text": "Technical and Execution Capabilities."
+      },
+      {
+        "type": "li",
+        "text": "In-House Manufacturing Capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Presence Across Key Infrastructure Sectors."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Core4 Engineers Ltd. is an Engineering, Procurement, Construction and Commissioning (EPCC) company specializing in integrated infrastructure development across railway electrification, power transmission and distribution, and water and wastewater management. The company provides comprehensive project solutions covering planning, design, engineering, material procurement, installation, testing, commissioning, and operation and maintenance (O&M)."
+      },
+      {
+        "type": "p",
+        "text": "The company operates an in-house manufacturing facility dedicated to producing High-Tension (HT) and Low-Tension (LT) electrical panels and compact substations. These products cater to the requirements of its infrastructure projects as well as external customers. Its subsidiary, Core4 Energy Ltd., further strengthens its manufacturing capabilities and generates product-related revenue through the production of electrical distribution and control panels."
+      },
+      {
+        "type": "p",
+        "text": "Core4 Engineers Ltd. serves a diverse client base comprising Indian Railways, public sector undertakings (PSUs), and infrastructure development contractors. Its project portfolio includes railway electrification, traction and power substations, transmission and distribution networks, and water treatment infrastructure. As of September 30, 2025, the company employed 433 personnel, including employees and project-based workers."
+      },
+      {
+        "type": "h",
+        "text": "Key Business Segments"
+      },
+      {
+        "type": "p",
+        "text": "1. Railway Electrification (RE)"
+      },
+      {
+        "type": "p",
+        "text": "The company undertakes railway electrification projects involving 25 kV overhead equipment (OHE), traction substations, and associated electrical infrastructure under the EPCC model."
+      },
+      {
+        "type": "p",
+        "text": "2. Railway Infrastructure"
+      },
+      {
+        "type": "p",
+        "text": "This segment covers integrated civil, electrical, and mechanical works for railway station redevelopment, modernization, and infrastructure improvement projects."
+      },
+      {
+        "type": "p",
+        "text": "3. Extra-High-Voltage (EHT) Transmission and Distribution"
+      },
+      {
+        "type": "p",
+        "text": "Core4 Engineers executes turnkey power infrastructure projects up to 220 kV, encompassing substations, transformers, transmission facilities, and electricity distribution systems."
+      },
+      {
+        "type": "p",
+        "text": "4. Water and Wastewater Treatment"
+      },
+      {
+        "type": "p",
+        "text": "The company delivers EPCC projects for water treatment plants (WTPs), sewage treatment plants (STPs), and effluent treatment plants (ETPs), utilizing technologies such as Moving Bed Biofilm Reactor (MBBR) and Sequencing Batch Reactor (SBR)."
+      },
+      {
+        "type": "p",
+        "text": "5. Automation and SCADA Solutions"
+      },
+      {
+        "type": "p",
+        "text": "This business vertical focuses on PLC-based automation, supervisory monitoring, and control systems designed to improve operational efficiency and facilitate real-time monitoring of infrastructure installations."
+      },
+      {
+        "type": "p",
+        "text": "6. HT/LT Electrical Panel Manufacturing"
+      },
+      {
+        "type": "p",
+        "text": "The company manufactures and supplies a range of electrical panels, including Power Control Centres (PCC), Motor Control Centres (MCC), Automatic Power Factor Correction (APFC) panels, and customized automation panels for industrial and infrastructure applications."
+      }
+    ],
+    "promoters": "Agrahara Chamaraje Gowda Abhinandan, Hosahalli Appagigowda Savitha, Mahadevappa Tejus, Anala",
+    "promoterHoldingPre": 82.09,
+    "promoterHoldingPost": 58.69,
+    "address": "Mathrushree No. 12, 1st Floor, Near Ramana Maharshi Gyana Kendra, Next to New court, K Block, Kuvempunagar, Mysuru, Karnataka",
+    "phone": "821 4507882",
+    "email": "investor@core4grp.com",
+    "website": "https://core4engineers.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 49.7,
+      "roce": 37.78,
+      "debtEquity": 1.02,
+      "ronw": 39.81,
+      "patMargin": 13.54,
+      "ebitdaMargin": 20.04,
+      "priceToBook": 4.43,
+      "nav": 21.01
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 18.06,
+      "roce": 13.23,
+      "debtEquity": 1.09,
+      "ronw": 16.56,
+      "patMargin": 13.51,
+      "ebitdaMargin": 19.9,
+      "priceToBook": 3.69,
+      "nav": 25.18
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          145.43,
+          116.32,
+          67.12,
+          31.97
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          45.77,
+          91.79,
+          34.6,
+          33.63
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          6.17,
+          12.37,
+          3.81,
+          2.89
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          9.08,
+          18.3,
+          6.71,
+          4.96
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          37.23,
+          31.07,
+          18.7,
+          6.43
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          22.44,
+          16.28,
+          15.74,
+          3.63
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          40.57,
+          31.58,
+          18.58,
+          16.75
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding capital expenditure for the acquisition of a property comprising land and an existing building, proposed to be utilized for establishing and operating a new manufacturing facility and corporate office;",
+      "amountCr": 4.12
+    },
+    {
+      "text": "Funding incremental working capital requirements; and",
+      "amountCr": 40.48
+    },
+    {
+      "text": "General corporate purposes",
+      "amountCr": 7.99
+    },
+    {
+      "text": "Issue related Expenses",
+      "amountCr": 2.23
+    },
+    {
+      "text": "Total",
+      "amountCr": 54.82
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Core4 Engineers Ltd.",
+        "8.36",
+        "21.01",
+        "11.12",
+        "39.81",
+        "4.43",
+        ""
+      ],
+      [
+        "K2 Infragen Ltd.",
+        "10.53",
+        "71.05",
+        "3.97",
+        "14.83",
+        "0.58",
+        ""
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/364707/SME_IPO%20InPrinciple/CORE4DRHP_20260329204004.pdf",
+    "rhp": "https://www.bseindia.com/downloads/ipo/Core4%20Engineers%20Limited_RHP&GID_221020261932.zip",
+    "prospectus": "https://www.bsesme.com/download/391808/SME_IPO%20BasisOfAllotment/Prospectus_20261028132702.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/core4-engineers-anchor-book.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/core4-engineers-ipo/2229/",
+    "updated": "Oct 30th 2026 09:28 AM",
+    "gmpUpdatedAt": "2026-10-30T09:28:00+05:30"
+  }
+}

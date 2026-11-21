@@ -1,0 +1,319 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 2029,
+  "name": "Integris Medtech",
+  "companyName": "Integris Medtech Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "upcoming",
+  "rating": 1,
+  "sector": "Medical Equipment & Supplies",
+  "issue": {
+    "type": "Book Build Issue",
+    "faceValue": 1,
+    "freshCr": 600,
+    "ofsCr": 1.08,
+    "eps": 6.52
+  },
+  "dates": {
+    "anchorBid": "2026-11-26",
+    "open": "2026-11-27",
+    "close": "2026-12-01",
+    "boa": "2026-12-02",
+    "refund": "2026-12-03",
+    "dematCredit": "2026-12-03",
+    "listing": "2026-12-04",
+    "anchorLockIn50": "2027-01-01",
+    "anchorLockInRest": "2027-03-02"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "updatedAt": "2026-11-21T05:55:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-21",
+        "gmp": 0,
+        "gmpPct": 0,
+        "updatedAt": "2026-11-21T05:55:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "Kfin Technologies Ltd.",
+    "code": "KFIN",
+    "email": "integris.ipo@kfintech.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Integris Medtech IPO is a book build issue . The issue comprises of fresh issue of ₹600.00 crores and offer for sale of 1.08 crore shares."
+      },
+      {
+        "type": "p",
+        "text": "Integris Medtech IPO opens for subscription on Nov 27, 2026 and closes on Dec 1, 2026. The allotment for the Integris Medtech IPO is expected to be finalized on Dec 2, 2026. Integris Medtech IPO will list on NSE and BSE with a tentative listing date fixed as Dec 4, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Integris Medtech IPO is set issue price band at [.] to [.] per share."
+      },
+      {
+        "type": "p",
+        "text": "ICICI Securities Ltd. is the book running lead manager and Kfin Technologies Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Integris Medtech IPO DRHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in 2008, Integris Medtech Ltd is a diversified India-based global medical products and laboratory solutions company. The company develops, manufactures, commercialises, and sells a broad portfolio of medical devices and solutions spanning cardiovascular devices, clinical diagnostics, and scientific laboratory solutions."
+      },
+      {
+        "type": "p",
+        "text": "Integris Medtech operates manufacturing facilities in India, Germany, and the Netherlands, supplying products to more than 65 international markets across India, Europe, and Southeast Asia. Its customer base includes over 9,500 laboratories and 2,000 hospitals and cathlabs, supported by a portfolio exceeding 22,000 SKUs across more than 200 brands in laboratory and cardiovascular segments."
+      },
+      {
+        "type": "p",
+        "text": "The company’s business is structured into two core divisions:"
+      },
+      {
+        "type": "li",
+        "text": "Cardiovascular Devices – encompassing drug-eluting stents, drug-coated balloons, complex coronary intervention products, and vascular access solutions."
+      },
+      {
+        "type": "li",
+        "text": "Laboratory Solutions – covering clinical, research, and industrial laboratory equipment, reagents, and consumables, along with services such as instrument installation, maintenance, and calibration through its BioCal™ brand."
+      },
+      {
+        "type": "p",
+        "text": "Integris Medtech supports laboratories and hospitals across India, Singapore, Thailand, Malaysia, and the Philippines, serving both public and private sectors."
+      },
+      {
+        "type": "p",
+        "text": "Its European operations focus primarily on cardiovascular products, including proprietary brands like Chrome and Protégé, while its Rest of World presence spans the Middle East, Africa, and Latin America."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2025, Integris Medtech employed 1,879 personnel, including sales, service, and application specialists, and had supported more than 15,000 patients across 100+ clinical trial sites globally, reinforcing its commitment to clinical evidence and innovation in MedTech solutions."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Incorporated in 2008, Integris Medtech Ltd is a diversified India-based global medical products and laboratory solutions company. The company develops, manufactures, commercialises, and sells a broad portfolio of medical devices and solutions spanning cardiovascular devices, clinical diagnostics, and scientific laboratory solutions."
+      },
+      {
+        "type": "p",
+        "text": "Integris Medtech operates manufacturing facilities in India, Germany, and the Netherlands, supplying products to more than 65 international markets across India, Europe, and Southeast Asia. Its customer base includes over 9,500 laboratories and 2,000 hospitals and cathlabs, supported by a portfolio exceeding 22,000 SKUs across more than 200 brands in laboratory and cardiovascular segments."
+      },
+      {
+        "type": "p",
+        "text": "The company’s business is structured into two core divisions:"
+      },
+      {
+        "type": "li",
+        "text": "Cardiovascular Devices – encompassing drug-eluting stents, drug-coated balloons, complex coronary intervention products, and vascular access solutions."
+      },
+      {
+        "type": "li",
+        "text": "Laboratory Solutions – covering clinical, research, and industrial laboratory equipment, reagents, and consumables, along with services such as instrument installation, maintenance, and calibration through its BioCal™ brand."
+      },
+      {
+        "type": "p",
+        "text": "Integris Medtech supports laboratories and hospitals across India, Singapore, Thailand, Malaysia, and the Philippines, serving both public and private sectors."
+      },
+      {
+        "type": "p",
+        "text": "Its European operations focus primarily on cardiovascular products, including proprietary brands like Chrome and Protégé, while its Rest of World presence spans the Middle East, Africa, and Latin America."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2025, Integris Medtech employed 1,879 personnel, including sales, service, and application specialists, and had supported more than 15,000 patients across 100+ clinical trial sites globally, reinforcing its commitment to clinical evidence and innovation in MedTech solutions."
+      }
+    ],
+    "promoters": "Evercure Holdings Pte.Ltd., Medicore Holdings Pte.Ltd., Gurmit Singh Chugh and Punita Sharma",
+    "promoterHoldingPre": 83.24,
+    "address": "1 st Floor, Metro Tower LSC, M.O.R Land, New Rajinder Nagar, North Delhi, New Delhi",
+    "phone": "+91 120 4531422",
+    "email": "investors@integrismedtech.com",
+    "website": "http://www.integrismedtech.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2025-03-31",
+      "roe": 5.35,
+      "roce": 14.51,
+      "ronw": 1.48,
+      "patMargin": 3.72,
+      "ebitdaMargin": 16.26,
+      "nav": 316.09
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2025",
+        "date": "2025-06-30"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      },
+      {
+        "label": "31 Mar 2023",
+        "date": "2023-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          4019.62,
+          3641.34,
+          2989.2,
+          2553.87
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          508.93,
+          1959.58,
+          1582.26,
+          1369.66
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          267.57,
+          70.68,
+          -4.88,
+          -40.54
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          78.73,
+          309.4,
+          190.45,
+          168.82
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          3889.99,
+          2752.52,
+          2681.02,
+          2629.52
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          2299.84,
+          1150.74,
+          1135.71,
+          1073.12
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          793.42,
+          1729.46,
+          813.1,
+          556.54
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Repayment/ prepayment, in full or in part, of certain outstanding borrowings, interest accrued and prepayment penalties, as applicable, availed by:",
+      "amountCr": 509.85
+    },
+    {
+      "text": "The wholly-owned Subsidiaries, namely, Translumina Therapeutics Pvt.Ltd. (Translumina Therapeutics), Transhealth Pvt.Ltd. (Transhealth) ) and HaleMed Medical Pvt.Ltd.",
+      "amountCr": 93.87
+    },
+    {
+      "text": "The step-down Subsidiaries, namely, CPC Diagnostics Pvt.Ltd., Chemopharm Sdn. Bhd., Chemoscience Pte Ltd., Lifeline Diagnostics Supplies Inc., Hausen Bernstein Co. Ltd, Medigene Sdn. Bhd., Research Instruments Sdn Bhd and Research Instruments Pte. Ltd.",
+      "amountCr": 415.98
+    },
+    {
+      "text": "General Corporate Purposes"
+    },
+    {
+      "text": "Total",
+      "amountCr": 1019.7
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (per share) (Rs)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Our Company",
+        "5.82",
+        "5.73",
+        "316.09",
+        "",
+        "1.84",
+        "",
+        "Consolidated"
+      ],
+      [
+        "Poly Medicure",
+        "34.13",
+        "34.11",
+        "278.46",
+        "56.02",
+        "12.26",
+        "6.87",
+        "Consolidated"
+      ],
+      [
+        "Laxmi Dental",
+        "6.07",
+        "6.05",
+        "37.71",
+        "53.95",
+        "16.09",
+        "8.81",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/oct-2025/integris-medtech-limited_97425.html"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
+    "updated": "Nov 21st 2026 05:55 AM",
+    "gmpUpdatedAt": "2026-11-21T05:55:00+05:30"
+  }
+}

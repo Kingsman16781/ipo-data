@@ -1,0 +1,547 @@
+{
+  "schema": 1,
+  "parser": 3,
+  "id": 1635,
+  "name": "EAAA India Alternatives",
+  "companyName": "EAAA India Alternatives Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "listed",
+  "rating": 1,
+  "sector": "Asset Management Company",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 1585,
+    "priceHigh": 1665,
+    "finalPrice": 1665,
+    "faceValue": 5,
+    "lot": 9,
+    "sizeCr": 1200,
+    "ofsCr": 1200,
+    "totalShares": 7207207,
+    "marketCapCr": 10765.1,
+    "peIssue": 40.59,
+    "pePostIssue": 33.35,
+    "eps": 41.02,
+    "epsPostIssue": 49.93
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 9,
+      "lots": 1,
+      "amount": 14985
+    },
+    "retailMax": {
+      "shares": 117,
+      "lots": 13,
+      "amount": 194805
+    },
+    "sHniMin": {
+      "shares": 126,
+      "lots": 14,
+      "amount": 209790
+    },
+    "sHniMax": {
+      "shares": 594,
+      "lots": 66,
+      "amount": 989010
+    },
+    "bHniMin": {
+      "shares": 603,
+      "lots": 67,
+      "amount": 1003995
+    }
+  },
+  "reservation": {
+    "qib": 1441441,
+    "anchor": 2162161,
+    "nii": 1081082,
+    "sNii": 360361,
+    "bNii": 720721,
+    "retail": 2522523
+  },
+  "dates": {
+    "anchorBid": "2026-10-23",
+    "open": "2026-10-26",
+    "close": "2026-10-28",
+    "boa": "2026-10-29",
+    "refund": "2026-10-30",
+    "dematCredit": "2026-10-30",
+    "listing": "2026-11-02",
+    "anchorLockIn50": "2026-11-27",
+    "anchorLockInRest": "2027-01-26"
+  },
+  "gmp": {
+    "current": 54,
+    "pct": 3.24,
+    "low": 11,
+    "high": 121,
+    "estListing": 1719,
+    "estProfitPerLot": 486,
+    "updatedAt": "2026-11-02T09:37:00+05:30",
+    "trend": {
+      "direction": "Volatile",
+      "first": 121,
+      "last": 54,
+      "change": -67,
+      "range": 110,
+      "upPct": 40,
+      "downPct": 50,
+      "sessions": 11
+    },
+    "history": [
+      {
+        "date": "2026-10-23",
+        "gmp": 121,
+        "gmpPct": 7.27,
+        "estListing": 1786,
+        "estProfitPerLot": 1089,
+        "sauda": "800",
+        "updatedAt": "2026-10-23T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-24",
+        "gmp": 45,
+        "gmpPct": 2.7,
+        "estListing": 1710,
+        "estProfitPerLot": 405,
+        "sauda": "300",
+        "updatedAt": "2026-10-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-25",
+        "gmp": 33,
+        "gmpPct": 1.98,
+        "estListing": 1698,
+        "estProfitPerLot": 297,
+        "sauda": "200",
+        "updatedAt": "2026-10-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-26",
+        "gmp": 15,
+        "gmpPct": 0.9,
+        "estListing": 1680,
+        "estProfitPerLot": 135,
+        "sauda": "100",
+        "sub": 0.12,
+        "updatedAt": "2026-10-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-27",
+        "gmp": 11,
+        "gmpPct": 0.66,
+        "estListing": 1676,
+        "estProfitPerLot": 99,
+        "sauda": "100",
+        "sub": 0.35,
+        "updatedAt": "2026-10-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-28",
+        "gmp": 28,
+        "gmpPct": 1.68,
+        "estListing": 1693,
+        "estProfitPerLot": 252,
+        "sauda": "200",
+        "sub": 5.51,
+        "updatedAt": "2026-10-28T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-29",
+        "gmp": 37,
+        "gmpPct": 2.22,
+        "estListing": 1702,
+        "estProfitPerLot": 333,
+        "sauda": "300",
+        "updatedAt": "2026-10-29T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-30",
+        "gmp": 52,
+        "gmpPct": 3.12,
+        "estListing": 1717,
+        "estProfitPerLot": 468,
+        "sauda": "400",
+        "updatedAt": "2026-10-30T23:37:00+05:30"
+      },
+      {
+        "date": "2026-10-31",
+        "gmp": 56,
+        "gmpPct": 3.36,
+        "estListing": 1721,
+        "estProfitPerLot": 504,
+        "sauda": "400",
+        "updatedAt": "2026-10-31T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-01",
+        "gmp": 54,
+        "gmpPct": 3.24,
+        "estListing": 1719,
+        "estProfitPerLot": 486,
+        "sauda": "400",
+        "updatedAt": "2026-11-01T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-02",
+        "gmp": 54,
+        "gmpPct": 3.24,
+        "estListing": 1719,
+        "estProfitPerLot": 486,
+        "sauda": "400",
+        "updatedAt": "2026-11-02T09:37:00+05:30"
+      }
+    ]
+  },
+  "subscription": {
+    "total": 5.51,
+    "asOf": "2026-10-28T23:25:06+05:30",
+    "byDay": [
+      {
+        "date": "2026-10-26",
+        "sub": 0.12
+      },
+      {
+        "date": "2026-10-27",
+        "sub": 0.35
+      },
+      {
+        "date": "2026-10-28",
+        "sub": 5.51
+      }
+    ]
+  },
+  "listing": {
+    "price": 1675.5,
+    "gainPct": 0.63,
+    "nseSymbol": "EDELALTS",
+    "isin": "INE528L01027"
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "allotmentUrl": "https://in.mpms.mufg.com/Initial_Offer/public-issues.html",
+    "email": "eaaaindia.ipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "EAAA India Alternatives IPO is a book build issue of ₹1,200.00 crores. The issue is entirely an offer for sale of 72.07 lakh shares of ₹1,200.00 crore."
+      },
+      {
+        "type": "p",
+        "text": "EAAA India Alternatives IPO bidding started from Oct 26, 2026 and ended on Oct 28, 2026. The allotment for EAAA India Alternatives IPO was finalized on Oct 29, 2026. The shares got listed on NSE and BSE on Nov 2, 2026."
+      },
+      {
+        "type": "p",
+        "text": "EAAA India Alternatives IPO is set final issue price at ₹1,665 per share. The lot size for an application is 9 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,985 (9 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "Axis Capital Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to EAAA India Alternatives IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated on May 14, 2008, EAAA India Alternatives Limited is an alternative investment management platform focused on India’s real assets and private credit markets. It manages investment funds and provides alternative investment solutions to domestic and global institutional investors, high-net-worth individuals (“HNIs”), ultra-high-net-worth individuals (“UHNIs”) and family offices.The Company operates primarily through two business verticals: Real Assets and Private Credit, along with portfolio management services and other investment solutions. Its Real Assets vertical invests in infrastructure, commercial real estate, perpetual capital and energy transition opportunities through equity, quasi-equity and debt instruments. Its Private Credit vertical provides financing solutions across performing credit, special situations, real estate credit and investment-grade credit. The Company also offers co-investment opportunities through portfolio management services."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company managed assets under management (“AUM”) of ₹953,448.78 million and fee-paying assets under management (“FPAUM”) of ₹486,231.76 million. Its portfolio comprised 10 active Real Assets funds, including two Infrastructure Investment Trusts (“InvITs”), and 16 active Private Credit funds. The Company is supported by its wholly owned subsidiary, Sekura India Management Limited, which provides asset operating and management capabilities, including operations, maintenance, monitoring and efficiency improvement."
+      },
+      {
+        "type": "p",
+        "text": "The Company has a diversified client base and a technology-enabled investment platform supported by dedicated investment, asset management, coverage and enterprise teams."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, it had 277 employees across investment, asset operating and management, coverage, enterprise, legal and compliance, and other functions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Established Market Presence: Over 17 years of experience in alternative investment management."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Investment Platform: Presence across real assets, private credit and portfolio management services."
+      },
+      {
+        "type": "li",
+        "text": "Strong Assets Under Management: Managed AUM of ₹953,448.78 million as of June 30, 2026."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Client Base: Long-standing relationships with institutional and non-institutional investors across multiple geographies."
+      },
+      {
+        "type": "li",
+        "text": "Technology-Enabled Operations: Dedicated asset operating and management platform through Sekura India Management Limited."
+      },
+      {
+        "type": "li",
+        "text": "Comprehensive Risk Management: Structured investment assessment, portfolio monitoring and risk management systems."
+      },
+      {
+        "type": "li",
+        "text": "Experienced Management Team: Led by professionals with extensive asset management, investment and risk management experience."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "EAAA India Alternatives Limited operates an alternative investment management platform in India, offering diversified investment strategies across large, underpenetrated, and rapidly expanding alternative asset classes. The company primarily focuses on providing income-generating and yield-oriented investment solutions to its clients through a multi-strategy business model."
+      },
+      {
+        "type": "p",
+        "text": "The company's principal business segments comprise (i) Real Assets and (ii) Private Credit. Through these strategies, EAAA India seeks to capitalise on investment opportunities across alternative asset classes while addressing clients' requirements for income and yield-based solutions."
+      },
+      {
+        "type": "p",
+        "text": "Sekura India Management Limited, a wholly owned subsidiary of EAAA India Alternatives Limited, provides operational and asset management support across the company's investment strategies. Its responsibilities include operations and maintenance, performance monitoring, operational efficiency enhancement, and turnaround management. Sekura forms an integral part of the company's Portfolio Operating and Management Team (POMT), supporting the effective management and performance of portfolio assets."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2024, EAAA India Alternatives Limited served clients across multiple international markets, with its client base spread across India, North America, Europe, and other regions worldwide. This geographic presence reflects the company's reach beyond the domestic market."
+      }
+    ],
+    "promoters": "Edelweiss Financial Services Ltd., Edelweiss Securities & Investments Pvt.Ltd., Edel Finance Co.Ltd., Edelweiss Global Wealth Management Ltd.axi",
+    "promoterHoldingPre": 95.03,
+    "promoterHoldingPost": 83.88,
+    "address": "Edelweiss House, Off C.S.T Road, Mumbai City, Kalina, Mumbai, Maharashtra",
+    "phone": "2240194706",
+    "email": "ipo@eaaa.in",
+    "website": "https://www.eaaa.in/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 25.97,
+      "debtEquity": 0.41,
+      "ronw": 25.97,
+      "patMargin": 27.52,
+      "priceToBook": 10.17,
+      "nav": 163.69
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 28.96,
+      "debtEquity": 0.34,
+      "ronw": 28.96,
+      "patMargin": 24.01,
+      "nav": 176.67
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          2101.84,
+          2170.28,
+          2085.07,
+          1769.66
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          336.13,
+          963.76,
+          786.54,
+          584.25
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          80.71,
+          265.2,
+          229.78,
+          175.16
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          1160.38,
+          1075.54,
+          966.45,
+          729.48
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          1128.24,
+          1043.4,
+          934.31,
+          480.64
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          399.2,
+          441.03,
+          507.49,
+          444.83
+        ]
+      }
+    ]
+  },
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "EAAA India Alternatives Ltd",
+        "41.26",
+        "40.36",
+        "163.69",
+        "",
+        "25.97",
+        "",
+        "Standalone"
+      ],
+      [
+        "360 One Wam Ltd.",
+        "30.16",
+        "29.19",
+        "242.17",
+        "35.67",
+        "14.39",
+        "4.30",
+        "Consolidated"
+      ],
+      [
+        "Aditya Birla Sun Life Amc Ltd.",
+        "33.76",
+        "33.68",
+        "139.94",
+        "29.84",
+        "25.10",
+        "7.22",
+        "Consolidated"
+      ],
+      [
+        "Anand Rathi Wealth Ltd.",
+        "47.87",
+        "47.17",
+        "120.23",
+        "90.69",
+        "47.54",
+        "17.82",
+        "Consolidated"
+      ],
+      [
+        "Hdfc Asset Management Co.Ltd.",
+        "66.77",
+        "66.50",
+        "215.42",
+        "33.76",
+        "32.93",
+        "10.44",
+        "Consolidated"
+      ],
+      [
+        "Gaja Alternative Asset Management Ltd.",
+        "7.17",
+        "7.17",
+        "53.73",
+        "16.47",
+        "16.47",
+        "2.74",
+        "Consolidated"
+      ],
+      [
+        "Nippon Life India Asset Management Ltd.",
+        "24.05",
+        "23.63",
+        "73.01",
+        "43.99",
+        "34.48",
+        "14.23",
+        "Consolidated"
+      ],
+      [
+        "Nuvama Wealth Management Ltd.",
+        "57.59",
+        "56.06",
+        "226.37",
+        "30.99",
+        "27.34",
+        "7.69",
+        "Consolidated"
+      ],
+      [
+        "Uti Asset Management Co.Ltd.",
+        "31.51",
+        "31.41",
+        "350.50",
+        "27.93",
+        "10.38",
+        "2.51",
+        "Consolidated"
+      ],
+      [
+        "Icici Prudential Asset Management Co.Ltd.",
+        "66.73",
+        "66.73",
+        "84.39",
+        "45.95",
+        "85.80",
+        "36.50",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/jan-2026/eaaa-india-alternatives-limited-drhp_99257.html",
+    "rhp": "https://listing.bseindia.com/download/8888888/preanchor/rhpgid_20261021183023.zip",
+    "prospectus": "https://nsearchives.nseindia.in/corporate/FP_INE528L01027_29OCT2026.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/eaaa_india_alternatives_ltd_mainboard_anchor_1792771003.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/eaaa-india-alternatives-ipo/1635/",
+    "updated": "Nov 2nd 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-02T09:37:00+05:30"
+  }
+}

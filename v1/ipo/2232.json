@@ -11,11 +11,12 @@
   "sector": "Civil Construction",
   "issue": {
     "type": "Book Build Issue",
+    "priceHigh": 0,
     "faceValue": 10,
     "freshCr": 2.7,
     "totalShares": 27000000,
-    "eps": 2.64,
-    "epsPostIssue": 2.57
+    "eps": 3.75,
+    "epsPostIssue": 1.26
   },
   "dates": {
     "anchorBid": "2026-12-01",
@@ -24,22 +25,36 @@
     "boa": "2026-12-07",
     "refund": "2026-12-08",
     "dematCredit": "2026-12-08",
+    "listing": "2026-12-09",
     "anchorLockIn50": "2027-01-06",
     "anchorLockInRest": "2027-03-07"
   },
   "gmp": {
-    "low": 0,
-    "high": 0,
-    "updatedAt": "2026-11-22T05:55:00+05:30",
+    "current": 23,
+    "pct": 0,
+    "low": 23,
+    "high": 23,
+    "estListing": 23,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-22T22:37:00+05:30",
     "trend": {
-      "direction": "Initial"
+      "direction": "Initial",
+      "first": 23,
+      "last": 23,
+      "change": 0,
+      "range": 0,
+      "upPct": 0,
+      "downPct": 0,
+      "sessions": 1
     },
     "history": [
       {
         "date": "2026-11-22",
-        "gmp": 0,
+        "gmp": 23,
         "gmpPct": 0,
-        "updatedAt": "2026-11-22T05:55:00+05:30"
+        "estListing": 23,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-22T23:37:00+05:30"
       }
     ]
   },
@@ -74,19 +89,59 @@
     "about": [
       {
         "type": "p",
-        "text": "Incorporated in 2005, Monomark Engineering (India) Limited is engaged in providing industrial operations and maintenance (O&M) services, metal fabrication solutions, and industrial project execution services to clients across sectors such as metals, cement, ports, and engineering/OEMs."
+        "text": "Incorporated on September 29, 2005, Monomark Engineering (India) Limited is engaged in providing Industrial Operations and Maintenance (“O&M”) services, Metal Fabrication solutions and Industrial Project Execution services to industrial clients across sectors such as metals, cement, ports and engineering/OEMs. The Company’s business is organised into three segments: Industrial O&M Services, Metal Fabrication Solutions and Industrial Project Execution Services. Its O&M services include production support, plant operations, preventive and breakdown maintenance, equipment monitoring and technical support. Its metal fabrication activities involve manufacturing customised sheet metal components and structural products based on client specifications and engineering drawings. Under its project execution segment, the Company undertakes engineering, procurement and construction (“EPC”) contracts, as well as on-site fabrication, erection, installation and commissioning (“FEIC”) assignments involving heavy machinery, piping, structural steel and industrial equipment."
       },
       {
         "type": "p",
-        "text": "The company executes projects under two models—EPC and FEIC. Under the EPC model, it undertakes end-to-end project execution including engineering, procurement, construction, erection, installation, and commissioning. Under the FEIC model, it focuses on on-site fabrication, erection, installation, and commissioning, while design and procurement are handled by clients or other contractors."
+        "text": "The Company operates a dedicated metal fabrication facility at Kapasan, Chittorgarh, Rajasthan, with an annual installed capacity of 4,000 MT. Its execution capabilities are supported by an in-house fleet of 232 industrial vehicles and equipment, including forklifts, trucks, excavators, cranes, hydra machines, bulldozers and loaders. This equipment base, together with its technical workforce, enables the Company to manage site-level logistics, mobilise resources and execute operational and project-related activities across multiple locations."
       },
       {
         "type": "p",
-        "text": "As of February 28, 2026, the company has 28 ongoing projects, including 20 O&M and 8 execution projects. Over the last five years, it has completed 20 projects across its business segments, indicating consistent execution capabilities. The company also has an unexecuted order book of ₹1,09,535.03 lakhs."
+        "text": "The Company serves industrial clients across the metals, ports, cement and engineering/OEM sectors, with an established client base that includes Vedanta Group, Adani Group, Aditya Birla Group, L&T Group, Tata Group, JK Lakshmi Cement Group and Shree Cement Group. It operates across seven Indian states and has an overseas subsidiary, Monomark Engineering FZE, in the United Arab Emirates, through which it provides O&M services to Fujairah Gold FZC."
       },
       {
         "type": "p",
-        "text": "The company operates a manufacturing facility in Chittorgarh, Rajasthan, and has offices and project sites across multiple states including Rajasthan, Maharashtra, Madhya Pradesh, Gujarat, Goa, and Dadra and Nagar Haveli and Daman and Diu. It has a total workforce of 6,381 employees, comprising 836 permanent and 5,545 project-based employees."
+        "text": "As of September 30, 2026, the Company had 28 ongoing projects, comprising 21 O&M projects and 7 Industrial Project Execution projects. It reported a running unexecuted order book of ₹1,76,192.16 lakh as of the same date."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, the Company had a total workforce of 7,608 employees, comprising 958 fixed employees and 6,650 project-specific employees."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Strong Order Book Providing Revenue Visibility."
+      },
+      {
+        "type": "li",
+        "text": "Owned Fleet of 232 Industrial Vehicles and Equipment."
+      },
+      {
+        "type": "li",
+        "text": "Established Track Record with Leading Industrial Clients."
+      },
+      {
+        "type": "li",
+        "text": "Established Domestic Presence and Expanding International Operations."
+      },
+      {
+        "type": "li",
+        "text": "Quality, Environmental and Occupational Health and Safety Certifications."
+      },
+      {
+        "type": "li",
+        "text": "In-House Metal Fabrication Facility with 4,000 MT Annual Installed Capacity."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Presence Across Metals, Cement, Ports and Engineering/OEM Sectors."
+      },
+      {
+        "type": "li",
+        "text": "Integrated Engineering Service Capabilities Across O&M, Metal Fabrication and Project Execution."
       }
     ],
     "business": [
@@ -117,30 +172,34 @@
   },
   "kpis": [
     {
-      "asOf": "2025-03-31",
-      "roe": 27.31,
-      "roce": 21.95,
-      "ronw": 24.86,
-      "patMargin": 3.83,
-      "ebitdaMargin": 8.27,
-      "nav": 11.61
+      "asOf": "2026-03-31",
+      "roe": 27.27,
+      "roce": 21.47,
+      "ronw": 22.19,
+      "patMargin": 4.61,
+      "ebitdaMargin": 8.67,
+      "nav": 16.91
     },
     {
-      "asOf": "2025-09-30",
-      "roe": 13.67,
-      "roce": 10.72,
-      "ronw": 11.49,
-      "patMargin": 4.79,
-      "ebitdaMargin": 9.19,
-      "nav": 15.58
+      "asOf": "2026-06-30",
+      "roe": 2.56,
+      "roce": 2.94,
+      "ronw": 2.53,
+      "patMargin": 2.12,
+      "ebitdaMargin": 5.41,
+      "nav": 17.28
     }
   ],
   "financials": {
     "unit": "₹ Cr",
     "periods": [
       {
-        "label": "30 Sep 2025",
-        "date": "2025-09-30"
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
       },
       {
         "label": "31 Mar 2025",
@@ -155,7 +214,8 @@
       {
         "label": "Assets",
         "values": [
-          343.46,
+          349.3,
+          342.19,
           293.52,
           240.81
         ]
@@ -163,7 +223,8 @@
       {
         "label": "Total Income",
         "values": [
-          259.16,
+          142.82,
+          564.74,
           477.29,
           392.14
         ]
@@ -171,7 +232,8 @@
       {
         "label": "Profit After Tax",
         "values": [
-          12.36,
+          3.02,
+          25.9,
           18.21,
           14.83
         ]
@@ -179,7 +241,8 @@
       {
         "label": "EBITDA",
         "values": [
-          23.7,
+          7.7,
+          48.74,
           39.26,
           31.89
         ]
@@ -187,9 +250,19 @@
       {
         "label": "NET Worth",
         "values": [
-          37.4,
-          16.64,
-          9.68
+          119.32,
+          116.74,
+          73.26,
+          60.11
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          92.12,
+          87.34,
+          84.77,
+          80.16
         ]
       }
     ]
@@ -197,14 +270,14 @@
   "objects": [
     {
       "text": "Funding the incremental working capital requirements of the Company",
-      "amountCr": 111
+      "amountCr": 120
     },
     {
       "text": "General corporate purposes"
     },
     {
       "text": "Total",
-      "amountCr": 111
+      "amountCr": 120
     }
   ],
   "peers": {
@@ -219,48 +292,48 @@
     ],
     "rows": [
       [
-        "Monomark Engineering (India)",
-        "2.89",
-        "2.89",
-        "11.61",
+        "Monomark Engineering (India) Ltd.",
+        "3.84",
+        "3.84",
+        "16.91",
         "",
-        "24.86",
+        "22.19",
         "Consolidated"
       ],
       [
-        "ANI Integrated Services",
-        "8.79",
-        "7.94",
-        "68.16",
-        "7.54",
-        "12.76",
+        "Ani Integrated Services Ltd.",
+        "5.17",
+        "5.17",
+        "71.41",
+        "5.99",
+        "6.46",
         "Consolidated"
       ],
       [
-        "Thejo Engineering",
-        "46.07",
-        "46.04",
-        "295.33",
-        "33.89",
-        "16.33",
+        "Thejo Engineering Ltd.",
+        "45.41",
+        "45.41",
+        "349.34",
+        "44.24",
+        "12.89",
         "Consolidated"
       ],
       [
-        "Power Mech Projects",
-        "103.26",
-        "103.26",
-        "683.17",
-        "18.20",
-        "16.09",
+        "Power Mech Projects Ltd.",
+        "115.12",
+        "115.12",
+        "796.55",
+        "18.79",
+        "16.35",
         "Consolidated"
       ],
       [
-        "Thermax",
-        "56.33",
-        "56.31",
-        "438.79",
-        "56.68",
-        "12.68",
+        "Thermax Ltd.",
+        "63.95",
+        "63.95",
+        "495.27",
+        "48.66",
+        "12.91",
         "Consolidated"
       ]
     ]
@@ -271,7 +344,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-    "updated": "Nov 22nd 2026 05:55 AM",
-    "gmpUpdatedAt": "2026-11-22T05:55:00+05:30"
+    "updated": "Nov 22nd 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-22T22:37:00+05:30"
   }
 }

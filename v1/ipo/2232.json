@@ -17,19 +17,29 @@
     "eps": 2.64,
     "epsPostIssue": 2.57
   },
+  "dates": {
+    "anchorBid": "2026-12-01",
+    "open": "2026-12-02",
+    "close": "2026-12-04",
+    "boa": "2026-12-07",
+    "refund": "2026-12-08",
+    "dematCredit": "2026-12-08",
+    "anchorLockIn50": "2027-01-06",
+    "anchorLockInRest": "2027-03-07"
+  },
   "gmp": {
     "low": 0,
     "high": 0,
-    "updatedAt": "2026-11-21T05:55:00+05:30",
+    "updatedAt": "2026-11-22T05:55:00+05:30",
     "trend": {
       "direction": "Initial"
     },
     "history": [
       {
-        "date": "2026-11-21",
+        "date": "2026-11-22",
         "gmp": 0,
         "gmpPct": 0,
-        "updatedAt": "2026-11-21T05:55:00+05:30"
+        "updatedAt": "2026-11-22T05:55:00+05:30"
       }
     ]
   },
@@ -46,7 +56,7 @@
       },
       {
         "type": "p",
-        "text": "Monomark Engineering (India) IPO dates are yet to be announced."
+        "text": "Monomark Engineering (India) IPO opens for subscription on Dec 2, 2026 and closes on Dec 4, 2026. The allotment for the Monomark Engineering (India) IPO is expected to be finalized on Dec 7, 2026. Monomark Engineering (India) IPO will list on NSE and BSE with a tentative listing date fixed as Dec 9, 2026."
       },
       {
         "type": "p",
@@ -58,7 +68,7 @@
       },
       {
         "type": "p",
-        "text": "Refer to Monomark Engineering (India) IPO DRHP for detailed Information."
+        "text": "Refer to Monomark Engineering (India) IPO RHP for detailed Information."
       }
     ],
     "about": [
@@ -97,9 +107,10 @@
         "text": "The company operates a manufacturing facility in Chittorgarh, Rajasthan, with offices and project sites across several states. It has a total workforce of 6,381 employees, including 836 permanent and 5,545 project-based employees."
       }
     ],
-    "promoters": "Narendra Chordia, Meena Chordia, Nitesh Chordia and Gaurav Chordia",
+    "promoters": "Narendra Chordia, Meena Chordia, Nitesh Chordia, Gaurav Chordia, Kirti",
     "promoterHoldingPre": 91.37,
-    "address": "165-167,, New RIICO Ind. Area, Chanderiya,, Distt. Chittorgarh,, Chittaurgarh, Rajasthan",
+    "promoterHoldingPost": 65.69,
+    "address": "165-167, New RIICO Ind. Area, Chanderiya, Distt. Chittorgarh, Chittaurgarh, Rajasthan",
     "phone": "7023050122",
     "email": "s.taneja@monomark.co.in",
     "website": "https://www.monomark.co.in/"
@@ -255,11 +266,12 @@
     ]
   },
   "documents": {
-    "drhp": "https://www.sebi.gov.in/filings/public-issues/apr-2026/monomark-engineering-india-limited_100945.html"
+    "drhp": "https://www.sebi.gov.in/filings/public-issues/apr-2026/monomark-engineering-india-limited_100945.html",
+    "rhp": "https://www.holaniconsultants.co.in/download/ipo/RHP%20Monomark.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-    "updated": "Nov 21st 2026 05:55 AM",
-    "gmpUpdatedAt": "2026-11-21T05:55:00+05:30"
+    "updated": "Nov 22nd 2026 05:55 AM",
+    "gmpUpdatedAt": "2026-11-22T05:55:00+05:30"
   }
 }

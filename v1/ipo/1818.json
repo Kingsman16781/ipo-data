@@ -7,7 +7,7 @@
   "category": "SME",
   "exchange": "NSE SME",
   "status": "open",
-  "rating": 4,
+  "rating": 3,
   "sector": "Diversified Commercial Services",
   "issue": {
     "type": "Book Build Issue",
@@ -67,22 +67,22 @@
     "anchorLockInRest": "2027-02-23"
   },
   "gmp": {
-    "current": 55,
-    "pct": 22.45,
+    "current": 40,
+    "pct": 16.33,
     "low": 16,
     "high": 67,
-    "estListing": 300,
-    "estProfitPerLot": 33000,
-    "updatedAt": "2026-11-22T22:37:00+05:30",
+    "estListing": 285,
+    "estProfitPerLot": 24000,
+    "updatedAt": "2026-11-23T14:37:00+05:30",
     "trend": {
       "direction": "Volatile",
       "first": 16,
-      "last": 55,
-      "change": 39,
+      "last": 40,
+      "change": 24,
       "range": 51,
-      "upPct": 44.44,
-      "downPct": 22.22,
-      "sessions": 10
+      "upPct": 40,
+      "downPct": 30,
+      "sessions": 11
     },
     "history": [
       {
@@ -175,46 +175,58 @@
         "estListing": 300,
         "estProfitPerLot": 33000,
         "sauda": "25100",
-        "updatedAt": "2026-11-22T23:02:00+05:30"
+        "updatedAt": "2026-11-22T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-23",
+        "gmp": 40,
+        "gmpPct": 16.33,
+        "estListing": 285,
+        "estProfitPerLot": 24000,
+        "sauda": "18200",
+        "sub": 150.48,
+        "updatedAt": "2026-11-23T18:37:00+05:30"
       }
     ]
   },
   "subscription": {
-    "total": 11.98,
-    "asOf": "2026-11-20T17:56:00+05:30",
+    "total": 150.48,
+    "asOf": "2026-11-23T17:56:00+05:30",
     "categories": [
       {
         "key": "qib",
-        "times": 0,
-        "offered": 936000
+        "times": 161.11,
+        "offered": 936000,
+        "bid": 150796800,
+        "amountCr": 3694.52
       },
       {
         "key": "nii",
-        "times": 20,
+        "times": 233.67,
         "offered": 698400,
-        "bid": 13969800,
-        "amountCr": 342.26
+        "bid": 163196400,
+        "amountCr": 3998.31
       },
       {
         "key": "bNii",
-        "times": 23.39,
+        "times": 286.17,
         "offered": 465600,
-        "bid": 10890600,
-        "amountCr": 266.82
+        "bid": 133239000,
+        "amountCr": 3264.36
       },
       {
         "key": "sNii",
-        "times": 13.23,
+        "times": 128.68,
         "offered": 232800,
-        "bid": 3079200,
-        "amountCr": 75.44
+        "bid": 29957400,
+        "amountCr": 733.96
       },
       {
         "key": "retail",
-        "times": 15.42,
+        "times": 108.71,
         "offered": 1629600,
-        "bid": 25120800,
-        "amountCr": 615.46
+        "bid": 177157200,
+        "amountCr": 4340.35
       }
     ],
     "byDay": [
@@ -231,6 +243,13 @@
         "qib": 0,
         "nii": 20,
         "retail": 15.42
+      },
+      {
+        "date": "2026-11-23",
+        "sub": 150.48,
+        "qib": 161.11,
+        "nii": 233.67,
+        "retail": 108.71
       }
     ],
     "applications": {
@@ -238,28 +257,28 @@
         {
           "key": "bNii",
           "label": "BNIIs",
-          "applied": 2518,
+          "applied": 30810,
           "reserved": 259,
-          "times": 9.72
+          "times": 118.96
         },
         {
           "key": "sNii",
           "label": "SNIIs",
-          "applied": 1614,
+          "applied": 15843,
           "reserved": 129,
-          "times": 12.51
+          "times": 122.81
         },
         {
           "key": "retail",
           "label": "Individual",
-          "applied": 20937,
+          "applied": 147631,
           "reserved": 1358,
-          "times": 15.42
+          "times": 108.71
         }
       ],
       "source": "ipoji.com",
-      "total": 25069,
-      "asOf": "2026-11-20T17:55:00+05:30"
+      "total": 194416,
+      "asOf": "2026-11-23T17:57:00+05:30"
     }
   },
   "listing": {
@@ -582,7 +601,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-    "updated": "Nov 22nd 2026 11:02 PM",
-    "gmpUpdatedAt": "2026-11-22T22:37:00+05:30"
+    "updated": "Nov 23rd 2026 06:37 PM",
+    "gmpUpdatedAt": "2026-11-23T14:37:00+05:30"
   }
 }

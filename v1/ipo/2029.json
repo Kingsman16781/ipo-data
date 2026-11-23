@@ -30,16 +30,16 @@
   "gmp": {
     "low": 0,
     "high": 0,
-    "updatedAt": "2026-11-22T05:55:00+05:30",
+    "updatedAt": "2026-11-23T05:55:00+05:30",
     "trend": {
       "direction": "Initial"
     },
     "history": [
       {
-        "date": "2026-11-22",
+        "date": "2026-11-23",
         "gmp": 0,
         "gmpPct": 0,
-        "updatedAt": "2026-11-22T05:55:00+05:30"
+        "updatedAt": "2026-11-23T05:55:00+05:30"
       }
     ]
   },
@@ -108,35 +108,35 @@
     "business": [
       {
         "type": "p",
-        "text": "Incorporated in 2008, Integris Medtech Ltd is a diversified India-based global medical products and laboratory solutions company. The company develops, manufactures, commercialises, and sells a broad portfolio of medical devices and solutions spanning cardiovascular devices, clinical diagnostics, and scientific laboratory solutions."
+        "text": "Integris Medtech Limited is an India-based diversified medical technology company with an international presence, specialising in medical devices, healthcare products, and laboratory solutions. Its operations cover the development, manufacturing, marketing, distribution, and sale of a wide range of products across three key segments: cardiovascular devices, clinical diagnostics, and scientific laboratory solutions."
       },
       {
         "type": "p",
-        "text": "Integris Medtech operates manufacturing facilities in India, Germany, and the Netherlands, supplying products to more than 65 international markets across India, Europe, and Southeast Asia. Its customer base includes over 9,500 laboratories and 2,000 hospitals and cathlabs, supported by a portfolio exceeding 22,000 SKUs across more than 200 brands in laboratory and cardiovascular segments."
+        "text": "The company has manufacturing facilities in India, Germany, and the Netherlands, with a distribution network extending to more than 65 countries across India, Europe, and Southeast Asia. It caters to a large customer base comprising over 9,500 laboratories and approximately 2,000 hospitals and catheterisation laboratories (cath labs). Its product portfolio includes more than 22,000 stock-keeping units (SKUs) across over 200 brands in the laboratory and cardiovascular segments."
       },
       {
         "type": "p",
-        "text": "The company’s business is structured into two core divisions:"
+        "text": "Integris Medtech conducts its business through the following two principal divisions:"
       },
       {
         "type": "li",
-        "text": "Cardiovascular Devices – encompassing drug-eluting stents, drug-coated balloons, complex coronary intervention products, and vascular access solutions."
+        "text": "Cardiovascular Devices: This division offers a range of interventional cardiology and vascular products, including drug-eluting stents, drug-coated balloons, advanced coronary intervention devices, and vascular access solutions."
       },
       {
         "type": "li",
-        "text": "Laboratory Solutions – covering clinical, research, and industrial laboratory equipment, reagents, and consumables, along with services such as instrument installation, maintenance, and calibration through its BioCal™ brand."
+        "text": "Laboratory Solutions: This segment provides equipment, reagents, and consumables for clinical, research, and industrial laboratories. It also offers technical support services, including equipment installation, servicing, maintenance, and calibration under its BioCal™ brand."
       },
       {
         "type": "p",
-        "text": "Integris Medtech supports laboratories and hospitals across India, Singapore, Thailand, Malaysia, and the Philippines, serving both public and private sectors."
+        "text": "In Asia, the company serves healthcare institutions and laboratory customers across India, Singapore, Thailand, Malaysia, and the Philippines, catering to both government and private-sector organisations."
       },
       {
         "type": "p",
-        "text": "Its European operations focus primarily on cardiovascular products, including proprietary brands like Chrome and Protégé, while its Rest of World presence spans the Middle East, Africa, and Latin America."
+        "text": "Its European business is primarily focused on cardiovascular medical devices, marketed through proprietary brands such as Chrome and Protégé. Beyond Europe and Asia, the company has an established presence in several other international markets, including the Middle East, Africa, and Latin America."
       },
       {
         "type": "p",
-        "text": "As of June 30, 2025, Integris Medtech employed 1,879 personnel, including sales, service, and application specialists, and had supported more than 15,000 patients across 100+ clinical trial sites globally, reinforcing its commitment to clinical evidence and innovation in MedTech solutions."
+        "text": "As of June 30, 2025, Integris Medtech had a workforce of 1,879 employees, comprising sales professionals, service engineers, and application specialists. The company has also contributed to clinical research, supporting more than 15,000 patients through over 100 clinical trial sites worldwide, highlighting its focus on medical innovation, clinical validation, and the advancement of healthcare technology."
       }
     ],
     "promoters": "Evercure Holdings Pte.Ltd., Medicore Holdings Pte.Ltd., Gurmit Singh Chugh and Punita Sharma",
@@ -313,7 +313,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
-    "updated": "Nov 22nd 2026 05:55 AM",
-    "gmpUpdatedAt": "2026-11-22T05:55:00+05:30"
+    "updated": "Nov 23rd 2026 05:55 AM",
+    "gmpUpdatedAt": "2026-11-23T05:55:00+05:30"
   }
 }

@@ -1,0 +1,411 @@
+{
+  "schema": 1,
+  "parser": 4,
+  "id": 2290,
+  "name": "Matangi Rubber",
+  "companyName": "Matangi Rubber Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "upcoming",
+  "rating": 3,
+  "sector": "Tyres & Rubber Products",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 163,
+    "priceHigh": 172,
+    "faceValue": 10,
+    "lot": 87,
+    "sizeCr": 125.16,
+    "freshCr": 99.1,
+    "ofsCr": 26.06,
+    "totalShares": 7276981,
+    "marketCapCr": 492.22,
+    "peIssue": 17.6,
+    "pePostIssue": 19.18,
+    "eps": 9.77,
+    "epsPostIssue": 8.97
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 87,
+      "lots": 1,
+      "amount": 14964
+    },
+    "retailMax": {
+      "shares": 1131,
+      "lots": 13,
+      "amount": 194532
+    },
+    "sHniMin": {
+      "shares": 1218,
+      "lots": 14,
+      "amount": 209496
+    },
+    "sHniMax": {
+      "shares": 5742,
+      "lots": 66,
+      "amount": 987624
+    },
+    "bHniMin": {
+      "shares": 5829,
+      "lots": 67,
+      "amount": 1002588
+    }
+  },
+  "dates": {
+    "anchorBid": "2026-11-30",
+    "open": "2026-12-01",
+    "close": "2026-12-03",
+    "boa": "2026-12-04",
+    "refund": "2026-12-07",
+    "dematCredit": "2026-12-07",
+    "listing": "2026-12-08",
+    "anchorLockIn50": "2027-01-03",
+    "anchorLockInRest": "2027-03-04"
+  },
+  "gmp": {
+    "current": 21,
+    "pct": 12.21,
+    "low": 21,
+    "high": 21,
+    "estListing": 193,
+    "estProfitPerLot": 1870.5,
+    "updatedAt": "2026-11-23T14:37:00+05:30",
+    "trend": {
+      "direction": "Initial",
+      "first": 21,
+      "last": 21,
+      "change": 0,
+      "range": 0,
+      "upPct": 0,
+      "downPct": 0,
+      "sessions": 1
+    },
+    "history": [
+      {
+        "date": "2026-11-23",
+        "gmp": 21.5,
+        "gmpPct": 12.5,
+        "estListing": 193.5,
+        "estProfitPerLot": 1870.5,
+        "sauda": "1400",
+        "updatedAt": "2026-11-23T18:37:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "code": "BIGSHARE",
+    "email": "ipo@bigshareonline.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Matangi Rubber IPO is a book build issue of ₹125.16 crores. The issue is a combination of fresh issue of 57.62 lakh shares aggregating to ₹99.10 crores and offer for sale of 15.15 lakh shares aggregating to ₹26.06 crores."
+      },
+      {
+        "type": "p",
+        "text": "Matangi Rubber IPO opens for subscription on Dec 1, 2026 and closes on Dec 3, 2026. The allotment for the Matangi Rubber IPO is expected to be finalized on Dec 4, 2026. Matangi Rubber IPO will list on NSE and BSE with a tentative listing date fixed as Dec 8, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Matangi Rubber IPO is set issue price band at ₹163 to ₹172 per share. The lot size for an application is 87 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,964 (87 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "Sarthi Capital Advisors Pvt.ltd. is the book running lead manager and Bigshare Services Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Matangi Rubber IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated on June 23, 2004 , Matangi Rubber Limited is engaged in the manufacturing of tyres, tyre flaps, tyre tubes and rubber compounds. It primarily caters to the two-wheeler and three-wheeler tyre segments, while its tyre flaps and tubes are used in commercial vehicles such as trucks, buses and heavy utility vehicles. The Company operates through three business models: manufacturing and selling, contract manufacturing and job work services. Under its manufacturing and selling model, it manufactures and sells tyre tubes under its own brand. Its contract manufacturing activities primarily involve producing customised tyre flaps bearing clients’ logos, while its job work services involve processing raw materials supplied by customers into tyres, tyre flaps and tubes in return for conversion charges. The Company also manufactures rubber compounds used in the production of other rubber products."
+      },
+      {
+        "type": "p",
+        "text": "The Company operates five manufacturing plants across three locations, comprising two facilities at Selaqui, Dehradun, Uttarakhand, two facilities at Bhind, Gwalior, Madhya Pradesh, and one facility at Gummidipoondi, Chennai, Tamil Nadu. These facilities support the manufacturing of tyre flaps, tyre tubes, two-wheeler and three-wheeler tyres and rubber compounds. Its operations are supported by in-house production infrastructure, testing equipment and warehousing facilities for storing raw materials, finished goods and scrap."
+      },
+      {
+        "type": "p",
+        "text": "The Company has an established manufacturing relationship with JK Tyre and also serves other customers through contract manufacturing and job work arrangements."
+      },
+      {
+        "type": "p",
+        "text": "As of June 30, 2026, the Company had a total workforce of 285 employees across its offices and manufacturing locations."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Five Manufacturing Plants Across Three Locations."
+      },
+      {
+        "type": "li",
+        "text": "Established Manufacturing Relationship with JK Tyre."
+      },
+      {
+        "type": "li",
+        "text": "Skilled Workforce Across Manufacturing and Support Functions."
+      },
+      {
+        "type": "li",
+        "text": "Established Manufacturing Experience in the Rubber and Tyre Industry."
+      },
+      {
+        "type": "li",
+        "text": "Integrated Manufacturing Infrastructure and In-House Production Capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Product Portfolio Across Tyres, Tyre Flaps, Tubes and Rubber Compounds."
+      },
+      {
+        "type": "li",
+        "text": "Diversified Business Model Covering Own-Brand Sales, Contract Manufacturing and Job Work."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Matangi Rubber Limited is engaged in manufacturing tyres, tyre tubes, tyre flaps and rubber compounds. The Company mainly serves the two-wheeler and three-wheeler tyre segments, while its tubes and flaps are also used in trucks, buses and other commercial vehicles."
+      },
+      {
+        "type": "p",
+        "text": "The Company operates through three business models: manufacturing and selling products under its own brand, contract manufacturing for customers, and job work using customer-supplied raw materials. It also manufactures rubber compounds used in various rubber products."
+      },
+      {
+        "type": "p",
+        "text": "The Company operates five manufacturing plants across three locations: Selaqui (Dehradun, Uttarakhand), Bhind (Madhya Pradesh) and Gummidipoondi (Chennai, Tamil Nadu). Its manufacturing facilities are supported by in-house production, testing and warehousing infrastructure."
+      },
+      {
+        "type": "p",
+        "text": "The Company has an established manufacturing relationship with JK Tyre and also serves other customers through contract manufacturing and job work."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Five manufacturing plants across three locations."
+      },
+      {
+        "type": "li",
+        "text": "Established manufacturing relationship with JK Tyre."
+      },
+      {
+        "type": "li",
+        "text": "Experienced workforce and management team."
+      },
+      {
+        "type": "li",
+        "text": "Established experience in the tyre and rubber industry."
+      },
+      {
+        "type": "li",
+        "text": "In-house manufacturing and testing facilities."
+      },
+      {
+        "type": "li",
+        "text": "Diverse product portfolio covering tyres, tubes, flaps and rubber compounds."
+      },
+      {
+        "type": "li",
+        "text": "Multiple business models, including own-brand sales, contract manufacturing and job work."
+      }
+    ],
+    "promoters": "Mohit Gupta, Manju Gupta, Radhika Gupta, Vandana Rubber & Chemicals Pvt.Ltd.",
+    "promoterHoldingPre": 81.11,
+    "promoterHoldingPost": 60.01,
+    "address": "Unit No. 401, 4th Floor, Southern Park, Saket District Center, Saket (South Delhi), South Delhi, New Delhi",
+    "phone": "011 42709020",
+    "email": "cs@matangirubber.com",
+    "website": "https://www.matangirubber.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 20.98,
+      "roce": 15.41,
+      "debtEquity": 0.85,
+      "ronw": 20.98,
+      "patMargin": 16.89,
+      "ebitdaMargin": 27.02,
+      "priceToBook": 2.84,
+      "nav": 60.65
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 4.9,
+      "roce": 4.34,
+      "debtEquity": 0.8,
+      "ronw": 4.9,
+      "patMargin": 13.39,
+      "ebitdaMargin": 22.43,
+      "priceToBook": 2.93,
+      "nav": 58.68
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          289.23,
+          276.89,
+          206.11,
+          120.12
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          47.93,
+          132.22,
+          106.3,
+          91.26
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          6.42,
+          22.33,
+          20.03,
+          4.81
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          10.71,
+          35.06,
+          30.89,
+          10.38
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          134.12,
+          127.75,
+          85.16,
+          40.2
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          111.27,
+          116.32,
+          81.73,
+          37.48
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          106.98,
+          108.91,
+          93.68,
+          61.86
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Repayment/ pre-payment in full or in part, of certain outstanding loans availed by the Company",
+      "amountCr": 45
+    },
+    {
+      "text": "Funding Capital Expenditure requirements for setting up green field manufacturing facility for Rubber Recycling Products (Bhind, Madhya Pradesh)",
+      "amountCr": 19.06
+    },
+    {
+      "text": "Funding Capital Expenditure requirements for setting up green field manufacturing facility for production of Solid Tyres (Bhind, Madhya Pradesh)",
+      "amountCr": 8.44
+    },
+    {
+      "text": "General Corporate Purposes"
+    },
+    {
+      "text": "Total",
+      "amountCr": 72.49
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "P/E (x)",
+      "RoNW (%)",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Matangi Rubber Ltd.",
+        "10.36",
+        "",
+        "20.98",
+        "Consolidated"
+      ],
+      [
+        "Ceat Ltd.",
+        "172.78",
+        "20.50",
+        "14.81",
+        ""
+      ],
+      [
+        "Tvs Srichakra Ltd.",
+        "93.03",
+        "49.54",
+        "10.34",
+        ""
+      ],
+      [
+        "Tolins Tyres Ltd.",
+        "9.03",
+        "9.51",
+        "10.41",
+        ""
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/corporate/Registration_25052026235319_Matangi_Draft_Red_Herring_Prospectus.pdf",
+    "rhp": "https://matangirubber.com/wp-content/uploads/2026/11/Matangi_Red-Herring-Prospectus.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/",
+    "updated": "Nov 23rd 2026 06:37 PM",
+    "gmpUpdatedAt": "2026-11-23T14:37:00+05:30"
+  }
+}

@@ -61,21 +61,32 @@
     "listing": "2026-12-02"
   },
   "gmp": {
-    "low": 0,
-    "high": 0,
-    "estProfitPerLot": 0,
-    "updatedAt": "2026-11-22T22:30:00+05:30",
+    "current": 5,
+    "pct": 3.52,
+    "low": 5,
+    "high": 5,
+    "estListing": 147,
+    "estProfitPerLot": 5000,
+    "updatedAt": "2026-11-23T14:37:00+05:30",
     "trend": {
-      "direction": "Initial"
+      "direction": "Initial",
+      "first": 5,
+      "last": 5,
+      "change": 0,
+      "range": 0,
+      "upPct": 0,
+      "downPct": 0,
+      "sessions": 1
     },
     "history": [
       {
-        "date": "2026-11-22",
-        "gmp": 0,
-        "gmpPct": 0,
-        "estListing": 142,
-        "estProfitPerLot": 0,
-        "updatedAt": "2026-11-22T23:37:00+05:30"
+        "date": "2026-11-23",
+        "gmp": 5,
+        "gmpPct": 3.52,
+        "estListing": 147,
+        "estProfitPerLot": 5000,
+        "sauda": "3800",
+        "updatedAt": "2026-11-23T18:37:00+05:30"
       }
     ]
   },
@@ -392,7 +403,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-    "updated": "Nov 22nd 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-22T22:30:00+05:30"
+    "updated": "Nov 23rd 2026 06:37 PM",
+    "gmpUpdatedAt": "2026-11-23T14:37:00+05:30"
   }
 }

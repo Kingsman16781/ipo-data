@@ -73,13 +73,13 @@
     "anchorLockInRest": "2027-02-23"
   },
   "gmp": {
-    "current": 0.7,
-    "pct": 0.51,
-    "low": 0.7,
+    "current": 0.4,
+    "pct": 0.29,
+    "low": 0.4,
     "high": 9.25,
-    "estListing": 136.7,
-    "estProfitPerLot": 77,
-    "updatedAt": "2026-11-22T22:37:00+05:30",
+    "estListing": 136.4,
+    "estProfitPerLot": 22,
+    "updatedAt": "2026-11-23T14:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 9,
@@ -87,8 +87,8 @@
       "change": -9,
       "range": 9,
       "upPct": 0,
-      "downPct": 50,
-      "sessions": 9
+      "downPct": 44.44,
+      "sessions": 10
     },
     "history": [
       {
@@ -170,62 +170,71 @@
         "estListing": 136.7,
         "estProfitPerLot": 77,
         "sauda": "100",
-        "updatedAt": "2026-11-22T23:02:00+05:30"
+        "updatedAt": "2026-11-22T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-23",
+        "gmp": 0.2,
+        "gmpPct": 0.15,
+        "estListing": 136.2,
+        "estProfitPerLot": 22,
+        "sub": 1.52,
+        "updatedAt": "2026-11-23T18:37:00+05:30"
       }
     ]
   },
   "subscription": {
-    "total": 0.49,
-    "asOf": "2026-11-20T17:08:00+05:30",
+    "total": 1.52,
+    "asOf": "2026-11-23T17:56:00+05:30",
     "categories": [
       {
         "key": "qib",
-        "times": 1.37,
+        "times": 4.95,
         "offered": 112512173,
-        "bid": 154362670,
-        "amountCr": 2099.33
+        "bid": 556811640,
+        "amountCr": 7572.64
       },
       {
         "key": "nii",
-        "times": 0.18,
+        "times": 0.66,
         "offered": 84384129,
-        "bid": 15210140,
-        "amountCr": 206.86
+        "bid": 55766810,
+        "amountCr": 758.43
       },
       {
         "key": "bNii",
-        "times": 0.13,
+        "times": 0.62,
         "offered": 56256086,
-        "bid": 7583510,
-        "amountCr": 103.14
+        "bid": 34773090,
+        "amountCr": 472.91
       },
       {
         "key": "sNii",
-        "times": 0.27,
+        "times": 0.75,
         "offered": 28128043,
-        "bid": 7626630,
-        "amountCr": 103.72
+        "bid": 20993720,
+        "amountCr": 285.51
       },
       {
         "key": "retail",
-        "times": 0.25,
+        "times": 0.48,
         "offered": 196896299,
-        "bid": 49382630,
-        "amountCr": 671.6
+        "bid": 93953310,
+        "amountCr": 1277.77
       },
       {
         "key": "employee",
-        "times": 0.09,
+        "times": 0.22,
         "offered": 33091815,
-        "bid": 2994420,
-        "amountCr": 40.72
+        "bid": 7271330,
+        "amountCr": 98.89
       },
       {
         "key": "shareholder",
-        "times": 0.28,
+        "times": 0.56,
         "offered": 66183630,
-        "bid": 18315110,
-        "amountCr": 249.09
+        "bid": 37388230,
+        "amountCr": 508.48
       }
     ],
     "byDay": [
@@ -242,6 +251,13 @@
         "qib": 1.37,
         "nii": 0.18,
         "retail": 0.25
+      },
+      {
+        "date": "2026-11-23",
+        "sub": 1.52,
+        "qib": 4.95,
+        "nii": 0.66,
+        "retail": 0.48
       }
     ],
     "applications": {
@@ -249,38 +265,38 @@
         {
           "key": "bNii",
           "label": "BNIIs",
-          "applied": 810,
+          "applied": 3464,
           "reserved": 36530,
-          "times": 0.02
+          "times": 0.09
         },
         {
           "key": "sNii",
           "label": "SNIIs",
-          "applied": 3974,
+          "applied": 11326,
           "reserved": 18265,
-          "times": 0.22
+          "times": 0.62
         },
         {
           "key": "retail",
           "label": "Retail",
-          "applied": 257515,
+          "applied": 485803,
           "reserved": 1789966,
-          "times": 0.14
+          "times": 0.27
         },
         {
           "key": "employee",
           "label": "Employee",
-          "applied": 6015
+          "applied": 11745
         },
         {
           "key": "shareholder",
           "label": "Shareholder",
-          "applied": 59671
+          "applied": 117028
         }
       ],
       "source": "ipoji.com",
-      "total": 331774,
-      "asOf": "2026-11-20T17:55:00+05:30"
+      "total": 629695,
+      "asOf": "2026-11-23T17:57:00+05:30"
     }
   },
   "listing": {
@@ -295,11 +311,11 @@
     "summary": [
       {
         "type": "p",
-        "text": "Mahanadi Coalfields IPO is a book build issue of ₹8,981.12 crores. The issue is entirely an offer for sale of 66.18 crore shares of ₹8,981.12 crore."
+        "text": "Mahanadi Coalfields IPO is a book-built issue of ₹8,981.12 crores. The issue is entirely an offer for sale of 66.18 crore shares of ₹8,981.12 crore."
       },
       {
         "type": "p",
-        "text": "Mahanadi Coalfields IPO bidding opened for subscription on Nov 19, 2026 and will close on Nov 23, 2026. The allotment for the Mahanadi Coalfields IPO is expected to be finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
+        "text": "Mahanadi Coalfields IPO opens for subscription on Nov 19, 2026 and closes on Nov 23, 2026. The allotment for the Mahanadi Coalfields IPO is expected to be finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
       },
       {
         "type": "p",
@@ -600,7 +616,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-    "updated": "Nov 22nd 2026 11:02 PM",
-    "gmpUpdatedAt": "2026-11-22T22:37:00+05:30"
+    "updated": "Nov 23rd 2026 06:37 PM",
+    "gmpUpdatedAt": "2026-11-23T14:37:00+05:30"
   }
 }

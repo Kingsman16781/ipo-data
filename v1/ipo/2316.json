@@ -1,0 +1,424 @@
+{
+  "schema": 1,
+  "parser": 4,
+  "id": 2316,
+  "name": "Airpro Technology",
+  "companyName": "Airpro Technology India Ltd.",
+  "category": "SME",
+  "exchange": "NSE SME",
+  "status": "upcoming",
+  "rating": 1,
+  "sector": "Industrial Products",
+  "issue": {
+    "type": "Fixed Price Issue",
+    "priceHigh": 99,
+    "finalPrice": 99,
+    "faceValue": 10,
+    "lot": 1200,
+    "sizeCr": 35.64,
+    "freshCr": 27.13,
+    "ofsCr": 6.73,
+    "totalShares": 3600000,
+    "marketCapCr": 123.77,
+    "peIssue": 15.59,
+    "pePostIssue": 19.45,
+    "eps": 6.35,
+    "epsPostIssue": 5.09
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 237600
+    },
+    "retailMax": {
+      "shares": 2400,
+      "lots": 2,
+      "amount": 237600
+    },
+    "sHniMin": {
+      "shares": 3600,
+      "lots": 3,
+      "amount": 356400
+    },
+    "bHniMin": {
+      "shares": 10800,
+      "lots": 9,
+      "amount": 1069200
+    }
+  },
+  "reservation": {
+    "nii": 1711200,
+    "retail": 1708800,
+    "marketMaker": 180000
+  },
+  "dates": {
+    "open": "2026-11-27",
+    "close": "2026-12-01",
+    "boa": "2026-12-02",
+    "refund": "2026-12-03",
+    "dematCredit": "2026-12-03",
+    "listing": "2026-12-04"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-24T18:00:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-24",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 99,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-24T18:56:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "email": "airprotechnology.smeipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Airpro Technology India IPO is a fixed issue price of ₹35.64 crores. The issue is a combination of fresh issue of 29.20 lakh shares aggregating to ₹28.91 crores and offer for sale of 6.80 lakh shares aggregating to ₹6.73 crores."
+      },
+      {
+        "type": "p",
+        "text": "Airpro Technology India IPO opens for subscription on Nov 27, 2026 and closes on Dec 1, 2026. The allotment for the Airpro Technology India IPO is expected to be finalized on Dec 2, 2026. Airpro Technology India IPO will list on the NSE SME with a tentative listing date fixed as Dec 4, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Airpro Technology India IPO is set final issue price at ₹99 per share. The lot size for an application is 1,200 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,37,600 (2,400 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (3,600 shares), amounting to ₹3,56,400."
+      },
+      {
+        "type": "p",
+        "text": "Horizon Management Pvt.ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Airpro Technology India IPO DRHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated on February 17, 2014, Airpro Technology India Limited is a technology-driven company engaged in the design, assembly, distribution and servicing of wired and wireless networking products and solutions. The Company operates as a brand owner, providing networking solutions for enterprises and institutions to establish and manage reliable, scalable and cost-effective connectivity infrastructure. The Company offers a range of networking products, including wireless access points, WLAN controllers, Ethernet switches, gateways, outdoor wireless solutions, 4G/5G Customer Premises Equipment (CPE) and industrial Power over Ethernet (PoE) switches. Its products cater to different deployment environments, including enterprise networks, campuses, industrial facilities and locations requiring wireless broadband connectivity."
+      },
+      {
+        "type": "p",
+        "text": "In addition to hardware products, the Company provides software-enabled networking solutions through its cloud-based platform, AirproCloud, which enables customers to configure, monitor and manage network infrastructure remotely. The platform supports centralised monitoring of networking devices, bandwidth utilisation, user access controls and network performance analytics and is currently available on Android-based devices. The Company also develops customised firmware for certain white-label products, supporting customer-specific requirements such as user authentication, bandwidth allocation and network access management."
+      },
+      {
+        "type": "p",
+        "text": "The Company follows a hybrid business model comprising product design, firmware customisation, cloud-based network management, in-house assembly and white-label networking solutions. It markets its products under its own brand through distributors and online channel partners, including e-commerce platforms, and primarily operates through a B2B model. Its customer base spans multiple industry verticals."
+      },
+      {
+        "type": "p",
+        "text": "As of September 30, 2026, the Company had 39 permanent employees across management, sales and marketing, software development, legal and secretarial, accounts and finance, IT and technical support, and support functions."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Make in India-Focused Assembly and Localisation Capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Established Distribution and Online Channel Partner Network."
+      },
+      {
+        "type": "li",
+        "text": "Cloud-Based Network Management Platform – AirproCloud."
+      },
+      {
+        "type": "li",
+        "text": "Integrated Portfolio of Wired and Wireless Networking Products."
+      },
+      {
+        "type": "li",
+        "text": "Solution-Oriented Offerings for Diverse Connectivity Requirements."
+      },
+      {
+        "type": "li",
+        "text": "Customised Firmware Development and Product-Level Configuration Capabilities."
+      },
+      {
+        "type": "li",
+        "text": "Hybrid Business Model Combining Product Design, Assembly and White-Label Solutions."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Airpro Technology India Limited is engaged in the development, manufacturing, and supply of networking and communication equipment for industrial, enterprise, and infrastructure applications. The company offers a comprehensive range of technology products that support reliable connectivity, efficient network management, and seamless data communication across diverse operating environments."
+      },
+      {
+        "type": "p",
+        "text": "Its product portfolio caters to the growing demand for advanced wireless and wired networking infrastructure. Airpro Technology India Limited focuses on delivering customized technology solutions through product innovation, firmware development, and application-specific configurations. By combining technical expertise with an integrated product and distribution ecosystem, the company aims to address the evolving connectivity requirements of businesses and industrial customers."
+      },
+      {
+        "type": "h",
+        "text": "Products:"
+      },
+      {
+        "type": "li",
+        "text": "Wireless Access Points: Designed to provide stable and high-speed wireless connectivity across indoor spaces, outdoor areas, and high-density network environments."
+      },
+      {
+        "type": "li",
+        "text": "WLAN Controllers: Support centralized administration, configuration, and performance monitoring of wireless access point networks."
+      },
+      {
+        "type": "li",
+        "text": "Ethernet Switches: Enable connectivity between multiple network devices while facilitating efficient data transfer across enterprise networks."
+      },
+      {
+        "type": "li",
+        "text": "Gateways: Support secure network communication and manage data traffic between internal systems and external networks."
+      },
+      {
+        "type": "li",
+        "text": "Outdoor Wireless Solutions: Deliver wireless network coverage for industrial facilities, institutional campuses, and geographically remote locations."
+      },
+      {
+        "type": "li",
+        "text": "4G/5G Customer Premises Equipment (CPE): Provide wireless broadband connectivity through cellular networks, particularly in areas with limited wired internet infrastructure."
+      },
+      {
+        "type": "li",
+        "text": "Industrial PoE Switches: Combine power and data transmission through a single Ethernet connection to support devices such as IP cameras, wireless access points, and industrial IoT equipment in demanding environments."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "Development of Application-Specific and Customized Networking Solutions"
+      },
+      {
+        "type": "li",
+        "text": "In-House Firmware Development and Product Customization Expertise"
+      },
+      {
+        "type": "li",
+        "text": "Diversified and Integrated Networking Product Portfolio"
+      },
+      {
+        "type": "li",
+        "text": "Established Channel Network and Demand Generation Ecosystem"
+      },
+      {
+        "type": "li",
+        "text": "Customer Engagement Driven by Specific Market and Application Requirements"
+      }
+    ],
+    "promoters": "Deepak Jain, Rajesh Hasmukh Vakharia, Pankaj Bhansali, Roopali Bhansali",
+    "promoterHoldingPre": 95,
+    "promoterHoldingPost": 69.81,
+    "address": "Unit No. 111, 1st floor, vijay City Point, D-52, Ashok Marg, Ahinsa Circle, Jaipur, Rajasthan",
+    "phone": "9833154409",
+    "email": "compliance@airpro.in",
+    "website": "https://airpronetworks.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 62.41,
+      "roce": 51.63,
+      "debtEquity": 0.38,
+      "ronw": 47.13,
+      "patMargin": 15.56,
+      "ebitdaMargin": 24.06,
+      "priceToBook": 7.35,
+      "nav": 13.47
+    },
+    {
+      "asOf": "2025-09-30",
+      "roe": 21.96,
+      "roce": 19.23,
+      "debtEquity": 0.51,
+      "patMargin": 16.48,
+      "ebitdaMargin": 25.15
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Sep 2026",
+        "date": "2026-09-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          32.65,
+          25.15,
+          21.26,
+          19.83
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          19.4,
+          39.28,
+          28.18,
+          22.09
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          3.18,
+          6.08,
+          2.29,
+          1.13
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          4.86,
+          9.41,
+          4.28,
+          2.67
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          16.09,
+          12.91,
+          6.59,
+          4.3
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          6.51,
+          3.33,
+          4.7,
+          2.4
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          8.15,
+          4.97,
+          8.96,
+          10.52
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Funding Capital Expenditure towards Purchase of Machinery for Manufacturing Facility",
+      "amountCr": 2
+    },
+    {
+      "text": "Funding towards balance payment for acquisition of land for Factory at Jaipur",
+      "amountCr": 0.6
+    },
+    {
+      "text": "Funding Capital Expenditure towards Construction of Building for Factory at Jaipur",
+      "amountCr": 4.97
+    },
+    {
+      "text": "Funding the Working Capital requirement of the company",
+      "amountCr": 13
+    },
+    {
+      "text": "General corporate purposes",
+      "amountCr": 4.34
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 4
+    },
+    {
+      "text": "Total",
+      "amountCr": 28.91
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "P/BV Ratio",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Airpro Technology India Ltd.",
+        "6.39",
+        "6.39",
+        "13.47",
+        "",
+        "21.96",
+        "",
+        "Standalone"
+      ],
+      [
+        "D-link (india) Ltd.",
+        "29.31",
+        "29.31",
+        "142.43",
+        "13.92",
+        "20.58",
+        "2.87",
+        "Consolidated"
+      ],
+      [
+        "Black Box Ltd.",
+        "12.78",
+        "12.67",
+        "72.50",
+        "70.23",
+        "16.90",
+        "12.35",
+        "Consolidated"
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_29062026214422_AirproDraftProspectus.pdf",
+    "prospectus": "https://investors.airpronetworks.com/ipo/prospectus/Airpro_Prospectus_Final_Version.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
+    "updated": "Nov 24th 2026 06:56 PM",
+    "gmpUpdatedAt": "2026-11-24T18:00:00+05:30"
+  }
+}

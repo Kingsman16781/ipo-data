@@ -67,7 +67,7 @@
     "high": 10,
     "estListing": 152,
     "estProfitPerLot": 10000,
-    "updatedAt": "2026-11-23T23:37:00+05:30",
+    "updatedAt": "2026-11-24T18:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 10,
@@ -95,7 +95,7 @@
         "estListing": 152,
         "estProfitPerLot": 10000,
         "sauda": "7600",
-        "updatedAt": "2026-11-24T07:37:00+05:30"
+        "updatedAt": "2026-11-24T19:02:00+05:30"
       }
     ]
   },
@@ -108,7 +108,7 @@
     "summary": [
       {
         "type": "p",
-        "text": "Shree Siddhivinayak Greentech Industries IPO is a book build issue of ₹93.66 crores. The issue is entirely a fresh issue of 65.96 lakh shares of ₹93.66 crore."
+        "text": "Shree Siddhivinayak Greentech Industries IPO is a book-built issue of ₹93.66 crores. The issue is entirely a fresh issue of 65.96 lakh shares of ₹93.66 crore."
       },
       {
         "type": "p",
@@ -234,7 +234,7 @@
     "promoters": "Dipali Dattatraya Kulkarni, Dattatray Kashinath Kulkarni",
     "promoterHoldingPre": 100,
     "promoterHoldingPost": 65,
-    "address": "Block Number 1 & 4, Floor No-1 and 2 Survey No 120, Plot No 4 & C.T.S. Number- 5343, Sambhaji Nagar Behind DIC, Osmanabad, Maharashtra",
+    "address": "Block Number 1 & 4, Floor No-1 and 2 Survey No 120, Plot No 4 & C.T.S. Number- 5343, Sambhaji Nagar Behind DIC, Dharashiv, Maharashtra",
     "phone": "8669522424",
     "email": "info@shreesiddhivinayakgreentech.com",
     "website": "https://shreesiddhivinayakgreentech.com/"
@@ -412,7 +412,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-    "updated": "Nov 24th 2026 07:37 AM",
-    "gmpUpdatedAt": "2026-11-23T23:37:00+05:30"
+    "updated": "Nov 24th 2026 07:02 PM",
+    "gmpUpdatedAt": "2026-11-24T18:02:00+05:30"
   }
 }

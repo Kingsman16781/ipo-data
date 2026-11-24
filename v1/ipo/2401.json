@@ -52,12 +52,12 @@
     }
   },
   "reservation": {
-    "qib": 112512173,
+    "qib": 112512171,
     "anchor": 168768255,
     "nii": 84384129,
     "sNii": 28128043,
     "bNii": 56256086,
-    "retail": 196896299,
+    "retail": 196896300,
     "employee": 33091815,
     "shareholder": 66183630
   },
@@ -76,7 +76,7 @@
     "low": 0,
     "high": 9.25,
     "estProfitPerLot": 0,
-    "updatedAt": "2026-11-23T23:37:00+05:30",
+    "updatedAt": "2026-11-24T18:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 9,
@@ -184,7 +184,7 @@
         "gmpPct": 0,
         "estListing": 136,
         "estProfitPerLot": 0,
-        "updatedAt": "2026-11-24T07:37:00+05:30"
+        "updatedAt": "2026-11-24T19:02:00+05:30"
       }
     ]
   },
@@ -320,7 +320,7 @@
       },
       {
         "type": "p",
-        "text": "Mahanadi Coalfields IPO opens for subscription on Nov 19, 2026 and closes on Nov 23, 2026. The allotment for the Mahanadi Coalfields IPO is expected to be finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
+        "text": "Mahanadi Coalfields IPO bidding started from Nov 19, 2026 and ended on Nov 23, 2026. The allotment for the Mahanadi Coalfields IPO is expected to be finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
       },
       {
         "type": "p",
@@ -617,11 +617,12 @@
   "documents": {
     "drhp": "https://nsearchives.nseindia.com/corporate/Registration_01092026212900_MCLDRHP.pdf",
     "rhp": "https://www.sebi.gov.in/filings/public-issues/nov-2026/mahanadi-coalfields-limited-rhp_105777.html",
+    "prospectus": "https://www.axiscapital.co.in/contents/Mahanadi%20Coalfields%20Limited%20-%20Prospectus-1795453411.pdf",
     "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/mahanandi-ipo-anchor-book.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-    "updated": "Nov 24th 2026 07:37 AM",
-    "gmpUpdatedAt": "2026-11-23T23:37:00+05:30"
+    "updated": "Nov 24th 2026 07:02 PM",
+    "gmpUpdatedAt": "2026-11-24T18:02:00+05:30"
   }
 }

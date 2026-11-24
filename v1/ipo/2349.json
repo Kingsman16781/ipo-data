@@ -6,8 +6,8 @@
   "companyName": "Shree Siddhivinayak Greentech Industries Ltd.",
   "category": "SME",
   "exchange": "NSE SME",
-  "status": "upcoming",
-  "rating": 2,
+  "status": "open",
+  "rating": 3,
   "sector": "Sugar",
   "issue": {
     "type": "Book Build Issue",
@@ -61,20 +61,20 @@
     "listing": "2026-12-02"
   },
   "gmp": {
-    "current": 10,
-    "pct": 7.04,
+    "current": 20,
+    "pct": 14.08,
     "low": 10,
-    "high": 10,
-    "estListing": 152,
-    "estProfitPerLot": 10000,
-    "updatedAt": "2026-11-24T18:02:00+05:30",
+    "high": 20,
+    "estListing": 162,
+    "estProfitPerLot": 20000,
+    "updatedAt": "2026-11-24T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 10,
-      "last": 10,
-      "change": 0,
-      "range": 0,
-      "upPct": 0,
+      "last": 20,
+      "change": 10,
+      "range": 10,
+      "upPct": 100,
       "downPct": 0,
       "sessions": 2
     },
@@ -90,12 +90,12 @@
       },
       {
         "date": "2026-11-24",
-        "gmp": 10,
-        "gmpPct": 7.04,
-        "estListing": 152,
-        "estProfitPerLot": 10000,
-        "sauda": "7600",
-        "updatedAt": "2026-11-24T19:02:00+05:30"
+        "gmp": 20,
+        "gmpPct": 14.08,
+        "estListing": 162,
+        "estProfitPerLot": 20000,
+        "sauda": "15200",
+        "updatedAt": "2026-11-24T23:37:00+05:30"
       }
     ]
   },
@@ -412,7 +412,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-    "updated": "Nov 24th 2026 07:02 PM",
-    "gmpUpdatedAt": "2026-11-24T18:02:00+05:30"
+    "updated": "Nov 24th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
   }
 }

@@ -6,7 +6,7 @@
   "companyName": "Watrana Rentals Ltd.",
   "category": "SME",
   "exchange": "NSE SME",
-  "status": "closed",
+  "status": "allotted",
   "rating": 3,
   "sector": "Diversified Commercial Services",
   "issue": {
@@ -73,7 +73,7 @@
     "high": 67,
     "estListing": 285,
     "estProfitPerLot": 24000,
-    "updatedAt": "2026-11-24T18:02:00+05:30",
+    "updatedAt": "2026-11-24T23:37:00+05:30",
     "trend": {
       "direction": "Volatile",
       "first": 16,
@@ -194,7 +194,7 @@
         "estListing": 285,
         "estProfitPerLot": 24000,
         "sauda": "18200",
-        "updatedAt": "2026-11-24T19:02:00+05:30"
+        "updatedAt": "2026-11-24T23:37:00+05:30"
       }
     ]
   },
@@ -610,7 +610,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-    "updated": "Nov 24th 2026 07:02 PM",
-    "gmpUpdatedAt": "2026-11-24T18:02:00+05:30"
+    "updated": "Nov 24th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
   }
 }

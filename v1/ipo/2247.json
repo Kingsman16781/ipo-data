@@ -66,21 +66,21 @@
     "anchorLockInRest": "2027-03-04"
   },
   "gmp": {
-    "current": 20,
-    "pct": 11.11,
-    "low": 20,
+    "current": 18,
+    "pct": 10,
+    "low": 18,
     "high": 20,
-    "estListing": 200,
-    "estProfitPerLot": 16000,
-    "updatedAt": "2026-11-24T18:02:00+05:30",
+    "estListing": 198,
+    "estProfitPerLot": 14400,
+    "updatedAt": "2026-11-24T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 20,
-      "last": 20,
-      "change": 0,
-      "range": 0,
+      "last": 18,
+      "change": -2,
+      "range": 2,
       "upPct": 0,
-      "downPct": 0,
+      "downPct": 100,
       "sessions": 2
     },
     "history": [
@@ -95,12 +95,12 @@
       },
       {
         "date": "2026-11-24",
-        "gmp": 20,
-        "gmpPct": 11.11,
-        "estListing": 200,
-        "estProfitPerLot": 16000,
-        "sauda": "12200",
-        "updatedAt": "2026-11-24T19:02:00+05:30"
+        "gmp": 18,
+        "gmpPct": 10,
+        "estListing": 198,
+        "estProfitPerLot": 14400,
+        "sauda": "10900",
+        "updatedAt": "2026-11-24T23:37:00+05:30"
       }
     ]
   },
@@ -432,7 +432,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/a-j-packaging-ipo/2247/",
-    "updated": "Nov 24th 2026 07:02 PM",
-    "gmpUpdatedAt": "2026-11-24T18:02:00+05:30"
+    "updated": "Nov 24th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
   }
 }

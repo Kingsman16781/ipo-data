@@ -7,7 +7,7 @@
   "category": "MAINBOARD",
   "exchange": "Mainboard",
   "status": "upcoming",
-  "rating": 2,
+  "rating": 3,
   "sector": "Restaurants",
   "issue": {
     "type": "Book Build Issue",
@@ -64,19 +64,19 @@
     "anchorLockInRest": "2027-03-01"
   },
   "gmp": {
-    "current": 17,
-    "pct": 8.9,
+    "current": 21,
+    "pct": 10.99,
     "low": 12,
-    "high": 17,
-    "estListing": 208,
-    "estProfitPerLot": 1326,
-    "updatedAt": "2026-11-24T18:02:00+05:30",
+    "high": 21,
+    "estListing": 212,
+    "estProfitPerLot": 1638,
+    "updatedAt": "2026-11-24T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 12,
-      "last": 17,
-      "change": 5,
-      "range": 5,
+      "last": 21,
+      "change": 9,
+      "range": 9,
       "upPct": 40,
       "downPct": 0,
       "sessions": 6
@@ -125,12 +125,12 @@
       },
       {
         "date": "2026-11-24",
-        "gmp": 17,
-        "gmpPct": 8.9,
-        "estListing": 208,
-        "estProfitPerLot": 1326,
-        "sauda": "1000",
-        "updatedAt": "2026-11-24T19:02:00+05:30"
+        "gmp": 21,
+        "gmpPct": 10.99,
+        "estListing": 212,
+        "estProfitPerLot": 1638,
+        "sauda": "1200",
+        "updatedAt": "2026-11-24T23:37:00+05:30"
       }
     ]
   },
@@ -422,7 +422,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-    "updated": "Nov 24th 2026 07:02 PM",
-    "gmpUpdatedAt": "2026-11-24T18:02:00+05:30"
+    "updated": "Nov 24th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
   }
 }

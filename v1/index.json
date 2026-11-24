@@ -1,11 +1,11 @@
 {
   "schema": 1,
   "source": "investorgain.com",
-  "updatedAt": "2026-11-24T18:02:00+05:30",
-  "statusDate": "2026-11-24",
+  "updatedAt": "2026-11-24T23:37:00+05:30",
+  "statusDate": "2026-11-25",
   "counts": {
-    "live": 0,
-    "upcoming": 7,
+    "live": 1,
+    "upcoming": 6,
     "closed": 18
   },
   "ipos": [
@@ -27,7 +27,7 @@
       "boa": "2026-12-07",
       "listing": "2026-12-09",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -38,11 +38,11 @@
       "status": "upcoming",
       "rating": 3,
       "price": 180,
-      "gmp": 20,
-      "gmpPct": 11.11,
-      "gmpLow": 20,
+      "gmp": 18,
+      "gmpPct": 10,
+      "gmpLow": 18,
       "gmpHigh": 20,
-      "estListing": 200,
+      "estListing": 198,
       "sizeCr": 54,
       "lot": 800,
       "pe": 17.65,
@@ -51,7 +51,7 @@
       "boa": "2026-12-04",
       "listing": "2026-12-08",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -75,7 +75,7 @@
       "boa": "2026-12-04",
       "listing": "2026-12-08",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -113,7 +113,7 @@
       "boa": "2026-12-02",
       "listing": "2026-12-04",
       "anchor": false,
-      "gmpUpdatedAt": "2026-11-24T18:00:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:30:00+05:30",
       "hasDetail": true
     },
     {
@@ -122,13 +122,13 @@
       "category": "MAINBOARD",
       "exchange": "Mainboard",
       "status": "upcoming",
-      "rating": 2,
+      "rating": 3,
       "price": 191,
-      "gmp": 17,
-      "gmpPct": 8.9,
+      "gmp": 21,
+      "gmpPct": 10.99,
       "gmpLow": 12,
-      "gmpHigh": 17,
-      "estListing": 208,
+      "gmpHigh": 21,
+      "estListing": 212,
       "sizeCr": 360.76,
       "lot": 78,
       "pe": 34.29,
@@ -137,7 +137,7 @@
       "boa": "2026-12-01",
       "listing": "2026-12-03",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -145,14 +145,14 @@
       "name": "Shree Siddhivinayak Greentech Industries",
       "category": "SME",
       "exchange": "NSE SME",
-      "status": "upcoming",
-      "rating": 2,
+      "status": "open",
+      "rating": 3,
       "price": 142,
-      "gmp": 10,
-      "gmpPct": 7.04,
+      "gmp": 20,
+      "gmpPct": 14.08,
       "gmpLow": 10,
-      "gmpHigh": 10,
-      "estListing": 152,
+      "gmpHigh": 20,
+      "estListing": 162,
       "sizeCr": 93.66,
       "lot": 1000,
       "pe": 15.01,
@@ -161,7 +161,7 @@
       "boa": "2026-11-30",
       "listing": "2026-12-02",
       "anchor": false,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -169,7 +169,7 @@
       "name": "Watrana Rentals",
       "category": "SME",
       "exchange": "NSE SME",
-      "status": "closed",
+      "status": "allotted",
       "rating": 3,
       "price": 245,
       "gmp": 40,
@@ -186,7 +186,7 @@
       "boa": "2026-11-25",
       "listing": "2026-11-27",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -194,7 +194,7 @@
       "name": "Mahanadi Coalfields",
       "category": "MAINBOARD",
       "exchange": "Mainboard",
-      "status": "closed",
+      "status": "allotted",
       "rating": 1,
       "price": 136,
       "gmpLow": 0,
@@ -208,7 +208,7 @@
       "boa": "2026-11-25",
       "listing": "2026-11-27",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -219,11 +219,11 @@
       "status": "allotted",
       "rating": 2,
       "price": 272,
-      "gmp": 18,
-      "gmpPct": 6.62,
+      "gmp": 19,
+      "gmpPct": 6.99,
       "gmpLow": 13,
       "gmpHigh": 40,
-      "estListing": 290,
+      "estListing": 291,
       "sub": 17.68,
       "sizeCr": 455.49,
       "lot": 55,
@@ -233,7 +233,7 @@
       "boa": "2026-11-23",
       "listing": "2026-11-26",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-24T18:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-24T23:37:00+05:30",
       "hasDetail": true
     },
     {

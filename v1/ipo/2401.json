@@ -6,7 +6,7 @@
   "companyName": "Mahanadi Coalfields Ltd.",
   "category": "MAINBOARD",
   "exchange": "Mainboard",
-  "status": "open",
+  "status": "closed",
   "rating": 1,
   "sector": "Coal",
   "issue": {
@@ -73,13 +73,10 @@
     "anchorLockInRest": "2027-02-23"
   },
   "gmp": {
-    "current": 0.4,
-    "pct": 0.29,
-    "low": 0.4,
+    "low": 0,
     "high": 9.25,
-    "estListing": 136.4,
-    "estProfitPerLot": 22,
-    "updatedAt": "2026-11-23T14:37:00+05:30",
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-23T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 9,
@@ -87,8 +84,8 @@
       "change": -9,
       "range": 9,
       "upPct": 0,
-      "downPct": 44.44,
-      "sessions": 10
+      "downPct": 40,
+      "sessions": 11
     },
     "history": [
       {
@@ -174,12 +171,20 @@
       },
       {
         "date": "2026-11-23",
-        "gmp": 0.2,
-        "gmpPct": 0.15,
-        "estListing": 136.2,
-        "estProfitPerLot": 22,
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 136,
+        "estProfitPerLot": 0,
         "sub": 1.52,
-        "updatedAt": "2026-11-23T18:37:00+05:30"
+        "updatedAt": "2026-11-23T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-24",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 136,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-24T07:37:00+05:30"
       }
     ]
   },
@@ -616,7 +621,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-    "updated": "Nov 23rd 2026 06:37 PM",
-    "gmpUpdatedAt": "2026-11-23T14:37:00+05:30"
+    "updated": "Nov 24th 2026 07:37 AM",
+    "gmpUpdatedAt": "2026-11-23T23:37:00+05:30"
   }
 }

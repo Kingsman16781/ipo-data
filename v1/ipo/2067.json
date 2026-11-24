@@ -73,22 +73,22 @@
     "anchorLockInRest": "2027-02-21"
   },
   "gmp": {
-    "current": 14.5,
-    "pct": 5.33,
+    "current": 14,
+    "pct": 5.15,
     "low": 13,
     "high": 40,
-    "estListing": 286.5,
+    "estListing": 286,
     "estProfitPerLot": 770,
-    "updatedAt": "2026-11-23T14:37:00+05:30",
+    "updatedAt": "2026-11-23T23:37:00+05:30",
     "trend": {
-      "direction": "Downward",
+      "direction": "Stable",
       "first": 40,
       "last": 14,
       "change": -26,
       "range": 27,
-      "upPct": 10,
-      "downPct": 60,
-      "sessions": 11
+      "upPct": 9.09,
+      "downPct": 54.55,
+      "sessions": 12
     },
     "history": [
       {
@@ -191,7 +191,16 @@
         "estListing": 286,
         "estProfitPerLot": 770,
         "sauda": "600",
-        "updatedAt": "2026-11-23T18:37:00+05:30"
+        "updatedAt": "2026-11-23T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-24",
+        "gmp": 14,
+        "gmpPct": 5.15,
+        "estListing": 286,
+        "estProfitPerLot": 770,
+        "sauda": "600",
+        "updatedAt": "2026-11-24T07:37:00+05:30"
       }
     ]
   },
@@ -305,6 +314,7 @@
   "registrar": {
     "name": "MUFG Intime India Pvt.Ltd.",
     "code": "MUFG_INTIME",
+    "allotmentUrl": "https://in.mpms.mufg.com/Initial_Offer/public-issues.html",
     "email": "crystalcrop.ipo@in.mpms.mufg.com"
   },
   "company": {
@@ -642,7 +652,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-    "updated": "Nov 23rd 2026 06:37 PM",
-    "gmpUpdatedAt": "2026-11-23T14:37:00+05:30"
+    "updated": "Nov 24th 2026 07:37 AM",
+    "gmpUpdatedAt": "2026-11-23T23:37:00+05:30"
   }
 }

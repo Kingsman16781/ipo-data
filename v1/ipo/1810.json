@@ -6,8 +6,8 @@
   "companyName": "Foodlink F&B Holdings (India) Ltd.",
   "category": "MAINBOARD",
   "exchange": "Mainboard",
-  "status": "upcoming",
-  "rating": 3,
+  "status": "open",
+  "rating": 2,
   "sector": "Restaurants",
   "issue": {
     "type": "Book Build Issue",
@@ -64,21 +64,21 @@
     "anchorLockInRest": "2027-03-01"
   },
   "gmp": {
-    "current": 27,
-    "pct": 14.14,
+    "current": 18,
+    "pct": 9.42,
     "low": 12,
-    "high": 27,
-    "estListing": 218,
-    "estProfitPerLot": 2106,
-    "updatedAt": "2026-11-25T15:37:00+05:30",
+    "high": 21,
+    "estListing": 209,
+    "estProfitPerLot": 1404,
+    "updatedAt": "2026-11-25T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 12,
-      "last": 27,
-      "change": 15,
-      "range": 15,
-      "upPct": 50,
-      "downPct": 0,
+      "last": 18,
+      "change": 6,
+      "range": 9,
+      "upPct": 33.33,
+      "downPct": 16.67,
       "sessions": 7
     },
     "history": [
@@ -134,12 +134,12 @@
       },
       {
         "date": "2026-11-25",
-        "gmp": 27,
-        "gmpPct": 14.14,
-        "estListing": 218,
-        "estProfitPerLot": 2106,
-        "sauda": "1600",
-        "updatedAt": "2026-11-25T18:02:00+05:30"
+        "gmp": 18,
+        "gmpPct": 9.42,
+        "estListing": 209,
+        "estProfitPerLot": 1404,
+        "sauda": "1100",
+        "updatedAt": "2026-11-25T23:37:00+05:30"
       }
     ]
   },
@@ -427,11 +427,12 @@
   ],
   "documents": {
     "drhp": "https://www.sebi.gov.in/filings/public-issues/jul-2025/foodlink-fandb-holdings-india-limited_94988.html",
-    "rhp": "https://s3.ap-south-1.amazonaws.com/cms.equirus.tech/Foodlink_F_and_B_Holdings_India_Limited_Red_Herring_Prospectus_95e7e3e3b7.pdf"
+    "rhp": "https://s3.ap-south-1.amazonaws.com/cms.equirus.tech/Foodlink_F_and_B_Holdings_India_Limited_Red_Herring_Prospectus_95e7e3e3b7.pdf",
+    "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/foodlink-f-b-holdings-ipo-anchor-allocation-letter.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-    "updated": "Nov 25th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
+    "updated": "Nov 25th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
   }
 }

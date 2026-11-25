@@ -7,7 +7,7 @@
   "category": "SME",
   "exchange": "NSE SME",
   "status": "allotted",
-  "rating": 3,
+  "rating": 2,
   "sector": "Diversified Commercial Services",
   "issue": {
     "type": "Book Build Issue",
@@ -67,21 +67,21 @@
     "anchorLockInRest": "2027-02-23"
   },
   "gmp": {
-    "current": 41,
-    "pct": 16.73,
+    "current": 22,
+    "pct": 8.98,
     "low": 16,
     "high": 67,
-    "estListing": 286,
-    "estProfitPerLot": 24600,
-    "updatedAt": "2026-11-25T15:37:00+05:30",
+    "estListing": 267,
+    "estProfitPerLot": 13200,
+    "updatedAt": "2026-11-25T23:37:00+05:30",
     "trend": {
       "direction": "Volatile",
       "first": 16,
-      "last": 41,
-      "change": 25,
+      "last": 22,
+      "change": 6,
       "range": 51,
-      "upPct": 41.67,
-      "downPct": 25,
+      "upPct": 33.33,
+      "downPct": 33.33,
       "sessions": 13
     },
     "history": [
@@ -198,12 +198,12 @@
       },
       {
         "date": "2026-11-25",
-        "gmp": 41,
-        "gmpPct": 16.73,
-        "estListing": 286,
-        "estProfitPerLot": 24600,
-        "sauda": "18700",
-        "updatedAt": "2026-11-25T18:02:00+05:30"
+        "gmp": 22,
+        "gmpPct": 8.98,
+        "estListing": 267,
+        "estProfitPerLot": 13200,
+        "sauda": "10000",
+        "updatedAt": "2026-11-25T23:37:00+05:30"
       }
     ]
   },
@@ -305,6 +305,7 @@
   "registrar": {
     "name": "Maashitla Securities Pvt.Ltd.",
     "code": "MAASHITLA",
+    "allotmentUrl": "https://maashitla.com/allotment-status/public-issues",
     "email": "ipo@maashitla.com"
   },
   "company": {
@@ -619,7 +620,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-    "updated": "Nov 25th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
+    "updated": "Nov 25th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
   }
 }

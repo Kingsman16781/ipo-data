@@ -64,20 +64,20 @@
     "anchorLockInRest": "2027-03-04"
   },
   "gmp": {
-    "current": 21.5,
-    "pct": 12.5,
+    "current": 27,
+    "pct": 15.7,
     "low": 21.5,
-    "high": 21.5,
-    "estListing": 193.5,
-    "estProfitPerLot": 1870.5,
-    "updatedAt": "2026-11-25T15:37:00+05:30",
+    "high": 27,
+    "estListing": 199,
+    "estProfitPerLot": 2349,
+    "updatedAt": "2026-11-25T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 21,
-      "last": 21,
-      "change": 0,
-      "range": 0,
-      "upPct": 0,
+      "last": 27,
+      "change": 6,
+      "range": 6,
+      "upPct": 50,
       "downPct": 0,
       "sessions": 3
     },
@@ -102,12 +102,12 @@
       },
       {
         "date": "2026-11-25",
-        "gmp": 21.5,
-        "gmpPct": 12.5,
-        "estListing": 193.5,
-        "estProfitPerLot": 1870.5,
-        "sauda": "1400",
-        "updatedAt": "2026-11-25T18:02:00+05:30"
+        "gmp": 27,
+        "gmpPct": 15.7,
+        "estListing": 199,
+        "estProfitPerLot": 2349,
+        "sauda": "1800",
+        "updatedAt": "2026-11-25T23:37:00+05:30"
       }
     ]
   },
@@ -423,7 +423,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/",
-    "updated": "Nov 25th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
+    "updated": "Nov 25th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
   }
 }

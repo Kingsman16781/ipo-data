@@ -6,7 +6,7 @@
   "companyName": "Crystal Crop Protection Ltd.",
   "category": "MAINBOARD",
   "exchange": "Mainboard",
-  "status": "allotted",
+  "status": "listed",
   "rating": 2,
   "sector": "Other Agricultural Products",
   "issue": {
@@ -73,18 +73,18 @@
     "anchorLockInRest": "2027-02-21"
   },
   "gmp": {
-    "current": 18,
-    "pct": 6.62,
+    "current": 17,
+    "pct": 6.25,
     "low": 13,
     "high": 40,
-    "estListing": 290,
-    "estProfitPerLot": 990,
-    "updatedAt": "2026-11-25T15:37:00+05:30",
+    "estListing": 289,
+    "estProfitPerLot": 935,
+    "updatedAt": "2026-11-25T23:37:00+05:30",
     "trend": {
       "direction": "Downward",
       "first": 40,
-      "last": 18,
-      "change": -22,
+      "last": 17,
+      "change": -23,
       "range": 27,
       "upPct": 16.67,
       "downPct": 58.33,
@@ -204,12 +204,12 @@
       },
       {
         "date": "2026-11-25",
-        "gmp": 18,
-        "gmpPct": 6.62,
-        "estListing": 290,
-        "estProfitPerLot": 990,
-        "sauda": "800",
-        "updatedAt": "2026-11-25T18:02:00+05:30"
+        "gmp": 17,
+        "gmpPct": 6.25,
+        "estListing": 289,
+        "estProfitPerLot": 935,
+        "sauda": "700",
+        "updatedAt": "2026-11-25T23:37:00+05:30"
       }
     ]
   },
@@ -667,7 +667,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-    "updated": "Nov 25th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
+    "updated": "Nov 25th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
   }
 }

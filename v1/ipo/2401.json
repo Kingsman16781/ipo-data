@@ -76,7 +76,7 @@
     "low": 0,
     "high": 9.25,
     "estProfitPerLot": 0,
-    "updatedAt": "2026-11-24T23:37:00+05:30",
+    "updatedAt": "2026-11-25T15:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 9,
@@ -84,8 +84,8 @@
       "change": -9,
       "range": 9,
       "upPct": 0,
-      "downPct": 40,
-      "sessions": 11
+      "downPct": 36.36,
+      "sessions": 12
     },
     "history": [
       {
@@ -185,6 +185,14 @@
         "estListing": 136,
         "estProfitPerLot": 0,
         "updatedAt": "2026-11-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-25",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 136,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-25T18:02:00+05:30"
       }
     ]
   },
@@ -320,7 +328,7 @@
       },
       {
         "type": "p",
-        "text": "Mahanadi Coalfields IPO bidding started from Nov 19, 2026 and ended on Nov 23, 2026. The allotment for the Mahanadi Coalfields IPO is expected to be finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
+        "text": "Mahanadi Coalfields IPO bidding started from Nov 19, 2026 and ended on Nov 23, 2026. The allotment for Mahanadi Coalfields IPO was finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
       },
       {
         "type": "p",
@@ -617,12 +625,12 @@
   "documents": {
     "drhp": "https://nsearchives.nseindia.com/corporate/Registration_01092026212900_MCLDRHP.pdf",
     "rhp": "https://www.sebi.gov.in/filings/public-issues/nov-2026/mahanadi-coalfields-limited-rhp_105777.html",
-    "prospectus": "https://www.axiscapital.co.in/contents/Mahanadi%20Coalfields%20Limited%20-%20Prospectus-1795453411.pdf",
+    "prospectus": "https://www.sebi.gov.in/filings/public-issues/nov-2026/mahanadi-coalfields-ltd-prospectus_105841.html",
     "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/mahanandi-ipo-anchor-book.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-    "updated": "Nov 24th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
+    "updated": "Nov 25th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
   }
 }

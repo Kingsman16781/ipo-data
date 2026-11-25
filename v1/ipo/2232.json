@@ -7,16 +7,49 @@
   "category": "MAINBOARD",
   "exchange": "Mainboard",
   "status": "upcoming",
-  "rating": 1,
+  "rating": 4,
   "sector": "Civil Construction",
   "issue": {
     "type": "Book Build Issue",
-    "priceHigh": 0,
+    "priceLow": 60,
+    "priceHigh": 65,
     "faceValue": 10,
-    "freshCr": 2.7,
+    "lot": 225,
+    "sizeCr": 175.5,
+    "freshCr": 175.5,
     "totalShares": 27000000,
+    "marketCapCr": 624.27,
+    "peIssue": 17.33,
+    "pePostIssue": 51.59,
     "eps": 3.75,
     "epsPostIssue": 1.26
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 225,
+      "lots": 1,
+      "amount": 14625
+    },
+    "retailMax": {
+      "shares": 2925,
+      "lots": 13,
+      "amount": 190125
+    },
+    "sHniMin": {
+      "shares": 3150,
+      "lots": 14,
+      "amount": 204750
+    },
+    "sHniMax": {
+      "shares": 15300,
+      "lots": 68,
+      "amount": 994500
+    },
+    "bHniMin": {
+      "shares": 15525,
+      "lots": 69,
+      "amount": 1009125
+    }
   },
   "dates": {
     "anchorBid": "2026-12-01",
@@ -30,22 +63,22 @@
     "anchorLockInRest": "2027-03-07"
   },
   "gmp": {
-    "current": 23,
-    "pct": 0,
-    "low": 23,
+    "current": 21,
+    "pct": 32.31,
+    "low": 21,
     "high": 23,
-    "estListing": 23,
-    "estProfitPerLot": 0,
-    "updatedAt": "2026-11-24T23:37:00+05:30",
+    "estListing": 86,
+    "estProfitPerLot": 4725,
+    "updatedAt": "2026-11-25T15:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 23,
-      "last": 23,
-      "change": 0,
-      "range": 0,
+      "last": 21,
+      "change": -2,
+      "range": 2,
       "upPct": 0,
-      "downPct": 0,
-      "sessions": 3
+      "downPct": 33.33,
+      "sessions": 4
     },
     "history": [
       {
@@ -71,6 +104,15 @@
         "estListing": 23,
         "estProfitPerLot": 0,
         "updatedAt": "2026-11-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-25",
+        "gmp": 21,
+        "gmpPct": 32.31,
+        "estListing": 86,
+        "estProfitPerLot": 4725,
+        "sauda": "3600",
+        "updatedAt": "2026-11-25T18:02:00+05:30"
       }
     ]
   },
@@ -83,7 +125,7 @@
     "summary": [
       {
         "type": "p",
-        "text": "Monomark Engineering (India) IPO is a book build issue of 2.70 crore shares. The issue is entirely a fresh issue of shares."
+        "text": "Monomark Engineering (India) IPO is a book-built issue of ₹175.50 crores. The issue is entirely a fresh issue of 2.70 crore shares of ₹175.50 crore."
       },
       {
         "type": "p",
@@ -91,7 +133,7 @@
       },
       {
         "type": "p",
-        "text": "Monomark Engineering (India) IPO is set issue price band at [.] to [.] per share."
+        "text": "Monomark Engineering (India) IPO is set issue price band at ₹60 to ₹65 per share. The lot size for an application is 225 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,625 (225 shares) (based on upper price)."
       },
       {
         "type": "p",
@@ -194,6 +236,7 @@
       "ronw": 22.19,
       "patMargin": 4.61,
       "ebitdaMargin": 8.67,
+      "priceToBook": 3.84,
       "nav": 16.91
     },
     {
@@ -360,7 +403,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-    "updated": "Nov 24th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
+    "updated": "Nov 25th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
   }
 }

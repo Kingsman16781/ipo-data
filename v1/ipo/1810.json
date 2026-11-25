@@ -64,22 +64,22 @@
     "anchorLockInRest": "2027-03-01"
   },
   "gmp": {
-    "current": 21,
-    "pct": 10.99,
+    "current": 27,
+    "pct": 14.14,
     "low": 12,
-    "high": 21,
-    "estListing": 212,
-    "estProfitPerLot": 1638,
-    "updatedAt": "2026-11-24T23:37:00+05:30",
+    "high": 27,
+    "estListing": 218,
+    "estProfitPerLot": 2106,
+    "updatedAt": "2026-11-25T15:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 12,
-      "last": 21,
-      "change": 9,
-      "range": 9,
-      "upPct": 40,
+      "last": 27,
+      "change": 15,
+      "range": 15,
+      "upPct": 50,
       "downPct": 0,
-      "sessions": 6
+      "sessions": 7
     },
     "history": [
       {
@@ -131,6 +131,15 @@
         "estProfitPerLot": 1638,
         "sauda": "1200",
         "updatedAt": "2026-11-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-25",
+        "gmp": 27,
+        "gmpPct": 14.14,
+        "estListing": 218,
+        "estProfitPerLot": 2106,
+        "sauda": "1600",
+        "updatedAt": "2026-11-25T18:02:00+05:30"
       }
     ]
   },
@@ -422,7 +431,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-    "updated": "Nov 24th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
+    "updated": "Nov 25th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
   }
 }

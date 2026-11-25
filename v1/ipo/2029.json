@@ -16,30 +16,19 @@
     "ofsCr": 1.08,
     "eps": 6.52
   },
-  "dates": {
-    "anchorBid": "2026-11-26",
-    "open": "2026-11-27",
-    "close": "2026-12-01",
-    "boa": "2026-12-02",
-    "refund": "2026-12-03",
-    "dematCredit": "2026-12-03",
-    "listing": "2026-12-04",
-    "anchorLockIn50": "2027-01-01",
-    "anchorLockInRest": "2027-03-02"
-  },
   "gmp": {
     "low": 0,
     "high": 0,
-    "updatedAt": "2026-11-24T05:55:00+05:30",
+    "updatedAt": "2026-11-25T05:55:00+05:30",
     "trend": {
       "direction": "Initial"
     },
     "history": [
       {
-        "date": "2026-11-24",
+        "date": "2026-11-25",
         "gmp": 0,
         "gmpPct": 0,
-        "updatedAt": "2026-11-24T05:55:00+05:30"
+        "updatedAt": "2026-11-25T05:55:00+05:30"
       }
     ]
   },
@@ -52,11 +41,11 @@
     "summary": [
       {
         "type": "p",
-        "text": "Integris Medtech IPO is a book build issue . The issue comprises of fresh issue of ₹600.00 crores and offer for sale of 1.08 crore shares."
+        "text": "Integris Medtech IPO is a book-built issue . The issue comprises of fresh issue of ₹600.00 crores and offer for sale of 1.08 crore shares."
       },
       {
         "type": "p",
-        "text": "Integris Medtech IPO opens for subscription on Nov 27, 2026 and closes on Dec 1, 2026. The allotment for the Integris Medtech IPO is expected to be finalized on Dec 2, 2026. Integris Medtech IPO will list on NSE and BSE with a tentative listing date fixed as Dec 4, 2026."
+        "text": "Integris Medtech IPO dates are yet to be announced."
       },
       {
         "type": "p",
@@ -313,7 +302,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
-    "updated": "Nov 24th 2026 05:55 AM",
-    "gmpUpdatedAt": "2026-11-24T05:55:00+05:30"
+    "updated": "Nov 25th 2026 05:55 AM",
+    "gmpUpdatedAt": "2026-11-25T05:55:00+05:30"
   }
 }

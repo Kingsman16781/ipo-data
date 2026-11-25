@@ -49,6 +49,8 @@
   "reservation": {
     "qib": 66000,
     "nii": 3100000,
+    "sNii": 1033000,
+    "bNii": 2067000,
     "retail": 3100000,
     "marketMaker": 330000
   },
@@ -67,16 +69,16 @@
     "high": 20,
     "estListing": 162,
     "estProfitPerLot": 20000,
-    "updatedAt": "2026-11-24T23:37:00+05:30",
+    "updatedAt": "2026-11-25T15:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 10,
       "last": 20,
       "change": 10,
       "range": 10,
-      "upPct": 100,
+      "upPct": 50,
       "downPct": 0,
-      "sessions": 2
+      "sessions": 3
     },
     "history": [
       {
@@ -96,8 +98,99 @@
         "estProfitPerLot": 20000,
         "sauda": "15200",
         "updatedAt": "2026-11-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-25",
+        "gmp": 20,
+        "gmpPct": 14.08,
+        "estListing": 162,
+        "estProfitPerLot": 20000,
+        "sauda": "15200",
+        "sub": 0.41,
+        "updatedAt": "2026-11-25T18:02:00+05:30"
       }
     ]
+  },
+  "subscription": {
+    "total": 0.41,
+    "asOf": "2026-11-25T17:56:00+05:30",
+    "categories": [
+      {
+        "key": "qib",
+        "times": 4.27,
+        "offered": 66000,
+        "bid": 282000,
+        "amountCr": 4
+      },
+      {
+        "key": "nii",
+        "times": 0.51,
+        "offered": 3100000,
+        "bid": 1579000,
+        "amountCr": 22.42
+      },
+      {
+        "key": "bNii",
+        "times": 0.73,
+        "offered": 2067000,
+        "bid": 1514000,
+        "amountCr": 21.5
+      },
+      {
+        "key": "sNii",
+        "times": 0.06,
+        "offered": 1033000,
+        "bid": 65000,
+        "amountCr": 0.92
+      },
+      {
+        "key": "retail",
+        "times": 0.23,
+        "offered": 3100000,
+        "bid": 704000,
+        "amountCr": 10
+      }
+    ],
+    "byDay": [
+      {
+        "date": "2026-11-25",
+        "sub": 0.41,
+        "qib": 4.27,
+        "nii": 0.51,
+        "retail": 0.23
+      }
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 8,
+          "reserved": 689,
+          "times": 0.01
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 20,
+          "reserved": 344,
+          "times": 0.06
+        },
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 352,
+          "reserved": 1550,
+          "times": 0.23
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 381,
+      "asOf": "2026-11-25T17:55:00+05:30"
+    }
+  },
+  "listing": {
+    "nseSymbol": "SHREESIDHI"
   },
   "registrar": {
     "name": "MAS Services Ltd.",
@@ -112,7 +205,7 @@
       },
       {
         "type": "p",
-        "text": "Shree Siddhivinayak Greentech Industries IPO opens for subscription on Nov 25, 2026 and closes on Nov 27, 2026. The allotment for the Shree Siddhivinayak Greentech Industries IPO is expected to be finalized on Nov 30, 2026. Shree Siddhivinayak Greentech Industries IPO will list on the NSE SME with a tentative listing date fixed as Dec 2, 2026."
+        "text": "Shree Siddhivinayak Greentech Industries IPO bidding opened for subscription on Nov 25, 2026 and will close on Nov 27, 2026. The allotment for the Shree Siddhivinayak Greentech Industries IPO is expected to be finalized on Nov 30, 2026. Shree Siddhivinayak Greentech Industries IPO will list on the NSE SME with a tentative listing date fixed as Dec 2, 2026."
       },
       {
         "type": "p",
@@ -408,11 +501,11 @@
   },
   "documents": {
     "drhp": "https://nsearchives.nseindia.com/emerge/corporates/content/DRHP_SSGID.zip",
-    "rhp": "https://erudorecapital.com/wp-content/uploads/2026/11/Red-Herring-Prospectus-Siddhivinayak.pdf"
+    "rhp": "https://nsearchives.nseindia.com/content/ipo/RHP_SHREESIDHI.zip"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-    "updated": "Nov 24th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
+    "updated": "Nov 25th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
   }
 }

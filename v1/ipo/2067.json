@@ -73,22 +73,22 @@
     "anchorLockInRest": "2027-02-21"
   },
   "gmp": {
-    "current": 19,
-    "pct": 6.99,
+    "current": 18,
+    "pct": 6.62,
     "low": 13,
     "high": 40,
-    "estListing": 291,
-    "estProfitPerLot": 1045,
-    "updatedAt": "2026-11-24T23:37:00+05:30",
+    "estListing": 290,
+    "estProfitPerLot": 990,
+    "updatedAt": "2026-11-25T15:37:00+05:30",
     "trend": {
-      "direction": "Stable",
+      "direction": "Downward",
       "first": 40,
-      "last": 19,
-      "change": -21,
+      "last": 18,
+      "change": -22,
       "range": 27,
-      "upPct": 18.18,
-      "downPct": 54.55,
-      "sessions": 12
+      "upPct": 16.67,
+      "downPct": 58.33,
+      "sessions": 13
     },
     "history": [
       {
@@ -201,6 +201,15 @@
         "estProfitPerLot": 1045,
         "sauda": "800",
         "updatedAt": "2026-11-24T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-25",
+        "gmp": 18,
+        "gmpPct": 6.62,
+        "estListing": 290,
+        "estProfitPerLot": 990,
+        "sauda": "800",
+        "updatedAt": "2026-11-25T18:02:00+05:30"
       }
     ]
   },
@@ -309,7 +318,8 @@
     }
   },
   "listing": {
-    "nseSymbol": "CRYSTALCP"
+    "nseSymbol": "CRYSTALCP",
+    "isin": "INE101P01016"
   },
   "registrar": {
     "name": "MUFG Intime India Pvt.Ltd.",
@@ -321,15 +331,19 @@
     "summary": [
       {
         "type": "p",
-        "text": "Crystal Crop Protection IPO is a book build issue of ₹455.49 crores. The issue is a combination of fresh issue of 1.31 crore shares aggregating to ₹354.77 crores and offer for sale of 37.03 lakh shares aggregating to ₹100.71 crores."
+        "text": "Crystal Crop Protection IPO is a book-built issue of ₹455.49 crores. The issue is a combination of fresh issue of 1.31 crore shares aggregating to ₹354.77 crores and offer for sale of 37.03 lakh shares aggregating to ₹100.71 crores."
       },
       {
         "type": "p",
-        "text": "Crystal Crop Protection IPO opens for subscription on Nov 18, 2026 and closes on Nov 20, 2026. The allotment for the Crystal Crop Protection IPO is expected to be finalized on Nov 23, 2026. Crystal Crop Protection IPO will list on NSE and BSE with a tentative listing date fixed as Nov 26, 2026."
+        "text": "Crystal Crop Protection IPO bidding started from Nov 18, 2026 and ended on Nov 20, 2026. The allotment for Crystal Crop Protection IPO was finalized on Nov 23, 2026. Crystal Crop Protection IPO will list on NSE and BSE with a tentative listing date fixed as Nov 26, 2026."
       },
       {
         "type": "p",
         "text": "Crystal Crop Protection IPO is set issue price band at ₹259 to ₹272 per share. The lot size for an application is 55 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,960 (55 shares) (based on upper price)."
+      },
+      {
+        "type": "p",
+        "text": "The issue includes a reservation of up to 1,01,215 shares for employees offered at a discount of ₹25.00 to the issue price."
       },
       {
         "type": "p",
@@ -648,11 +662,12 @@
   "documents": {
     "drhp": "https://www.sebi.gov.in/filings/public-issues/dec-2025/crystal-crop-protection-limited-drhp_98530.html",
     "rhp": "https://www.sebi.gov.in/filings/public-issues/nov-2026/crystal-crop-protection-limited-rhp_105734.html",
+    "prospectus": "https://www.sebi.gov.in/filings/public-issues/nov-2026/crystal-crop-protection-limited-prospectus_105852.html",
     "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/anchor_lettere46a8874-a3a3-4682-8e82-a0ec5ddc6cbb.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-    "updated": "Nov 24th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-24T23:37:00+05:30"
+    "updated": "Nov 25th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-25T15:37:00+05:30"
   }
 }

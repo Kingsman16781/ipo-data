@@ -67,22 +67,22 @@
     "anchorLockInRest": "2027-02-23"
   },
   "gmp": {
-    "current": 22,
-    "pct": 8.98,
+    "current": 19,
+    "pct": 7.76,
     "low": 16,
     "high": 67,
-    "estListing": 267,
-    "estProfitPerLot": 13200,
-    "updatedAt": "2026-11-25T23:37:00+05:30",
+    "estListing": 264,
+    "estProfitPerLot": 11400,
+    "updatedAt": "2026-11-26T17:02:00+05:30",
     "trend": {
       "direction": "Volatile",
       "first": 16,
-      "last": 22,
-      "change": 6,
+      "last": 19,
+      "change": 3,
       "range": 51,
-      "upPct": 33.33,
-      "downPct": 33.33,
-      "sessions": 13
+      "upPct": 30.77,
+      "downPct": 38.46,
+      "sessions": 14
     },
     "history": [
       {
@@ -204,6 +204,15 @@
         "estProfitPerLot": 13200,
         "sauda": "10000",
         "updatedAt": "2026-11-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-26",
+        "gmp": 19,
+        "gmpPct": 7.76,
+        "estListing": 264,
+        "estProfitPerLot": 11400,
+        "sauda": "8700",
+        "updatedAt": "2026-11-26T18:02:00+05:30"
       }
     ]
   },
@@ -620,7 +629,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-    "updated": "Nov 25th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
+    "updated": "Nov 26th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-26T17:02:00+05:30"
   }
 }

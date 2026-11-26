@@ -52,6 +52,14 @@
       "amount": 1013064
     }
   },
+  "reservation": {
+    "qib": 5666321,
+    "anchor": 8499483,
+    "nii": 2833161,
+    "sNii": 944387,
+    "bNii": 1888774,
+    "retail": 1888774
+  },
   "dates": {
     "anchorBid": "2026-11-25",
     "open": "2026-11-26",
@@ -64,22 +72,22 @@
     "anchorLockInRest": "2027-03-01"
   },
   "gmp": {
-    "current": 18,
-    "pct": 9.42,
+    "current": 12,
+    "pct": 6.28,
     "low": 12,
     "high": 21,
-    "estListing": 209,
-    "estProfitPerLot": 1404,
-    "updatedAt": "2026-11-25T23:37:00+05:30",
+    "estListing": 203,
+    "estProfitPerLot": 780,
+    "updatedAt": "2026-11-26T17:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 12,
-      "last": 18,
-      "change": 6,
-      "range": 9,
-      "upPct": 33.33,
-      "downPct": 16.67,
-      "sessions": 7
+      "last": 10,
+      "change": -2,
+      "range": 11,
+      "upPct": 28.57,
+      "downPct": 28.57,
+      "sessions": 8
     },
     "history": [
       {
@@ -140,8 +148,99 @@
         "estProfitPerLot": 1404,
         "sauda": "1100",
         "updatedAt": "2026-11-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-26",
+        "gmp": 10,
+        "gmpPct": 5.24,
+        "estListing": 201,
+        "estProfitPerLot": 780,
+        "sauda": "600",
+        "sub": 1.1,
+        "updatedAt": "2026-11-26T18:02:00+05:30"
       }
     ]
+  },
+  "subscription": {
+    "total": 1.1,
+    "asOf": "2026-11-26T17:56:00+05:30",
+    "categories": [
+      {
+        "key": "qib",
+        "times": 1,
+        "offered": 5666321,
+        "bid": 5666310,
+        "amountCr": 108.23
+      },
+      {
+        "key": "nii",
+        "times": 0.41,
+        "offered": 2833161,
+        "bid": 1159236,
+        "amountCr": 22.14
+      },
+      {
+        "key": "bNii",
+        "times": 0.34,
+        "offered": 1888774,
+        "bid": 645918,
+        "amountCr": 12.34
+      },
+      {
+        "key": "sNii",
+        "times": 0.54,
+        "offered": 944387,
+        "bid": 513318,
+        "amountCr": 9.8
+      },
+      {
+        "key": "retail",
+        "times": 2.44,
+        "offered": 1888774,
+        "bid": 4603950,
+        "amountCr": 87.94
+      }
+    ],
+    "byDay": [
+      {
+        "date": "2026-11-26",
+        "sub": 1.1,
+        "qib": 1,
+        "nii": 0.41,
+        "retail": 2.44
+      }
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "bNii",
+          "label": "BNIIs",
+          "applied": 108,
+          "reserved": 1730,
+          "times": 0.06
+        },
+        {
+          "key": "sNii",
+          "label": "SNIIs",
+          "applied": 433,
+          "reserved": 865,
+          "times": 0.5
+        },
+        {
+          "key": "retail",
+          "label": "Retail",
+          "applied": 46439,
+          "reserved": 24215,
+          "times": 1.92
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 47010,
+      "asOf": "2026-11-26T17:55:00+05:30"
+    }
+  },
+  "listing": {
+    "nseSymbol": "FOODLINK"
   },
   "registrar": {
     "name": "MUFG Intime India Pvt.Ltd.",
@@ -152,11 +251,11 @@
     "summary": [
       {
         "type": "p",
-        "text": "Foodlink F&B Holdings (India) IPO is a book build issue of ₹360.76 crores. The issue is a combination of fresh issue of 1.01 crore shares aggregating to ₹192.00 crores and offer for sale of 88.35 lakh shares aggregating to ₹168.76 crores."
+        "text": "Foodlink F&B Holdings (India) IPO is a book-built issue of ₹360.76 crores. The issue is a combination of fresh issue of 1.01 crore shares aggregating to ₹192.00 crores and offer for sale of 88.35 lakh shares aggregating to ₹168.76 crores."
       },
       {
         "type": "p",
-        "text": "Foodlink F&B Holdings (India) IPO opens for subscription on Nov 26, 2026 and closes on Nov 30, 2026. The allotment for the Foodlink F&B Holdings (India) IPO is expected to be finalized on Dec 1, 2026. Foodlink F&B Holdings (India) IPO will list on NSE and BSE with a tentative listing date fixed as Dec 3, 2026."
+        "text": "Foodlink F&B Holdings (India) IPO bidding opened for subscription on Nov 26, 2026 and will close on Nov 30, 2026. The allotment for the Foodlink F&B Holdings (India) IPO is expected to be finalized on Dec 1, 2026. Foodlink F&B Holdings (India) IPO will list on NSE and BSE with a tentative listing date fixed as Dec 3, 2026."
       },
       {
         "type": "p",
@@ -427,12 +526,12 @@
   ],
   "documents": {
     "drhp": "https://www.sebi.gov.in/filings/public-issues/jul-2025/foodlink-fandb-holdings-india-limited_94988.html",
-    "rhp": "https://s3.ap-south-1.amazonaws.com/cms.equirus.tech/Foodlink_F_and_B_Holdings_India_Limited_Red_Herring_Prospectus_95e7e3e3b7.pdf",
+    "rhp": "https://www.bseindia.com/corporates/download/357045/IPO%20Open/RedHerringProspectus_20261123155046.pdf",
     "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/foodlink-f-b-holdings-ipo-anchor-allocation-letter.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-    "updated": "Nov 25th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
+    "updated": "Nov 26th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-26T17:02:00+05:30"
   }
 }

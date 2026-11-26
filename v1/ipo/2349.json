@@ -7,7 +7,7 @@
   "category": "SME",
   "exchange": "NSE SME",
   "status": "open",
-  "rating": 3,
+  "rating": 1,
   "sector": "Sugar",
   "issue": {
     "type": "Book Build Issue",
@@ -63,22 +63,22 @@
     "listing": "2026-12-02"
   },
   "gmp": {
-    "current": 25,
-    "pct": 17.61,
-    "low": 10,
+    "current": 6,
+    "pct": 4.23,
+    "low": 6,
     "high": 25,
-    "estListing": 167,
-    "estProfitPerLot": 25000,
-    "updatedAt": "2026-11-25T23:37:00+05:30",
+    "estListing": 148,
+    "estProfitPerLot": 4000,
+    "updatedAt": "2026-11-26T17:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 10,
-      "last": 25,
-      "change": 15,
-      "range": 15,
-      "upPct": 100,
-      "downPct": 0,
-      "sessions": 3
+      "last": 4,
+      "change": -6,
+      "range": 21,
+      "upPct": 66.67,
+      "downPct": 33.33,
+      "sessions": 4
     },
     "history": [
       {
@@ -108,12 +108,22 @@
         "sauda": "19000",
         "sub": 0.41,
         "updatedAt": "2026-11-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-26",
+        "gmp": 4,
+        "gmpPct": 2.82,
+        "estListing": 146,
+        "estProfitPerLot": 4000,
+        "sauda": "3000",
+        "sub": 1.27,
+        "updatedAt": "2026-11-26T18:02:00+05:30"
       }
     ]
   },
   "subscription": {
-    "total": 0.41,
-    "asOf": "2026-11-25T17:56:00+05:30",
+    "total": 1.27,
+    "asOf": "2026-11-26T17:56:00+05:30",
     "categories": [
       {
         "key": "qib",
@@ -124,31 +134,31 @@
       },
       {
         "key": "nii",
-        "times": 0.51,
+        "times": 0.83,
         "offered": 3100000,
-        "bid": 1579000,
-        "amountCr": 22.42
+        "bid": 2573000,
+        "amountCr": 36.54
       },
       {
         "key": "bNii",
-        "times": 0.73,
+        "times": 1.01,
         "offered": 2067000,
-        "bid": 1514000,
-        "amountCr": 21.5
+        "bid": 2096000,
+        "amountCr": 29.76
       },
       {
         "key": "sNii",
-        "times": 0.06,
+        "times": 0.46,
         "offered": 1033000,
-        "bid": 65000,
-        "amountCr": 0.92
+        "bid": 477000,
+        "amountCr": 6.77
       },
       {
         "key": "retail",
-        "times": 0.23,
+        "times": 1.64,
         "offered": 3100000,
-        "bid": 704000,
-        "amountCr": 10
+        "bid": 5084000,
+        "amountCr": 72.19
       }
     ],
     "byDay": [
@@ -158,6 +168,13 @@
         "qib": 4.27,
         "nii": 0.51,
         "retail": 0.23
+      },
+      {
+        "date": "2026-11-26",
+        "sub": 1.27,
+        "qib": 4.27,
+        "nii": 0.83,
+        "retail": 1.64
       }
     ],
     "applications": {
@@ -165,28 +182,28 @@
         {
           "key": "bNii",
           "label": "BNIIs",
-          "applied": 8,
+          "applied": 81,
           "reserved": 689,
-          "times": 0.01
+          "times": 0.12
         },
         {
           "key": "sNii",
           "label": "SNIIs",
-          "applied": 20,
+          "applied": 141,
           "reserved": 344,
-          "times": 0.06
+          "times": 0.41
         },
         {
           "key": "retail",
           "label": "Individual",
-          "applied": 352,
+          "applied": 2544,
           "reserved": 1550,
-          "times": 0.23
+          "times": 1.64
         }
       ],
       "source": "ipoji.com",
-      "total": 381,
-      "asOf": "2026-11-25T17:55:00+05:30"
+      "total": 2767,
+      "asOf": "2026-11-26T17:55:00+05:30"
     }
   },
   "listing": {
@@ -505,7 +522,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-    "updated": "Nov 25th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
+    "updated": "Nov 26th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-26T17:02:00+05:30"
   }
 }

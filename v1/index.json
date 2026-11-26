@@ -1,14 +1,28 @@
 {
   "schema": 1,
   "source": "investorgain.com",
-  "updatedAt": "2026-11-25T23:37:00+05:30",
+  "updatedAt": "2026-11-26T17:02:00+05:30",
   "statusDate": "2026-11-26",
   "counts": {
     "live": 2,
-    "upcoming": 5,
-    "closed": 18
+    "upcoming": 6,
+    "closed": 17
   },
   "ipos": [
+    {
+      "id": 2340,
+      "name": "Swara Baby Products",
+      "category": "MAINBOARD",
+      "exchange": "Mainboard",
+      "status": "upcoming",
+      "rating": 1,
+      "gmpLow": 0,
+      "gmpHigh": 0,
+      "sizeCr": 1000,
+      "anchor": true,
+      "gmpUpdatedAt": "2026-11-26T17:00:00+05:30",
+      "hasDetail": true
+    },
     {
       "id": 2029,
       "name": "Integris Medtech",
@@ -19,7 +33,7 @@
       "gmpLow": 0,
       "gmpHigh": 0,
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T05:55:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T05:55:00+05:30",
       "hasDetail": true
     },
     {
@@ -30,11 +44,11 @@
       "status": "upcoming",
       "rating": 4,
       "price": 65,
-      "gmp": 21,
-      "gmpPct": 32.31,
+      "gmp": 24,
+      "gmpPct": 36.92,
       "gmpLow": 21,
-      "gmpHigh": 23,
-      "estListing": 86,
+      "gmpHigh": 24,
+      "estListing": 89,
       "sizeCr": 175.5,
       "lot": 225,
       "pe": 17.33,
@@ -43,7 +57,7 @@
       "boa": "2026-12-07",
       "listing": "2026-12-09",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -67,7 +81,7 @@
       "boa": "2026-12-04",
       "listing": "2026-12-08",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -91,7 +105,7 @@
       "boa": "2026-12-04",
       "listing": "2026-12-08",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -102,11 +116,11 @@
       "status": "upcoming",
       "rating": 1,
       "price": 99,
-      "gmp": 4,
-      "gmpPct": 4.04,
-      "gmpLow": 4,
+      "gmp": 3,
+      "gmpPct": 3.03,
+      "gmpLow": 3,
       "gmpHigh": 4,
-      "estListing": 103,
+      "estListing": 102,
       "sizeCr": 35.64,
       "lot": 1200,
       "pe": 15.59,
@@ -115,7 +129,7 @@
       "boa": "2026-12-02",
       "listing": "2026-12-04",
       "anchor": false,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -126,11 +140,12 @@
       "status": "open",
       "rating": 2,
       "price": 191,
-      "gmp": 18,
-      "gmpPct": 9.42,
+      "gmp": 12,
+      "gmpPct": 6.28,
       "gmpLow": 12,
       "gmpHigh": 21,
-      "estListing": 209,
+      "estListing": 203,
+      "sub": 1.09,
       "sizeCr": 360.76,
       "lot": 78,
       "pe": 34.29,
@@ -139,7 +154,7 @@
       "boa": "2026-12-01",
       "listing": "2026-12-03",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -148,14 +163,14 @@
       "category": "SME",
       "exchange": "NSE SME",
       "status": "open",
-      "rating": 3,
+      "rating": 1,
       "price": 142,
-      "gmp": 25,
-      "gmpPct": 17.61,
-      "gmpLow": 10,
+      "gmp": 6,
+      "gmpPct": 4.23,
+      "gmpLow": 6,
       "gmpHigh": 25,
-      "estListing": 167,
-      "sub": 0.41,
+      "estListing": 148,
+      "sub": 1.26,
       "sizeCr": 93.66,
       "lot": 1000,
       "pe": 15.01,
@@ -164,7 +179,7 @@
       "boa": "2026-11-30",
       "listing": "2026-12-02",
       "anchor": false,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -175,11 +190,11 @@
       "status": "allotted",
       "rating": 2,
       "price": 245,
-      "gmp": 22,
-      "gmpPct": 8.98,
+      "gmp": 19,
+      "gmpPct": 7.76,
       "gmpLow": 16,
       "gmpHigh": 67,
-      "estListing": 267,
+      "estListing": 264,
       "sub": 150.48,
       "sizeCr": 120.1,
       "lot": 600,
@@ -189,7 +204,7 @@
       "boa": "2026-11-25",
       "listing": "2026-11-27",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -200,8 +215,11 @@
       "status": "allotted",
       "rating": 1,
       "price": 136,
-      "gmpLow": 0,
+      "gmp": 0.5,
+      "gmpPct": 0.37,
+      "gmpLow": 0.5,
       "gmpHigh": 9.25,
+      "estListing": 136.5,
       "sub": 1.52,
       "sizeCr": 8981.12,
       "lot": 110,
@@ -211,7 +229,7 @@
       "boa": "2026-11-25",
       "listing": "2026-11-27",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "gmpUpdatedAt": "2026-11-26T17:02:00+05:30",
       "hasDetail": true
     },
     {
@@ -228,7 +246,7 @@
       "gmpHigh": 40,
       "estListing": 289,
       "sub": 17.68,
-      "sizeCr": 455.49,
+      "sizeCr": 455.72,
       "lot": 55,
       "pe": 28.19,
       "open": "2026-11-18",
@@ -236,7 +254,9 @@
       "boa": "2026-11-23",
       "listing": "2026-11-26",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-25T23:37:00+05:30",
+      "listingPrice": 278,
+      "listingGainPct": 2.21,
+      "gmpUpdatedAt": "2026-11-26T09:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -606,30 +626,6 @@
       "listingPrice": 1675.5,
       "listingGainPct": 0.63,
       "gmpUpdatedAt": "2026-11-02T09:37:00+05:30",
-      "hasDetail": true
-    },
-    {
-      "id": 2229,
-      "name": "Core4 Engineers",
-      "category": "SME",
-      "exchange": "BSE SME",
-      "status": "listed",
-      "rating": 1,
-      "price": 93,
-      "gmpLow": 0,
-      "gmpHigh": 0,
-      "sub": 5.44,
-      "sizeCr": 54.82,
-      "lot": 1200,
-      "pe": 11.12,
-      "open": "2026-10-23",
-      "close": "2026-10-27",
-      "boa": "2026-10-28",
-      "listing": "2026-10-30",
-      "anchor": true,
-      "listingPrice": 74.4,
-      "listingGainPct": -20,
-      "gmpUpdatedAt": "2026-10-30T09:28:00+05:30",
       "hasDetail": true
     }
   ]

@@ -13,12 +13,13 @@
     "type": "Book Build Issue",
     "priceLow": 259,
     "priceHigh": 272,
+    "finalPrice": 272,
     "faceValue": 10,
     "lot": 55,
-    "sizeCr": 455.49,
-    "freshCr": 354.77,
+    "sizeCr": 455.72,
+    "freshCr": 355,
     "ofsCr": 100.71,
-    "totalShares": 16754274,
+    "totalShares": 16763577,
     "marketCapCr": 4438.18,
     "peIssue": 28.19,
     "pePostIssue": 8.17,
@@ -53,13 +54,13 @@
     }
   },
   "reservation": {
-    "qib": 3332473,
+    "qib": 3332472,
     "anchor": 4998708,
-    "nii": 2499354,
+    "nii": 2499355,
     "sNii": 833118,
-    "bNii": 1666236,
-    "retail": 5831827,
-    "employee": 101215
+    "bNii": 1666237,
+    "retail": 5831828,
+    "employee": 101214
   },
   "dates": {
     "anchorBid": "2026-11-17",
@@ -69,8 +70,8 @@
     "refund": "2026-11-25",
     "dematCredit": "2026-11-25",
     "listing": "2026-11-26",
-    "anchorLockIn50": "2026-12-23",
-    "anchorLockInRest": "2027-02-21"
+    "anchorLockIn50": "2026-12-22",
+    "anchorLockInRest": "2027-02-20"
   },
   "gmp": {
     "current": 17,
@@ -79,16 +80,16 @@
     "high": 40,
     "estListing": 289,
     "estProfitPerLot": 935,
-    "updatedAt": "2026-11-25T23:37:00+05:30",
+    "updatedAt": "2026-11-26T09:37:00+05:30",
     "trend": {
-      "direction": "Downward",
+      "direction": "Stable",
       "first": 40,
       "last": 17,
       "change": -23,
       "range": 27,
-      "upPct": 16.67,
-      "downPct": 58.33,
-      "sessions": 13
+      "upPct": 15.38,
+      "downPct": 53.85,
+      "sessions": 14
     },
     "history": [
       {
@@ -210,6 +211,15 @@
         "estProfitPerLot": 935,
         "sauda": "700",
         "updatedAt": "2026-11-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-26",
+        "gmp": 17,
+        "gmpPct": 6.25,
+        "estListing": 289,
+        "estProfitPerLot": 935,
+        "sauda": "700",
+        "updatedAt": "2026-11-26T09:37:00+05:30"
       }
     ]
   },
@@ -318,6 +328,8 @@
     }
   },
   "listing": {
+    "price": 278,
+    "gainPct": 2.21,
     "nseSymbol": "CRYSTALCP",
     "isin": "INE101P01016"
   },
@@ -331,19 +343,19 @@
     "summary": [
       {
         "type": "p",
-        "text": "Crystal Crop Protection IPO is a book-built issue of ₹455.49 crores. The issue is a combination of fresh issue of 1.31 crore shares aggregating to ₹354.77 crores and offer for sale of 37.03 lakh shares aggregating to ₹100.71 crores."
+        "text": "Crystal Crop Protection IPO is a book-built issue of ₹455.72 crores. The issue is a combination of fresh issue of 1.31 crore shares aggregating to ₹355.06 crores and offer for sale of 37.03 lakh shares aggregating to ₹100.66 crores."
       },
       {
         "type": "p",
-        "text": "Crystal Crop Protection IPO bidding started from Nov 18, 2026 and ended on Nov 20, 2026. The allotment for Crystal Crop Protection IPO was finalized on Nov 23, 2026. Crystal Crop Protection IPO will list on NSE and BSE with a tentative listing date fixed as Nov 26, 2026."
+        "text": "Crystal Crop Protection IPO bidding started from Nov 18, 2026 and ended on Nov 20, 2026. The allotment for Crystal Crop Protection IPO was finalized on Nov 23, 2026. The shares got listed on NSE and BSE on Nov 26, 2026."
       },
       {
         "type": "p",
-        "text": "Crystal Crop Protection IPO is set issue price band at ₹259 to ₹272 per share. The lot size for an application is 55 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,960 (55 shares) (based on upper price)."
+        "text": "Crystal Crop Protection IPO is set final issue price at ₹272 per share. The lot size for an application is 55 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,960 (55 shares) (based on upper price)."
       },
       {
         "type": "p",
-        "text": "The issue includes a reservation of up to 1,01,215 shares for employees offered at a discount of ₹25.00 to the issue price."
+        "text": "The issue includes a reservation of up to 1,01,214 shares for employees offered at a discount of ₹25.00 to the issue price."
       },
       {
         "type": "p",
@@ -452,7 +464,7 @@
     ],
     "promoters": "Nand Kishore Aggarwal, Ankur Aggarwal, Komal Aggarwal, Ankur Aggarwal KNK Family Trust",
     "promoterHoldingPre": 84.92,
-    "promoterHoldingPost": 75.85,
+    "promoterHoldingPost": 75.84,
     "address": "206, 2nd Floor, Span Trade  Centre Opp. Kochrab,, Gandhi  Ashram, Near Paldi Char  Rasta,, Ashram Road   Ellisbridge,, Ahmedabad, Gujarat",
     "phone": "11 49007100",
     "email": "investor@crystalcrop.com",
@@ -578,11 +590,16 @@
       "amountCr": 22.06
     },
     {
-      "text": "Funding inorganic growth through unidentified acquisitions and strategic initiatives and general corporate purposes"
+      "text": "Funding inorganic growth through unidentified acquisitions and strategic initiatives and general corporate purposes",
+      "amountCr": 51.14
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 42.7
     },
     {
       "text": "Total",
-      "amountCr": 270
+      "amountCr": 363.83
     }
   ],
   "peers": {
@@ -667,7 +684,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/crystal-crop-protection-ipo/2067/",
-    "updated": "Nov 25th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
+    "updated": "Nov 26th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-26T09:37:00+05:30"
   }
 }

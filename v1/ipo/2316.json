@@ -61,22 +61,22 @@
     "listing": "2026-12-04"
   },
   "gmp": {
-    "current": 4,
-    "pct": 4.04,
-    "low": 4,
+    "current": 3,
+    "pct": 3.03,
+    "low": 3,
     "high": 4,
-    "estListing": 103,
-    "estProfitPerLot": 4800,
-    "updatedAt": "2026-11-25T23:37:00+05:30",
+    "estListing": 102,
+    "estProfitPerLot": 3600,
+    "updatedAt": "2026-11-26T17:02:00+05:30",
     "trend": {
-      "direction": "Initial",
+      "direction": "Stable",
       "first": 4,
-      "last": 4,
-      "change": 0,
-      "range": 0,
+      "last": 3,
+      "change": -1,
+      "range": 1,
       "upPct": 0,
-      "downPct": 0,
-      "sessions": 1
+      "downPct": 100,
+      "sessions": 2
     },
     "history": [
       {
@@ -87,6 +87,15 @@
         "estProfitPerLot": 4800,
         "sauda": "3600",
         "updatedAt": "2026-11-25T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-26",
+        "gmp": 3,
+        "gmpPct": 3.03,
+        "estListing": 102,
+        "estProfitPerLot": 3600,
+        "sauda": "2700",
+        "updatedAt": "2026-11-26T18:02:00+05:30"
       }
     ]
   },
@@ -429,7 +438,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
-    "updated": "Nov 25th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-25T23:37:00+05:30"
+    "updated": "Nov 26th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-26T17:02:00+05:30"
   }
 }

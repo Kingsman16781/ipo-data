@@ -1,0 +1,225 @@
+{
+  "schema": 1,
+  "parser": 4,
+  "id": 2340,
+  "name": "Swara Baby Products",
+  "companyName": "Swara Baby Products Ltd.",
+  "category": "MAINBOARD",
+  "exchange": "Mainboard",
+  "status": "upcoming",
+  "rating": 1,
+  "sector": "Personal Care",
+  "issue": {
+    "type": "Book Build Issue",
+    "faceValue": 2,
+    "sizeCr": 1000,
+    "freshCr": 500,
+    "ofsCr": 500,
+    "eps": 4.24
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "updatedAt": "2026-11-26T17:00:00+05:30",
+    "history": [
+      {
+        "date": "2026-11-26",
+        "gmp": 0,
+        "updatedAt": "2026-11-26T17:00:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "email": "swarababy.ipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Swara Baby Products IPO is a book-built issue of ₹1,000.00 crores. The issue is a combination of fresh issue of ₹500.00 crores and offer for sale of ₹500.00 crores.\\"
+      },
+      {
+        "type": "p",
+        "text": "Swara Baby Products IPO dates are yet to be announced."
+      },
+      {
+        "type": "p",
+        "text": "Swara Baby Products IPO is set issue price band at [.] to [.] per share."
+      },
+      {
+        "type": "p",
+        "text": "JM Financial Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Swara Baby Products IPO DRHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated in November 2016, Swara Baby Products Limited is a specialized contract manufacturer of disposable consumer hygiene products, offering a diversified portfolio across baby care, adult incontinence, and feminine hygiene categories. The company manufactures baby pant and tape-style diapers, adult diapers, sanitary napkins, panty liners, and related hygiene products for leading brands, while also marketing its own consumer brands, \"Cuddles\" (baby diapers) and \"Shields\" (adult diapers) through online and modern retail channels."
+      },
+      {
+        "type": "p",
+        "text": "According to the TKC Report, Swara Baby Products was the largest contract manufacturer in India's hygiene manufacturing industry by value in Fiscal 2025, holding a 37% market share in baby diaper contract manufacturing and a 36% market share in adult diaper contract manufacturing. The company combines large-scale manufacturing capabilities with centralized R&D, quality assurance, and an efficient supply chain to deliver customized hygiene solutions. It further strengthened its product portfolio by entering the feminine hygiene segment through the acquisition of KAEHPL in December 2025."
+      },
+      {
+        "type": "p",
+        "text": "The company operates strategically located manufacturing facilities supported by strong research, quality control, and an integrated supply chain."
+      },
+      {
+        "type": "p",
+        "text": "As of March 31, 2026, Swara Baby Products employed 775 permanent personnel across production, quality, supply chain, finance, administration, HR, and IT functions."
+      },
+      {
+        "type": "p",
+        "text": "Strengths"
+      },
+      {
+        "type": "li",
+        "text": "India's largest contract manufacturer of disposable hygiene products in Fiscal 2025."
+      },
+      {
+        "type": "li",
+        "text": "Diversified product portfolio across baby care, adult incontinence, and feminine hygiene."
+      },
+      {
+        "type": "li",
+        "text": "Strong R&D capabilities with large-scale, quality-focused manufacturing infrastructure."
+      },
+      {
+        "type": "li",
+        "text": "Long-standing customer relationships supported by customized product development."
+      },
+      {
+        "type": "li",
+        "text": "Efficient supply chain, ESG-focused operations, and experienced promoters and management team."
+      }
+    ],
+    "promoters": "Alok Birla, Sangita Birla, Udit Alok Birla, Brainbees Solutions Ltd., Anadya Bon Merchari LLP",
+    "promoterHoldingPre": 100,
+    "address": "Plot No. 381 to 388, Sector 3, Industrial Area, Pithampur III, Dhar, Madhya Pradesh",
+    "phone": "731 4038927",
+    "email": "company.secretary@swarababy.com",
+    "website": "https://swarababy.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 20.06,
+      "roce": 16.19,
+      "debtEquity": 0.81,
+      "ronw": 17.28,
+      "patMargin": 8.21,
+      "ebitdaMargin": 16.56,
+      "nav": 22.65
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          1368.2,
+          1002.31,
+          780.15
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          1212.44,
+          959.67,
+          766.61
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          95.59,
+          80.67,
+          93.97
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          192.77,
+          162.72,
+          153.59
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          553.22,
+          399.92,
+          319.36
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          504.58,
+          367.25,
+          286.58
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          443.06,
+          354.82,
+          260.08
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "Part-financing the capital expenditure towards setting up of the Project",
+      "amountCr": 198.21
+    },
+    {
+      "text": "Repayment/pre-payment, in full or part, of certain outstanding borrowings availed by the Company",
+      "amountCr": 100
+    },
+    {
+      "text": "Investment in the wholly-owned Subsidiaries, Solis Hygiene, Swara Hygiene and KAEHPL, for repayment/prepayment, in full or in part, of certain outstanding borrowings availed by them",
+      "amountCr": 27.5
+    },
+    {
+      "text": "Funding inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes"
+    },
+    {
+      "text": "Total",
+      "amountCr": 325.71
+    }
+  ],
+  "documents": {
+    "drhp": "https://nsearchives.nseindia.com/corporate/Registration_02072026083806_DRHP.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
+    "updated": "Nov 26th 2026 05:00 PM",
+    "gmpUpdatedAt": "2026-11-26T17:00:00+05:30"
+  }
+}

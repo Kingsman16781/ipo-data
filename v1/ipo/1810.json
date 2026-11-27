@@ -78,7 +78,7 @@
     "high": 21,
     "estListing": 195,
     "estProfitPerLot": 312,
-    "updatedAt": "2026-11-27T14:02:00+05:30",
+    "updatedAt": "2026-11-27T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 12,
@@ -167,7 +167,7 @@
         "estProfitPerLot": 312,
         "sauda": "200",
         "sub": 1.49,
-        "updatedAt": "2026-11-27T18:02:00+05:30"
+        "updatedAt": "2026-11-27T23:37:00+05:30"
       }
     ]
   },
@@ -548,7 +548,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-    "updated": "Nov 27th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
+    "updated": "Nov 27th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-27T23:37:00+05:30"
   }
 }

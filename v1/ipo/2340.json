@@ -7,7 +7,7 @@
   "category": "MAINBOARD",
   "exchange": "Mainboard",
   "status": "upcoming",
-  "rating": 2,
+  "rating": 1,
   "sector": "Personal Care",
   "issue": {
     "type": "Book Build Issue",
@@ -64,13 +64,13 @@
     "anchorLockInRest": "2027-02-03"
   },
   "gmp": {
-    "current": 7,
-    "pct": 6.31,
-    "low": 7,
-    "high": 7,
-    "estListing": 118,
+    "current": 3,
+    "pct": 2.7,
+    "low": 3,
+    "high": 3,
+    "estListing": 114,
     "estProfitPerLot": 405,
-    "updatedAt": "2026-11-27T14:02:00+05:30",
+    "updatedAt": "2026-11-27T23:37:00+05:30",
     "trend": {
       "direction": "Initial",
       "first": 3,
@@ -89,7 +89,7 @@
         "estListing": 114,
         "estProfitPerLot": 405,
         "sauda": "300",
-        "updatedAt": "2026-11-27T18:02:00+05:30"
+        "updatedAt": "2026-11-27T23:37:00+05:30"
       }
     ]
   },
@@ -356,7 +356,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
-    "updated": "Nov 27th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
+    "updated": "Nov 27th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-27T23:37:00+05:30"
   }
 }

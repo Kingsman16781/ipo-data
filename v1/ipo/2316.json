@@ -67,7 +67,7 @@
     "high": 4,
     "estListing": 102,
     "estProfitPerLot": 3600,
-    "updatedAt": "2026-11-27T14:02:00+05:30",
+    "updatedAt": "2026-11-27T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 4,
@@ -105,7 +105,7 @@
         "estProfitPerLot": 3600,
         "sauda": "2700",
         "sub": 0.8,
-        "updatedAt": "2026-11-27T18:02:00+05:30"
+        "updatedAt": "2026-11-27T23:37:00+05:30"
       }
     ]
   },
@@ -176,7 +176,7 @@
       },
       {
         "type": "p",
-        "text": "Horizon Management Pvt.Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+        "text": "Horizon Management Pvt.Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Choice Equity Broking Pvt.Ltd."
       },
       {
         "type": "p",
@@ -494,7 +494,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
-    "updated": "Nov 27th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
+    "updated": "Nov 27th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-27T23:37:00+05:30"
   }
 }

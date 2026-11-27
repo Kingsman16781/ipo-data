@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "source": "investorgain.com",
-  "updatedAt": "2026-11-27T14:02:00+05:30",
-  "statusDate": "2026-11-27",
+  "updatedAt": "2026-11-27T23:37:00+05:30",
+  "statusDate": "2026-11-28",
   "counts": {
-    "live": 3,
+    "live": 2,
     "upcoming": 6,
-    "closed": 16
+    "closed": 17
   },
   "ipos": [
     {
@@ -40,7 +40,7 @@
       "boa": "2026-12-08",
       "listing": "2026-12-10",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-27T13:56:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:33:00+05:30",
       "hasDetail": true
     },
     {
@@ -64,7 +64,7 @@
       "boa": "2026-12-07",
       "listing": "2026-12-09",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-27T14:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -73,13 +73,13 @@
       "category": "MAINBOARD",
       "exchange": "Mainboard",
       "status": "upcoming",
-      "rating": 2,
+      "rating": 1,
       "price": 111,
-      "gmp": 7,
-      "gmpPct": 6.31,
-      "gmpLow": 7,
-      "gmpHigh": 7,
-      "estListing": 118,
+      "gmp": 3,
+      "gmpPct": 2.7,
+      "gmpLow": 3,
+      "gmpHigh": 3,
+      "estListing": 114,
       "sizeCr": 799.88,
       "lot": 135,
       "pe": 28.39,
@@ -88,7 +88,7 @@
       "boa": "2026-12-07",
       "listing": "2026-12-09",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-27T14:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -112,7 +112,7 @@
       "boa": "2026-12-04",
       "listing": "2026-12-08",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-27T14:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -136,7 +136,7 @@
       "boa": "2026-12-04",
       "listing": "2026-12-08",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-27T14:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -152,7 +152,7 @@
       "gmpLow": 3,
       "gmpHigh": 4,
       "estListing": 102,
-      "sub": 0.55,
+      "sub": 0.8,
       "sizeCr": 35.64,
       "lot": 1200,
       "pe": 15.59,
@@ -161,7 +161,7 @@
       "boa": "2026-12-02",
       "listing": "2026-12-04",
       "anchor": false,
-      "gmpUpdatedAt": "2026-11-27T14:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -177,7 +177,7 @@
       "gmpLow": 4,
       "gmpHigh": 21,
       "estListing": 195,
-      "sub": 1.4,
+      "sub": 1.49,
       "sizeCr": 360.76,
       "lot": 78,
       "pe": 34.29,
@@ -186,7 +186,7 @@
       "boa": "2026-12-01",
       "listing": "2026-12-03",
       "anchor": true,
-      "gmpUpdatedAt": "2026-11-27T14:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:37:00+05:30",
       "hasDetail": true
     },
     {
@@ -194,15 +194,15 @@
       "name": "Shree Siddhivinayak Greentech Industries",
       "category": "SME",
       "exchange": "NSE SME",
-      "status": "open",
+      "status": "closed",
       "rating": 1,
       "price": 142,
-      "gmp": 1.5,
-      "gmpPct": 1.06,
-      "gmpLow": 1.5,
+      "gmp": 1,
+      "gmpPct": 0.7,
+      "gmpLow": 1,
       "gmpHigh": 25,
-      "estListing": 143.5,
-      "sub": 1.61,
+      "estListing": 143,
+      "sub": 1.69,
       "sizeCr": 93.66,
       "lot": 1000,
       "pe": 15.01,
@@ -211,7 +211,7 @@
       "boa": "2026-11-30",
       "listing": "2026-12-02",
       "anchor": false,
-      "gmpUpdatedAt": "2026-11-27T14:02:00+05:30",
+      "gmpUpdatedAt": "2026-11-27T23:37:00+05:30",
       "hasDetail": true
     },
     {

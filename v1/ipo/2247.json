@@ -72,7 +72,7 @@
     "high": 24,
     "estListing": 204,
     "estProfitPerLot": 19200,
-    "updatedAt": "2026-11-27T14:02:00+05:30",
+    "updatedAt": "2026-11-27T23:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 20,
@@ -127,7 +127,7 @@
         "estListing": 204,
         "estProfitPerLot": 19200,
         "sauda": "14600",
-        "updatedAt": "2026-11-27T18:02:00+05:30"
+        "updatedAt": "2026-11-27T23:37:00+05:30"
       }
     ]
   },
@@ -374,7 +374,7 @@
       {
         "label": "Total Borrowing",
         "values": [
-          null,
+          70.69,
           75,
           69.79,
           70.13
@@ -459,7 +459,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/a-j-packaging-ipo/2247/",
-    "updated": "Nov 27th 2026 06:02 PM",
-    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
+    "updated": "Nov 27th 2026 11:37 PM",
+    "gmpUpdatedAt": "2026-11-27T23:37:00+05:30"
   }
 }

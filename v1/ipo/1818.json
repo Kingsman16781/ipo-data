@@ -13,6 +13,7 @@
     "type": "Book Build Issue",
     "priceLow": 232,
     "priceHigh": 245,
+    "finalPrice": 245,
     "faceValue": 10,
     "lot": 600,
     "sizeCr": 120.1,
@@ -73,16 +74,16 @@
     "high": 67,
     "estListing": 268,
     "estProfitPerLot": 13800,
-    "updatedAt": "2026-11-26T23:37:00+05:30",
+    "updatedAt": "2026-11-27T09:37:00+05:30",
     "trend": {
       "direction": "Volatile",
       "first": 16,
       "last": 23,
       "change": 7,
       "range": 51,
-      "upPct": 38.46,
-      "downPct": 30.77,
-      "sessions": 14
+      "upPct": 35.71,
+      "downPct": 28.57,
+      "sessions": 15
     },
     "history": [
       {
@@ -213,6 +214,15 @@
         "estProfitPerLot": 13800,
         "sauda": "10500",
         "updatedAt": "2026-11-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-27",
+        "gmp": 23,
+        "gmpPct": 9.39,
+        "estListing": 268,
+        "estProfitPerLot": 13800,
+        "sauda": "10500",
+        "updatedAt": "2026-11-27T09:37:00+05:30"
       }
     ]
   },
@@ -309,6 +319,8 @@
     }
   },
   "listing": {
+    "price": 243,
+    "gainPct": -0.82,
     "nseSymbol": "WATRANA",
     "isin": "INE11NS01011"
   },
@@ -322,19 +334,19 @@
     "summary": [
       {
         "type": "p",
-        "text": "Watrana Rentals IPO is a book build issue of ₹120.10 crores. The issue is entirely a fresh issue of 49.02 lakh shares of ₹120.10 crore."
+        "text": "Watrana Rentals IPO is a book-built issue of ₹120.10 crores. The issue is entirely a fresh issue of 49.02 lakh shares of ₹120.10 crore."
       },
       {
         "type": "p",
-        "text": "Watrana Rentals IPO opens for subscription on Nov 19, 2026 and closes on Nov 23, 2026. The allotment for the Watrana Rentals IPO is expected to be finalized on Nov 25, 2026. Watrana Rentals IPO will list on the NSE SME with a tentative listing date fixed as Nov 27, 2026."
+        "text": "Watrana Rentals IPO bidding started from Nov 19, 2026 and ended on Nov 23, 2026. The allotment for Watrana Rentals IPO was finalized on Nov 25, 2026. The shares got listed on the NSE SME on Nov 27, 2026."
       },
       {
         "type": "p",
-        "text": "Watrana Rentals IPO is set issue price band at ₹232 to ₹245 per share. The lot size for an application is 600 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,94,000 (1,200 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (1,800 shares), amounting to ₹4,41,000."
+        "text": "Watrana Rentals IPO is set final issue price at ₹245 per share. The lot size for an application is 600 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,94,000 (1,200 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (1,800 shares), amounting to ₹4,41,000."
       },
       {
         "type": "p",
-        "text": "Oneview Corporate Advisors Pvt.ltd. is the book running lead manager and Maashitla Securities Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Basan Equity Broking Ltd."
+        "text": "Oneview Corporate Advisors Pvt.Ltd. is the book running lead manager and Maashitla Securities Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Basan Equity Broking Ltd."
       },
       {
         "type": "p",
@@ -572,11 +584,16 @@
       "amountCr": 98.13
     },
     {
-      "text": "General Corporate Purposes"
+      "text": "General Corporate Purposes",
+      "amountCr": 7.75
+    },
+    {
+      "text": "Issue Expenses",
+      "amountCr": 14.22
     },
     {
       "text": "Total",
-      "amountCr": 98.13
+      "amountCr": 120.1
     }
   ],
   "peers": {
@@ -626,11 +643,12 @@
   "documents": {
     "drhp": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_30062025193837_DRHPWRL.pdf",
     "rhp": "https://nsearchives.nseindia.com/content/ipo/RHP_WATRANA.zip",
+    "prospectus": "https://www.chittorgarh.net/reports/ipo_notes/watrana-rentals-prospectus.pdf",
     "anchorList": "https://www.chittorgarh.net/reports/anchor-investor/company-letter-watrana.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/watrana-rentals-ipo/1818/",
-    "updated": "Nov 26th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-26T23:37:00+05:30"
+    "updated": "Nov 27th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-27T09:37:00+05:30"
   }
 }

@@ -7,25 +7,89 @@
   "category": "MAINBOARD",
   "exchange": "Mainboard",
   "status": "upcoming",
-  "rating": 1,
+  "rating": 2,
   "sector": "Personal Care",
   "issue": {
     "type": "Book Build Issue",
+    "priceLow": 105,
+    "priceHigh": 111,
     "faceValue": 2,
-    "sizeCr": 1000,
-    "freshCr": 500,
-    "ofsCr": 500,
-    "eps": 4.24
+    "lot": 135,
+    "sizeCr": 799.88,
+    "freshCr": 499.88,
+    "ofsCr": 300,
+    "totalShares": 72072072,
+    "marketCapCr": 3211.56,
+    "peIssue": 28.39,
+    "pePostIssue": 48.26,
+    "eps": 3.91,
+    "epsPostIssue": 2.3
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 135,
+      "lots": 1,
+      "amount": 14985
+    },
+    "retailMax": {
+      "shares": 1755,
+      "lots": 13,
+      "amount": 194805
+    },
+    "sHniMin": {
+      "shares": 1890,
+      "lots": 14,
+      "amount": 209790
+    },
+    "sHniMax": {
+      "shares": 8910,
+      "lots": 66,
+      "amount": 989010
+    },
+    "bHniMin": {
+      "shares": 9045,
+      "lots": 67,
+      "amount": 1003995
+    }
+  },
+  "dates": {
+    "anchorBid": "2026-12-01",
+    "open": "2026-12-02",
+    "close": "2026-12-04",
+    "boa": "2026-12-07",
+    "refund": "2026-12-08",
+    "dematCredit": "2026-12-08",
+    "listing": "2026-12-09",
+    "anchorLockIn50": "2026-12-05",
+    "anchorLockInRest": "2027-02-03"
   },
   "gmp": {
-    "low": 0,
-    "high": 0,
-    "updatedAt": "2026-11-26T17:00:00+05:30",
+    "current": 7,
+    "pct": 6.31,
+    "low": 7,
+    "high": 7,
+    "estListing": 118,
+    "estProfitPerLot": 405,
+    "updatedAt": "2026-11-27T14:02:00+05:30",
+    "trend": {
+      "direction": "Initial",
+      "first": 3,
+      "last": 3,
+      "change": 0,
+      "range": 0,
+      "upPct": 0,
+      "downPct": 0,
+      "sessions": 1
+    },
     "history": [
       {
-        "date": "2026-11-26",
-        "gmp": 0,
-        "updatedAt": "2026-11-26T17:00:00+05:30"
+        "date": "2026-11-27",
+        "gmp": 3,
+        "gmpPct": 2.7,
+        "estListing": 114,
+        "estProfitPerLot": 405,
+        "sauda": "300",
+        "updatedAt": "2026-11-27T18:02:00+05:30"
       }
     ]
   },
@@ -38,15 +102,15 @@
     "summary": [
       {
         "type": "p",
-        "text": "Swara Baby Products IPO is a book-built issue of ₹1,000.00 crores. The issue is a combination of fresh issue of ₹500.00 crores and offer for sale of ₹500.00 crores.\\"
+        "text": "Swara Baby Products IPO is a book-built issue of ₹799.88 crores. The issue is a combination of fresh issue of 4.50 crore shares aggregating to ₹499.88 crores and offer for sale of 2.70 crore shares aggregating to ₹300.00 crores."
       },
       {
         "type": "p",
-        "text": "Swara Baby Products IPO dates are yet to be announced."
+        "text": "Swara Baby Products IPO opens for subscription on Dec 2, 2026 and closes on Dec 4, 2026. The allotment for the Swara Baby Products IPO is expected to be finalized on Dec 7, 2026. Swara Baby Products IPO will list on NSE and BSE with a tentative listing date fixed as Dec 9, 2026."
       },
       {
         "type": "p",
-        "text": "Swara Baby Products IPO is set issue price band at [.] to [.] per share."
+        "text": "Swara Baby Products IPO is set issue price band at ₹105 to ₹111 per share. The lot size for an application is 135 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,985 (135 shares) (based on upper price)."
       },
       {
         "type": "p",
@@ -54,7 +118,7 @@
       },
       {
         "type": "p",
-        "text": "Refer to Swara Baby Products IPO DRHP for detailed Information."
+        "text": "Refer to Swara Baby Products IPO RHP for detailed Information."
       }
     ],
     "about": [
@@ -64,19 +128,23 @@
       },
       {
         "type": "p",
-        "text": "According to the TKC Report, Swara Baby Products was the largest contract manufacturer in India's hygiene manufacturing industry by value in Fiscal 2025, holding a 37% market share in baby diaper contract manufacturing and a 36% market share in adult diaper contract manufacturing. The company combines large-scale manufacturing capabilities with centralized R&D, quality assurance, and an efficient supply chain to deliver customized hygiene solutions. It further strengthened its product portfolio by entering the feminine hygiene segment through the acquisition of KAEHPL in December 2025."
+        "text": "Swara Baby Products was the largest contract manufacturer in India's hygiene manufacturing industry by value in Fiscal 2025, holding a 37% market share in baby diaper contract manufacturing and a 36% market share in adult diaper contract manufacturing. The company combines large-scale manufacturing capabilities with centralized R&D, quality assurance, and an efficient supply chain to deliver customized hygiene solutions. It further strengthened its product portfolio by entering the feminine hygiene segment through the acquisition of KAEHPL in December 2025."
       },
       {
         "type": "p",
-        "text": "The company operates strategically located manufacturing facilities supported by strong research, quality control, and an integrated supply chain."
+        "text": "Product Categories: Baby Care, Adult Incontinence and feminine hygiene products."
       },
       {
         "type": "p",
-        "text": "As of March 31, 2026, Swara Baby Products employed 775 permanent personnel across production, quality, supply chain, finance, administration, HR, and IT functions."
+        "text": "The company operate four Manufacturing Facilities at our centralized manufacturing hub in Pithampur, Dhar, Madhya Pradesh, India and Indore, Madhya Pradesh, India, with a total area of more than three million square feetAs of March 31, 2026, Swara Baby Products employed 775 permanent personnel across production, quality, supply chain, finance, administration, HR, and IT functions."
       },
       {
         "type": "p",
-        "text": "Strengths"
+        "text": "As of June 30, 2026, they had 792 permanent employees."
+      },
+      {
+        "type": "h",
+        "text": "Competitive Strengths:"
       },
       {
         "type": "li",
@@ -99,8 +167,55 @@
         "text": "Efficient supply chain, ESG-focused operations, and experienced promoters and management team."
       }
     ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Swara Baby Products is an independent manufacturer of disposable consumer hygiene products, specializing in three key segments: baby care, adult incontinence and feminine hygiene. It focuses on research and development, product innovation and quality, offering a diversified portfolio that includes baby pant-style and tape-style diapers, adult pant-style and tape-style diapers, sanitary napkins, panty liners and other hygiene products."
+      },
+      {
+        "type": "p",
+        "text": "Its business model primarily comprises contract manufacturing for customers, who market and sell the products to end consumers. Additionally, the company manufactures and sells its own branded products, including baby diapers under the “Cuddles” brand and adult diapers under the “Shields” brand, through online commerce platforms and modern retail channels."
+      },
+      {
+        "type": "p",
+        "text": "The company's operations are spread across three major segments of the disposable consumer hygiene industry: baby care, adult incontinence and feminine hygiene. Initially focused on baby care products, it expanded into adult incontinence product manufacturing in Fiscal 2023."
+      },
+      {
+        "type": "p",
+        "text": "It has four Manufacturing Facilities which comprise 20 manufacturing lines that are distributed across 24 acres at Pithampur and Indore, Madhya Pradesh, India."
+      },
+      {
+        "type": "h",
+        "text": "Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Largest contract manufacturer in the large, fast-growing hygiene manufacturing industry"
+      },
+      {
+        "type": "li",
+        "text": "One-stop solution for the manufacturing of disposable consumer hygiene products"
+      },
+      {
+        "type": "li",
+        "text": "Strong and trusted customer relationships developed across years of value addition"
+      },
+      {
+        "type": "li",
+        "text": "High-quality, large-scale manufacturing expertise and centralized R&D capabilities"
+      },
+      {
+        "type": "li",
+        "text": "Centralized, strategically located, production lines supported by an efficient supply chain"
+      },
+      {
+        "type": "li",
+        "text": "Focus on environmental, social and governance initiatives"
+      }
+    ],
     "promoters": "Alok Birla, Sangita Birla, Udit Alok Birla, Brainbees Solutions Ltd., Anadya Bon Merchari LLP",
     "promoterHoldingPre": 100,
+    "promoterHoldingPost": 75.09,
     "address": "Plot No. 381 to 388, Sector 3, Industrial Area, Pithampur III, Dhar, Madhya Pradesh",
     "phone": "731 4038927",
     "email": "company.secretary@swarababy.com",
@@ -109,18 +224,32 @@
   "kpis": [
     {
       "asOf": "2026-03-31",
-      "roe": 20.06,
       "roce": 16.19,
       "debtEquity": 0.81,
       "ronw": 17.28,
       "patMargin": 8.21,
-      "ebitdaMargin": 16.56,
+      "ebitdaMargin": 15.9,
+      "priceToBook": 4.9,
       "nav": 22.65
+    },
+    {
+      "asOf": "2026-06-30",
+      "roce": 2.67,
+      "debtEquity": 0.79,
+      "ronw": 2.91,
+      "patMargin": 5.14,
+      "ebitdaMargin": 12.69,
+      "priceToBook": 4.75,
+      "nav": 23.35
     }
   ],
   "financials": {
     "unit": "₹ Cr",
     "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
       {
         "label": "31 Mar 2026",
         "date": "2026-03-31"
@@ -138,6 +267,7 @@
       {
         "label": "Assets",
         "values": [
+          1437.15,
           1368.2,
           1002.31,
           780.15
@@ -146,6 +276,7 @@
       {
         "label": "Total Income",
         "values": [
+          334.83,
           1212.44,
           959.67,
           766.61
@@ -154,6 +285,7 @@
       {
         "label": "Profit After Tax",
         "values": [
+          16.61,
           95.59,
           80.67,
           93.97
@@ -162,6 +294,7 @@
       {
         "label": "EBITDA",
         "values": [
+          42.5,
           192.77,
           162.72,
           153.59
@@ -170,6 +303,7 @@
       {
         "label": "NET Worth",
         "values": [
+          570.47,
           553.22,
           399.92,
           319.36
@@ -178,6 +312,7 @@
       {
         "label": "Reserves and Surplus",
         "values": [
+          521.62,
           504.58,
           367.25,
           286.58
@@ -186,6 +321,7 @@
       {
         "label": "Total Borrowing",
         "values": [
+          443.84,
           443.06,
           354.82,
           260.08
@@ -215,11 +351,12 @@
     }
   ],
   "documents": {
-    "drhp": "https://nsearchives.nseindia.com/corporate/Registration_02072026083806_DRHP.pdf"
+    "drhp": "https://nsearchives.nseindia.com/corporate/Registration_02072026083806_DRHP.pdf",
+    "rhp": "https://www.swarababy.com/wp-content/uploads/2026/11/Project-Dream-Red-Herring-Prospectus-Filing-Version.pdf"
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
-    "updated": "Nov 26th 2026 05:00 PM",
-    "gmpUpdatedAt": "2026-11-26T17:00:00+05:30"
+    "updated": "Nov 27th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
   }
 }

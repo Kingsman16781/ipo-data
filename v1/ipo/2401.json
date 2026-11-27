@@ -13,9 +13,10 @@
     "type": "Book Build Issue",
     "priceLow": 129,
     "priceHigh": 136,
+    "finalPrice": 136,
     "faceValue": 2,
     "lot": 110,
-    "sizeCr": 8981.12,
+    "sizeCr": 8997.52,
     "ofsCr": 8981.12,
     "totalShares": 661836300,
     "marketCapCr": 90009.74,
@@ -79,7 +80,7 @@
     "high": 9.25,
     "estListing": 136.7,
     "estProfitPerLot": 77,
-    "updatedAt": "2026-11-26T23:37:00+05:30",
+    "updatedAt": "2026-11-27T09:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 9,
@@ -87,8 +88,8 @@
       "change": -9,
       "range": 9,
       "upPct": 0,
-      "downPct": 33.33,
-      "sessions": 13
+      "downPct": 30.77,
+      "sessions": 14
     },
     "history": [
       {
@@ -205,6 +206,15 @@
         "estProfitPerLot": 77,
         "sauda": "100",
         "updatedAt": "2026-11-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-27",
+        "gmp": 0.7,
+        "gmpPct": 0.51,
+        "estListing": 136.7,
+        "estProfitPerLot": 77,
+        "sauda": "100",
+        "updatedAt": "2026-11-27T09:37:00+05:30"
       }
     ]
   },
@@ -325,6 +335,8 @@
     }
   },
   "listing": {
+    "price": 134,
+    "gainPct": -1.47,
     "nseSymbol": "MAHACOAL",
     "isin": "INE03K401026"
   },
@@ -337,15 +349,15 @@
     "summary": [
       {
         "type": "p",
-        "text": "Mahanadi Coalfields IPO is a book-built issue of ₹8,981.12 crores. The issue is entirely an offer for sale of 66.18 crore shares of ₹8,981.12 crore."
+        "text": "Mahanadi Coalfields IPO is a book-built issue of ₹8,997.52 crores. The issue is entirely an offer for sale of 66.18 crore shares of ₹8,997.52 crore."
       },
       {
         "type": "p",
-        "text": "Mahanadi Coalfields IPO bidding started from Nov 19, 2026 and ended on Nov 23, 2026. The allotment for Mahanadi Coalfields IPO was finalized on Nov 25, 2026. Mahanadi Coalfields IPO will list on NSE and BSE with a tentative listing date fixed as Nov 27, 2026."
+        "text": "Mahanadi Coalfields IPO bidding started from Nov 19, 2026 and ended on Nov 23, 2026. The allotment for Mahanadi Coalfields IPO was finalized on Nov 25, 2026. The shares got listed on NSE and BSE on Nov 27, 2026."
       },
       {
         "type": "p",
-        "text": "Mahanadi Coalfields IPO is set issue price band at ₹129 to ₹136 per share. The lot size for an application is 110 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,960 (110 shares) (based on upper price)."
+        "text": "Mahanadi Coalfields IPO is set final issue price at ₹136 per share. The lot size for an application is 110 shares. The minimum amount of investment required by an individual investor (retail) is ₹14,960 (110 shares) (based on upper price)."
       },
       {
         "type": "p",
@@ -643,7 +655,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/mahanadi-coalfields-ipo/2401/",
-    "updated": "Nov 26th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-26T23:37:00+05:30"
+    "updated": "Nov 27th 2026 09:37 AM",
+    "gmpUpdatedAt": "2026-11-27T09:37:00+05:30"
   }
 }

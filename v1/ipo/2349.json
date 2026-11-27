@@ -63,22 +63,22 @@
     "listing": "2026-12-02"
   },
   "gmp": {
-    "current": 2,
-    "pct": 1.41,
-    "low": 2,
+    "current": 1.5,
+    "pct": 1.06,
+    "low": 1.5,
     "high": 25,
-    "estListing": 144,
-    "estProfitPerLot": 2000,
-    "updatedAt": "2026-11-26T23:37:00+05:30",
+    "estListing": 143.5,
+    "estProfitPerLot": 1000,
+    "updatedAt": "2026-11-27T14:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 10,
-      "last": 2,
-      "change": -8,
-      "range": 23,
-      "upPct": 66.67,
-      "downPct": 33.33,
-      "sessions": 4
+      "last": 1,
+      "change": -9,
+      "range": 24,
+      "upPct": 50,
+      "downPct": 50,
+      "sessions": 5
     },
     "history": [
       {
@@ -118,12 +118,22 @@
         "sauda": "1500",
         "sub": 1.27,
         "updatedAt": "2026-11-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-27",
+        "gmp": 1,
+        "gmpPct": 0.7,
+        "estListing": 143,
+        "estProfitPerLot": 1000,
+        "sauda": "800",
+        "sub": 1.69,
+        "updatedAt": "2026-11-27T18:02:00+05:30"
       }
     ]
   },
   "subscription": {
-    "total": 1.27,
-    "asOf": "2026-11-26T17:56:00+05:30",
+    "total": 1.69,
+    "asOf": "2026-11-27T17:56:00+05:30",
     "categories": [
       {
         "key": "qib",
@@ -134,31 +144,31 @@
       },
       {
         "key": "nii",
-        "times": 0.83,
+        "times": 0.97,
         "offered": 3100000,
-        "bid": 2573000,
-        "amountCr": 36.54
+        "bid": 2995000,
+        "amountCr": 42.53
       },
       {
         "key": "bNii",
-        "times": 1.01,
+        "times": 1.11,
         "offered": 2067000,
-        "bid": 2096000,
-        "amountCr": 29.76
+        "bid": 2286000,
+        "amountCr": 32.46
       },
       {
         "key": "sNii",
-        "times": 0.46,
+        "times": 0.69,
         "offered": 1033000,
-        "bid": 477000,
-        "amountCr": 6.77
+        "bid": 709000,
+        "amountCr": 10.07
       },
       {
         "key": "retail",
-        "times": 1.64,
+        "times": 2.35,
         "offered": 3100000,
-        "bid": 5084000,
-        "amountCr": 72.19
+        "bid": 7300000,
+        "amountCr": 103.66
       }
     ],
     "byDay": [
@@ -175,6 +185,13 @@
         "qib": 4.27,
         "nii": 0.83,
         "retail": 1.64
+      },
+      {
+        "date": "2026-11-27",
+        "sub": 1.69,
+        "qib": 4.27,
+        "nii": 0.97,
+        "retail": 2.35
       }
     ],
     "applications": {
@@ -182,28 +199,28 @@
         {
           "key": "bNii",
           "label": "BNIIs",
-          "applied": 81,
+          "applied": 102,
           "reserved": 689,
-          "times": 0.12
+          "times": 0.15
         },
         {
           "key": "sNii",
           "label": "SNIIs",
-          "applied": 141,
+          "applied": 210,
           "reserved": 344,
-          "times": 0.41
+          "times": 0.61
         },
         {
           "key": "retail",
           "label": "Individual",
-          "applied": 2544,
+          "applied": 3650,
           "reserved": 1550,
-          "times": 1.64
+          "times": 2.35
         }
       ],
       "source": "ipoji.com",
-      "total": 2767,
-      "asOf": "2026-11-26T17:55:00+05:30"
+      "total": 3963,
+      "asOf": "2026-11-27T17:57:00+05:30"
     }
   },
   "listing": {
@@ -222,7 +239,7 @@
       },
       {
         "type": "p",
-        "text": "Shree Siddhivinayak Greentech Industries IPO bidding opened for subscription on Nov 25, 2026 and will close on Nov 27, 2026. The allotment for the Shree Siddhivinayak Greentech Industries IPO is expected to be finalized on Nov 30, 2026. Shree Siddhivinayak Greentech Industries IPO will list on the NSE SME with a tentative listing date fixed as Dec 2, 2026."
+        "text": "Shree Siddhivinayak Greentech Industries IPO opens for subscription on Nov 25, 2026 and closes on Nov 27, 2026. The allotment for the Shree Siddhivinayak Greentech Industries IPO is expected to be finalized on Nov 30, 2026. Shree Siddhivinayak Greentech Industries IPO will list on the NSE SME with a tentative listing date fixed as Dec 2, 2026."
       },
       {
         "type": "p",
@@ -230,7 +247,7 @@
       },
       {
         "type": "p",
-        "text": "ERUDORE CAPITAL Pvt.Ltd. is the book running lead manager and MAS Services Ltd. is the registrar of the issue. The Market Maker of the company is Basan Equity Broking Ltd."
+        "text": "Erudore Capital Pvt.Ltd. is the book running lead manager and MAS Services Ltd. is the registrar of the issue. The Market Maker of the company is Basan Equity Broking Ltd."
       },
       {
         "type": "p",
@@ -522,7 +539,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/shree-siddhivinayak-greentech-industries-ipo/2349/",
-    "updated": "Nov 26th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-26T23:37:00+05:30"
+    "updated": "Nov 27th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
   }
 }

@@ -67,7 +67,7 @@
     "high": 4,
     "estListing": 102,
     "estProfitPerLot": 3600,
-    "updatedAt": "2026-11-26T23:37:00+05:30",
+    "updatedAt": "2026-11-27T14:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 4,
@@ -75,8 +75,8 @@
       "change": -1,
       "range": 1,
       "upPct": 0,
-      "downPct": 100,
-      "sessions": 2
+      "downPct": 50,
+      "sessions": 3
     },
     "history": [
       {
@@ -96,8 +96,64 @@
         "estProfitPerLot": 3600,
         "sauda": "2700",
         "updatedAt": "2026-11-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-27",
+        "gmp": 3,
+        "gmpPct": 3.03,
+        "estListing": 102,
+        "estProfitPerLot": 3600,
+        "sauda": "2700",
+        "sub": 0.8,
+        "updatedAt": "2026-11-27T18:02:00+05:30"
       }
     ]
+  },
+  "subscription": {
+    "total": 0.8,
+    "asOf": "2026-11-27T17:56:00+05:30",
+    "categories": [
+      {
+        "key": "nii",
+        "times": 0.59,
+        "offered": 1711200,
+        "bid": 1015200,
+        "amountCr": 10.05
+      },
+      {
+        "key": "retail",
+        "times": 1,
+        "offered": 1708800,
+        "bid": 1706400,
+        "amountCr": 16.89
+      }
+    ],
+    "byDay": [
+      {
+        "date": "2026-11-27",
+        "sub": 0.8,
+        "qib": 0,
+        "nii": 0.59,
+        "retail": 1
+      }
+    ],
+    "applications": {
+      "rows": [
+        {
+          "key": "retail",
+          "label": "Individual",
+          "applied": 711,
+          "reserved": 712,
+          "times": 1.0
+        }
+      ],
+      "source": "ipoji.com",
+      "total": 952,
+      "asOf": "2026-11-27T17:55:00+05:30"
+    }
+  },
+  "listing": {
+    "nseSymbol": "AIRPRO"
   },
   "registrar": {
     "name": "MUFG Intime India Pvt.Ltd.",
@@ -112,7 +168,7 @@
       },
       {
         "type": "p",
-        "text": "Airpro Technology India IPO opens for subscription on Nov 27, 2026 and closes on Dec 1, 2026. The allotment for the Airpro Technology India IPO is expected to be finalized on Dec 2, 2026. Airpro Technology India IPO will list on the NSE SME with a tentative listing date fixed as Dec 4, 2026."
+        "text": "Airpro Technology India IPO bidding opened for subscription on Nov 27, 2026 and will close on Dec 1, 2026. The allotment for the Airpro Technology India IPO is expected to be finalized on Dec 2, 2026. Airpro Technology India IPO will list on the NSE SME with a tentative listing date fixed as Dec 4, 2026."
       },
       {
         "type": "p",
@@ -120,7 +176,7 @@
       },
       {
         "type": "p",
-        "text": "Horizon Management Pvt.ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
+        "text": "Horizon Management Pvt.Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue."
       },
       {
         "type": "p",
@@ -438,7 +494,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/airpro-technology-ipo/2316/",
-    "updated": "Nov 26th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-26T23:37:00+05:30"
+    "updated": "Nov 27th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
   }
 }

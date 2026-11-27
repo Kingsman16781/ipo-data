@@ -20,9 +20,9 @@
     "totalShares": 27000000,
     "marketCapCr": 624.27,
     "peIssue": 17.33,
-    "pePostIssue": 51.59,
+    "pePostIssue": 24.07,
     "eps": 3.75,
-    "epsPostIssue": 1.26
+    "epsPostIssue": 2.7
   },
   "lotTiers": {
     "retailMin": {
@@ -63,22 +63,22 @@
     "anchorLockInRest": "2027-03-07"
   },
   "gmp": {
-    "current": 24,
-    "pct": 36.92,
-    "low": 21,
+    "current": 20,
+    "pct": 30.77,
+    "low": 20,
     "high": 24,
-    "estListing": 89,
-    "estProfitPerLot": 5400,
-    "updatedAt": "2026-11-26T23:37:00+05:30",
+    "estListing": 85,
+    "estProfitPerLot": 4500,
+    "updatedAt": "2026-11-27T14:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 23,
-      "last": 24,
-      "change": 1,
-      "range": 3,
-      "upPct": 25,
-      "downPct": 25,
-      "sessions": 5
+      "last": 20,
+      "change": -3,
+      "range": 4,
+      "upPct": 20,
+      "downPct": 40,
+      "sessions": 6
     },
     "history": [
       {
@@ -122,6 +122,15 @@
         "estProfitPerLot": 5400,
         "sauda": "4100",
         "updatedAt": "2026-11-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-27",
+        "gmp": 20,
+        "gmpPct": 30.77,
+        "estListing": 85,
+        "estProfitPerLot": 4500,
+        "sauda": "3400",
+        "updatedAt": "2026-11-27T18:02:00+05:30"
       }
     ]
   },
@@ -262,10 +271,6 @@
     "unit": "₹ Cr",
     "periods": [
       {
-        "label": "30 Jun 2026",
-        "date": "2026-06-30"
-      },
-      {
         "label": "31 Mar 2026",
         "date": "2026-03-31"
       },
@@ -282,7 +287,6 @@
       {
         "label": "Assets",
         "values": [
-          349.3,
           342.19,
           293.52,
           240.81
@@ -291,7 +295,6 @@
       {
         "label": "Total Income",
         "values": [
-          142.82,
           564.74,
           477.29,
           392.14
@@ -300,7 +303,6 @@
       {
         "label": "Profit After Tax",
         "values": [
-          3.02,
           25.9,
           18.21,
           14.83
@@ -309,7 +311,6 @@
       {
         "label": "EBITDA",
         "values": [
-          7.7,
           48.74,
           39.26,
           31.89
@@ -318,7 +319,6 @@
       {
         "label": "NET Worth",
         "values": [
-          119.32,
           116.74,
           73.26,
           60.11
@@ -327,7 +327,6 @@
       {
         "label": "Total Borrowing",
         "values": [
-          92.12,
           87.34,
           84.77,
           80.16
@@ -412,7 +411,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-    "updated": "Nov 26th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-26T23:37:00+05:30"
+    "updated": "Nov 27th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
   }
 }

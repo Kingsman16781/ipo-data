@@ -64,22 +64,22 @@
     "anchorLockInRest": "2027-03-04"
   },
   "gmp": {
-    "current": 27,
-    "pct": 15.7,
+    "current": 31,
+    "pct": 18.02,
     "low": 21.5,
-    "high": 27,
-    "estListing": 199,
-    "estProfitPerLot": 2349,
-    "updatedAt": "2026-11-26T23:37:00+05:30",
+    "high": 31,
+    "estListing": 203,
+    "estProfitPerLot": 2697,
+    "updatedAt": "2026-11-27T14:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 21,
-      "last": 27,
-      "change": 6,
-      "range": 6,
-      "upPct": 33.33,
+      "last": 31,
+      "change": 10,
+      "range": 10,
+      "upPct": 50,
       "downPct": 0,
-      "sessions": 4
+      "sessions": 5
     },
     "history": [
       {
@@ -117,6 +117,15 @@
         "estProfitPerLot": 2349,
         "sauda": "1800",
         "updatedAt": "2026-11-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-27",
+        "gmp": 31,
+        "gmpPct": 18.02,
+        "estListing": 203,
+        "estProfitPerLot": 2697,
+        "sauda": "2000",
+        "updatedAt": "2026-11-27T18:02:00+05:30"
       }
     ]
   },
@@ -129,7 +138,7 @@
     "summary": [
       {
         "type": "p",
-        "text": "Matangi Rubber IPO is a book build issue of ₹125.16 crores. The issue is a combination of fresh issue of 57.62 lakh shares aggregating to ₹99.10 crores and offer for sale of 15.15 lakh shares aggregating to ₹26.06 crores."
+        "text": "Matangi Rubber IPO is a book-built issue of ₹125.16 crores. The issue is a combination of fresh issue of 57.62 lakh shares aggregating to ₹99.10 crores and offer for sale of 15.15 lakh shares aggregating to ₹26.06 crores."
       },
       {
         "type": "p",
@@ -141,7 +150,7 @@
       },
       {
         "type": "p",
-        "text": "Sarthi Capital Advisors Pvt.ltd. is the book running lead manager and Bigshare Services Pvt.Ltd. is the registrar of the issue."
+        "text": "Sarthi Capital Advisors Pvt.Ltd. is the book running lead manager and Bigshare Services Pvt.Ltd. is the registrar of the issue."
       },
       {
         "type": "p",
@@ -432,7 +441,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/matangi-rubber-ipo/2290/",
-    "updated": "Nov 26th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-26T23:37:00+05:30"
+    "updated": "Nov 27th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
   }
 }

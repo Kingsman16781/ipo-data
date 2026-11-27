@@ -1,0 +1,395 @@
+{
+  "schema": 1,
+  "parser": 4,
+  "id": 2384,
+  "name": "Vishwas Refoils & Consumer",
+  "companyName": "Vishwas Refoils & Consumer Ltd.",
+  "category": "SME",
+  "exchange": "BSE SME",
+  "status": "upcoming",
+  "rating": 1,
+  "sector": "Edible Oil",
+  "issue": {
+    "type": "Book Build Issue",
+    "priceLow": 85,
+    "priceHigh": 90,
+    "faceValue": 10,
+    "lot": 1600,
+    "sizeCr": 25.78,
+    "freshCr": 24.48,
+    "totalShares": 2864000,
+    "marketCapCr": 85.94,
+    "peIssue": 11.9,
+    "pePostIssue": 30.2,
+    "eps": 7.56,
+    "epsPostIssue": 2.98
+  },
+  "lotTiers": {
+    "retailMin": {
+      "shares": 3200,
+      "lots": 2,
+      "amount": 288000
+    },
+    "retailMax": {
+      "shares": 3200,
+      "lots": 2,
+      "amount": 288000
+    },
+    "sHniMin": {
+      "shares": 4800,
+      "lots": 3,
+      "amount": 432000
+    },
+    "bHniMin": {
+      "shares": 11200,
+      "lots": 7,
+      "amount": 1008000
+    }
+  },
+  "reservation": {
+    "qib": 532800,
+    "anchor": 798400,
+    "nii": 432000,
+    "sNii": 144000,
+    "bNii": 288000,
+    "retail": 956800,
+    "marketMaker": 144000
+  },
+  "dates": {
+    "anchorBid": "2026-12-02",
+    "open": "2026-12-03",
+    "close": "2026-12-07",
+    "boa": "2026-12-08",
+    "refund": "2026-12-09",
+    "dematCredit": "2026-12-09",
+    "listing": "2026-12-10",
+    "anchorLockIn50": "2027-01-07",
+    "anchorLockInRest": "2027-03-08"
+  },
+  "gmp": {
+    "low": 0,
+    "high": 0,
+    "estProfitPerLot": 0,
+    "updatedAt": "2026-11-27T13:56:00+05:30",
+    "trend": {
+      "direction": "Initial"
+    },
+    "history": [
+      {
+        "date": "2026-11-27",
+        "gmp": 0,
+        "gmpPct": 0,
+        "estListing": 90,
+        "estProfitPerLot": 0,
+        "updatedAt": "2026-11-27T17:55:00+05:30"
+      }
+    ]
+  },
+  "registrar": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "code": "MUFG_INTIME",
+    "email": "vishwasrefoils.smeipo@in.mpms.mufg.com"
+  },
+  "company": {
+    "summary": [
+      {
+        "type": "p",
+        "text": "Vishwas Refoils & Consumer IPO is a book-built issue of ₹25.78 crores. The issue is entirely a fresh issue of 28.64 lakh shares of ₹25.78 crore."
+      },
+      {
+        "type": "p",
+        "text": "Vishwas Refoils & Consumer IPO opens for subscription on Dec 3, 2026 and closes on Dec 7, 2026. The allotment for the Vishwas Refoils & Consumer IPO is expected to be finalized on Dec 8, 2026. Vishwas Refoils & Consumer IPO will list on the BSE SME with a tentative listing date fixed as Dec 10, 2026."
+      },
+      {
+        "type": "p",
+        "text": "Vishwas Refoils & Consumer IPO is set issue price band at ₹85 to ₹90 per share. The lot size for an application is 1,600 shares. The minimum amount of investment required by an individual investor (retail) is ₹2,88,000 (3,200 shares) (based on upper price). The minimum lot size for investment in HNI is 3 lots (4,800 shares), amounting to ₹4,32,000."
+      },
+      {
+        "type": "p",
+        "text": "Cumulative Capital Pvt.Ltd. is the book running lead manager and MUFG Intime India Pvt.Ltd. is the registrar of the issue. The Market Maker of the company is Market-Hub Stock Broking Pvt.Ltd."
+      },
+      {
+        "type": "p",
+        "text": "Refer to Vishwas Refoils & Consumer IPO RHP for detailed Information."
+      }
+    ],
+    "about": [
+      {
+        "type": "p",
+        "text": "Incorporated on March 18, 2023, Vishwas Refoils & Consumer Limited, is engaged in the processing, manufacturing, and packaging of edible oils. Its product range includes refined palmolein, sunflower, groundnut, cottonseed, corn, castor, soybean, and rice bran oils, along with filtered mustard oil and mild mustard oil. The company sells these products under its own brand, “ Vishwas ”, in various packaging formats, including pouches, bottles, jars, and tins. It also supplies edible oils in bulk to food processing businesses that require large quantities. Its products are used by households and businesses, including bakeries, snack manufacturers, hotels, restaurants, and caterers."
+      },
+      {
+        "type": "h",
+        "text": "Business Model:"
+      },
+      {
+        "type": "li",
+        "text": "Processing and value addition of refined edible oils"
+      },
+      {
+        "type": "li",
+        "text": "Manufacturing of filtered mustard oil (kachi ghani) and filtered mild mustard oil"
+      },
+      {
+        "type": "li",
+        "text": "Trading of Edible Oil."
+      },
+      {
+        "type": "p",
+        "text": "The company primarily sells its products through wholesalers and directly to food processing units. It has built relationships with wholesalers and retailers through regular business dealings and by focusing on product quality and customer satisfaction. Depending on market conditions, the company also trades in edible oils."
+      },
+      {
+        "type": "p",
+        "text": "The company adheres to food safety and quality standards and holds certifications, including ISO 22000:2018, ISO 9001:2015, and MSME ZED Gold Certification."
+      },
+      {
+        "type": "p",
+        "text": "As of March 31, 2026, the company had 15 permanent employees."
+      },
+      {
+        "type": "h",
+        "text": "Company Strengths:"
+      },
+      {
+        "type": "li",
+        "text": "Established supply and distribution network: The company has developed a supply chain covering the procurement, processing, packaging, and distribution of edible oils."
+      },
+      {
+        "type": "li",
+        "text": "Strong regional presence: It has established itself in the Gujarat edible oil market, particularly in Saurashtra and Ahmedabad."
+      },
+      {
+        "type": "li",
+        "text": "Diversified customer base: Its customers include wholesalers, food processing companies, bakeries, and snack manufacturers."
+      },
+      {
+        "type": "li",
+        "text": "Multiple product formats: The company offers edible oils in various pack sizes and formats, including bulk, allowing it to meet diverse customer requirements."
+      },
+      {
+        "type": "li",
+        "text": "Own brand: Products are sold under the “Vishwas” brand, helping the company build recognition in its target markets."
+      }
+    ],
+    "business": [
+      {
+        "type": "p",
+        "text": "Vishwas Refoils & Consumer Limited is engaged in the processing, refining, manufacturing and packaging of edible oils. Its product portfolio comprises a variety of refined oils, including palmolein, sunflower, groundnut, cottonseed, corn, castor, soybean and rice bran oil, as well as filtered and mild mustard oil."
+      },
+      {
+        "type": "p",
+        "text": "The company markets its products under its proprietary “Vishwas” brand, offering different packaging options such as pouches, bottles, jars and tins. In addition to retail packs, it supplies edible oils in bulk to food processing companies and other commercial customers. Its products cater to both household consumers and institutional buyers, including bakeries, snack manufacturers, hotels, restaurants and catering businesses."
+      },
+      {
+        "type": "p",
+        "text": "The company's distribution model primarily relies on wholesalers and direct supplies to food processing units. It has established business relationships with wholesalers and retailers through consistent engagement, product quality and customer-focused services. Apart from manufacturing and selling its own products, the company also undertakes edible oil trading based on prevailing market conditions."
+      },
+      {
+        "type": "p",
+        "text": "Vishwas Refoils & Consumer Limited follows established food safety and quality management practices and holds certifications such as ISO 22000:2018, ISO 9001:2015 and MSME ZED Gold Certification. As of March 31, 2026, the company employed 15 permanent employees."
+      },
+      {
+        "type": "h",
+        "text": "Company Strengths"
+      },
+      {
+        "type": "li",
+        "text": "Integrated supply chain and distribution capabilities: The company has developed an operating network encompassing edible oil procurement, processing, packaging and distribution."
+      },
+      {
+        "type": "li",
+        "text": "Established presence in Gujarat: It has built a market presence in Gujarat, with a particular focus on the Saurashtra region and Ahmedabad."
+      },
+      {
+        "type": "li",
+        "text": "Wide-ranging customer base: The company serves diverse customers, including wholesalers, food processing units, bakeries and snack manufacturing businesses."
+      },
+      {
+        "type": "li",
+        "text": "Flexible product and packaging portfolio: Its range of edible oils is available in multiple packaging formats and quantities, including bulk supplies, catering to different consumer and commercial requirements."
+      },
+      {
+        "type": "li",
+        "text": "Recognised proprietary brand: Marketing products under the “Vishwas” brand enables the company to develop brand awareness and strengthen its position in its target markets."
+      }
+    ],
+    "promoters": "Mandhiyani Deepak Daulatram, Honey Deepakkumar Mandhiyani",
+    "promoterHoldingPre": 84.34,
+    "address": "Plot No. 12 & 13, Survey No. 112/1, Ruda Transportnagar, Anandpar, Navagam, Behind Saat Hanuman Temple, Ahmedabad Highway, Rajkot, Gujarat",
+    "phone": "+919081063330",
+    "email": "cs@vishwasrefoils.com",
+    "website": "https://www.vishwasrefoils.com/"
+  },
+  "kpis": [
+    {
+      "asOf": "2026-03-31",
+      "roe": 45.91,
+      "roce": 33.86,
+      "debtEquity": 0.72,
+      "ronw": 45.91,
+      "patMargin": 1.63,
+      "ebitdaMargin": 2.5,
+      "priceToBook": 3.99,
+      "nav": 22.53
+    },
+    {
+      "asOf": "2026-06-30",
+      "roe": 4.61,
+      "roce": 4.27,
+      "debtEquity": 0.66,
+      "ronw": 4.61,
+      "patMargin": 1.15,
+      "ebitdaMargin": 2,
+      "priceToBook": 3.82,
+      "nav": 23.59
+    }
+  ],
+  "financials": {
+    "unit": "₹ Cr",
+    "periods": [
+      {
+        "label": "30 Jun 2026",
+        "date": "2026-06-30"
+      },
+      {
+        "label": "31 Mar 2026",
+        "date": "2026-03-31"
+      },
+      {
+        "label": "31 Mar 2025",
+        "date": "2025-03-31"
+      },
+      {
+        "label": "31 Mar 2024",
+        "date": "2024-03-31"
+      }
+    ],
+    "rows": [
+      {
+        "label": "Assets",
+        "values": [
+          29.6,
+          28.56,
+          20.06,
+          15.02
+        ]
+      },
+      {
+        "label": "Total Income",
+        "values": [
+          62.06,
+          310.27,
+          237.3,
+          79.79
+        ]
+      },
+      {
+        "label": "Profit After Tax",
+        "values": [
+          0.71,
+          5.06,
+          2.74,
+          0.73
+        ]
+      },
+      {
+        "label": "EBITDA",
+        "values": [
+          1.24,
+          7.74,
+          4.55,
+          1.3
+        ]
+      },
+      {
+        "label": "NET Worth",
+        "values": [
+          15.74,
+          3.87,
+          6.95,
+          15.04
+        ]
+      },
+      {
+        "label": "Reserves and Surplus",
+        "values": [
+          9.09,
+          8.38,
+          2.76,
+          0.73
+        ]
+      },
+      {
+        "label": "Total Borrowing",
+        "values": [
+          10.44,
+          10.79,
+          9.95,
+          8.47
+        ]
+      }
+    ]
+  },
+  "objects": [
+    {
+      "text": "To fund capital expenditure for setting up new facility for refining edible oil",
+      "amountCr": 19.3
+    },
+    {
+      "text": "General corporate purposes"
+    },
+    {
+      "text": "Total",
+      "amountCr": 19.3
+    }
+  ],
+  "peers": {
+    "columns": [
+      "Company Name",
+      "EPS (Basic)",
+      "EPS (Diluted)",
+      "NAV (₹ per share)",
+      "P/E (x)",
+      "RoNW (%)",
+      "Financial statements"
+    ],
+    "rows": [
+      [
+        "Vishwas Refoils & Consumer Limited",
+        "7.90",
+        "7.90",
+        "22.53",
+        "",
+        "45.91",
+        "Restated"
+      ],
+      [
+        "Kriti Nutrients Ltd",
+        "6.77",
+        "6.77",
+        "45.73",
+        "9.40",
+        "15.35",
+        "Consolidated"
+      ],
+      [
+        "M. K. Proteins Ltd",
+        "0.18",
+        "0.18",
+        "2.03",
+        "21.61",
+        "9.37",
+        ""
+      ]
+    ]
+  },
+  "documents": {
+    "drhp": "https://www.bsesme.com/download/363563/SME_IPO%20InPrinciple/DRHP_Draft_Abridged_Prospectus_VRCL_20260822070230.zip",
+    "rhp": "https://vishwasrefoils.com/static/media/RHP.20261125.pdf"
+  },
+  "source": {
+    "url": "https://www.investorgain.com/gmp/vishwas-refoils-consumer-ipo/2384/",
+    "updated": "Nov 27th 2026 05:55 PM",
+    "gmpUpdatedAt": "2026-11-27T13:56:00+05:30"
+  }
+}

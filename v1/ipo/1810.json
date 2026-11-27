@@ -72,22 +72,22 @@
     "anchorLockInRest": "2027-03-01"
   },
   "gmp": {
-    "current": 7,
-    "pct": 3.66,
-    "low": 7,
+    "current": 4,
+    "pct": 2.09,
+    "low": 4,
     "high": 21,
-    "estListing": 198,
-    "estProfitPerLot": 546,
-    "updatedAt": "2026-11-26T23:37:00+05:30",
+    "estListing": 195,
+    "estProfitPerLot": 312,
+    "updatedAt": "2026-11-27T14:02:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 12,
-      "last": 7,
-      "change": -5,
-      "range": 14,
-      "upPct": 28.57,
-      "downPct": 28.57,
-      "sessions": 8
+      "last": 4,
+      "change": -8,
+      "range": 17,
+      "upPct": 25,
+      "downPct": 37.5,
+      "sessions": 9
     },
     "history": [
       {
@@ -158,47 +158,57 @@
         "sauda": "400",
         "sub": 1.1,
         "updatedAt": "2026-11-26T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-27",
+        "gmp": 4,
+        "gmpPct": 2.09,
+        "estListing": 195,
+        "estProfitPerLot": 312,
+        "sauda": "200",
+        "sub": 1.49,
+        "updatedAt": "2026-11-27T18:02:00+05:30"
       }
     ]
   },
   "subscription": {
-    "total": 1.1,
-    "asOf": "2026-11-26T17:56:00+05:30",
+    "total": 1.49,
+    "asOf": "2026-11-27T17:56:00+05:30",
     "categories": [
       {
         "key": "qib",
         "times": 1,
         "offered": 5666321,
-        "bid": 5666310,
-        "amountCr": 108.23
+        "bid": 5667402,
+        "amountCr": 108.25
       },
       {
         "key": "nii",
-        "times": 0.41,
+        "times": 0.74,
         "offered": 2833161,
-        "bid": 1159236,
-        "amountCr": 22.14
+        "bid": 2097342,
+        "amountCr": 40.06
       },
       {
         "key": "bNii",
-        "times": 0.34,
+        "times": 0.61,
         "offered": 1888774,
-        "bid": 645918,
-        "amountCr": 12.34
+        "bid": 1151358,
+        "amountCr": 21.99
       },
       {
         "key": "sNii",
-        "times": 0.54,
+        "times": 1,
         "offered": 944387,
-        "bid": 513318,
-        "amountCr": 9.8
+        "bid": 945984,
+        "amountCr": 18.07
       },
       {
         "key": "retail",
-        "times": 2.44,
+        "times": 4.09,
         "offered": 1888774,
-        "bid": 4603950,
-        "amountCr": 87.94
+        "bid": 7727070,
+        "amountCr": 147.59
       }
     ],
     "byDay": [
@@ -208,6 +218,13 @@
         "qib": 1,
         "nii": 0.41,
         "retail": 2.44
+      },
+      {
+        "date": "2026-11-27",
+        "sub": 1.49,
+        "qib": 1,
+        "nii": 0.74,
+        "retail": 4.09
       }
     ],
     "applications": {
@@ -215,28 +232,28 @@
         {
           "key": "bNii",
           "label": "BNIIs",
-          "applied": 108,
+          "applied": 199,
           "reserved": 1730,
-          "times": 0.06
+          "times": 0.12
         },
         {
           "key": "sNii",
           "label": "SNIIs",
-          "applied": 433,
+          "applied": 787,
           "reserved": 865,
-          "times": 0.5
+          "times": 0.91
         },
         {
           "key": "retail",
           "label": "Retail",
-          "applied": 46439,
+          "applied": 78079,
           "reserved": 24215,
-          "times": 1.92
+          "times": 3.22
         }
       ],
       "source": "ipoji.com",
-      "total": 47010,
-      "asOf": "2026-11-26T17:55:00+05:30"
+      "total": 79066,
+      "asOf": "2026-11-27T17:55:00+05:30"
     }
   },
   "listing": {
@@ -531,7 +548,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/foodlink-fb-ipo/1810/",
-    "updated": "Nov 26th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-26T23:37:00+05:30"
+    "updated": "Nov 27th 2026 06:02 PM",
+    "gmpUpdatedAt": "2026-11-27T14:02:00+05:30"
   }
 }

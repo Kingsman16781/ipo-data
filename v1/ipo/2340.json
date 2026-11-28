@@ -69,17 +69,17 @@
     "low": 3,
     "high": 3,
     "estListing": 114,
-    "estProfitPerLot": 405,
-    "updatedAt": "2026-11-27T23:37:00+05:30",
+    "estProfitPerLot": 202.5,
+    "updatedAt": "2026-11-28T13:37:00+05:30",
     "trend": {
-      "direction": "Initial",
+      "direction": "Stable",
       "first": 3,
-      "last": 3,
-      "change": 0,
-      "range": 0,
+      "last": 1,
+      "change": -2,
+      "range": 2,
       "upPct": 0,
-      "downPct": 0,
-      "sessions": 1
+      "downPct": 100,
+      "sessions": 2
     },
     "history": [
       {
@@ -90,6 +90,15 @@
         "estProfitPerLot": 405,
         "sauda": "300",
         "updatedAt": "2026-11-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-28",
+        "gmp": 1.5,
+        "gmpPct": 1.35,
+        "estListing": 112.5,
+        "estProfitPerLot": 202.5,
+        "sauda": "200",
+        "updatedAt": "2026-11-28T17:02:00+05:30"
       }
     ]
   },
@@ -356,7 +365,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/swara-baby-products-ipo/2340/",
-    "updated": "Nov 27th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-27T23:37:00+05:30"
+    "updated": "Nov 28th 2026 05:02 PM",
+    "gmpUpdatedAt": "2026-11-28T13:37:00+05:30"
   }
 }

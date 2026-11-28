@@ -19,16 +19,16 @@
   "gmp": {
     "low": 0,
     "high": 0,
-    "updatedAt": "2026-11-27T05:55:00+05:30",
+    "updatedAt": "2026-11-28T05:55:00+05:30",
     "trend": {
       "direction": "Initial"
     },
     "history": [
       {
-        "date": "2026-11-27",
+        "date": "2026-11-28",
         "gmp": 0,
         "gmpPct": 0,
-        "updatedAt": "2026-11-27T05:55:00+05:30"
+        "updatedAt": "2026-11-28T05:55:00+05:30"
       }
     ]
   },
@@ -302,7 +302,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/integris-medtech-ipo/2029/",
-    "updated": "Nov 27th 2026 05:55 AM",
-    "gmpUpdatedAt": "2026-11-27T05:55:00+05:30"
+    "updated": "Nov 28th 2026 05:55 AM",
+    "gmpUpdatedAt": "2026-11-28T05:55:00+05:30"
   }
 }

@@ -69,16 +69,16 @@
     "high": 24,
     "estListing": 85,
     "estProfitPerLot": 4500,
-    "updatedAt": "2026-11-27T23:37:00+05:30",
+    "updatedAt": "2026-11-28T13:37:00+05:30",
     "trend": {
       "direction": "Stable",
       "first": 23,
       "last": 20,
       "change": -3,
       "range": 4,
-      "upPct": 20,
-      "downPct": 40,
-      "sessions": 6
+      "upPct": 16.67,
+      "downPct": 33.33,
+      "sessions": 7
     },
     "history": [
       {
@@ -131,6 +131,15 @@
         "estProfitPerLot": 4500,
         "sauda": "3400",
         "updatedAt": "2026-11-27T23:37:00+05:30"
+      },
+      {
+        "date": "2026-11-28",
+        "gmp": 20,
+        "gmpPct": 30.77,
+        "estListing": 85,
+        "estProfitPerLot": 4500,
+        "sauda": "3400",
+        "updatedAt": "2026-11-28T17:02:00+05:30"
       }
     ]
   },
@@ -411,7 +420,7 @@
   },
   "source": {
     "url": "https://www.investorgain.com/gmp/monomark-engineering-ipo/2232/",
-    "updated": "Nov 27th 2026 11:37 PM",
-    "gmpUpdatedAt": "2026-11-27T23:37:00+05:30"
+    "updated": "Nov 28th 2026 05:02 PM",
+    "gmpUpdatedAt": "2026-11-28T13:37:00+05:30"
   }
 }
